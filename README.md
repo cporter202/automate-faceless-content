@@ -8,13 +8,41 @@ Learn how to automate faceless short-form + long-form video content and dominate
 
 ---
 
+## 🎓 **NEW: Complete Course Available!**
+
+**[👉 Start The Faceless Video Mastery Course →](./course/README.md)**
+
+**Transform from Beginner to Profitable Content Creator in 4-6 Weeks**
+
+- ✅ Create professional videos in 5 minutes
+- ✅ Get monetized on all platforms in 2-3 weeks  
+- ✅ Generate $1,000+/month in passive income
+- ✅ Master every [Syllaby.io](https://syllaby.io/?via=chris56) feature
+- ✅ Build a scalable content business
+
+**[Get Started with the Course →](./course/README.md)** | **[Get Syllaby.io Free Trial →](https://syllaby.io/?via=chris56)**
+
+---
+
 ## 🚀 Quick Start
 
-**New to faceless video content?** Start here:
+**New to faceless video content?** Choose your path:
+
+### 🎓 **Option 1: Complete Course (Recommended)**
+**Best for**: Complete beginners who want step-by-step guidance
+
+**[👉 Start The Faceless Video Mastery Course →](./course/README.md)**
+
+**10 Modules | 4-6 Weeks | From Zero to Profitable**
+
+### 📚 **Option 2: Self-Guided Learning**
+**Best for**: Those who prefer to learn at their own pace
 
 1. [Getting Started Guide](./guides/getting-started/introduction.md) - Learn the basics
-2. [Account Setup](./guides/getting-started/account-setup.md) - Create your Syllaby account
+2. [Account Setup](./guides/getting-started/account-setup.md) - Create your [Syllaby.io account](https://syllaby.io/?via=chris56)
 3. [Your First Video](./guides/getting-started/your-first-video.md) - Create your first faceless video in 5 minutes
+
+**👉 [Get Your Free Syllaby.io Trial →](https://syllaby.io/?via=chris56)**
 
 ---
 
