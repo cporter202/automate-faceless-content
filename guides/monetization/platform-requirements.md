@@ -149,3 +149,4 @@ Complete guide to getting monetized on YouTube, TikTok, Instagram, and Facebook.
 
 **Ready to get monetized?** [Start here →](./getting-monetized-fast.md)
 
+

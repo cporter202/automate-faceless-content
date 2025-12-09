@@ -181,3 +181,4 @@ Create eye-catching thumbnails that get clicks using AI-powered generation.
 
 *Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to create click-worthy thumbnails!*
 
+

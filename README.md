@@ -33,6 +33,14 @@ Learn how to automate faceless short-form + long-form video content and dominate
 
 [![GitHub stars](https://img.shields.io/github/stars/cporter202/automate-faceless-content?style=social&label=Star)](https://github.com/cporter202/automate-faceless-content)
 
+---
+
+### ☕ If This Repo Has Helped You, Consider Buying Me a Coffee!
+
+**Your support keeps me creating valuable repos and keeps everything up to date!**
+
+<a href="https://buymeacoffee.com/viralwavestudio" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" /></a>
+
 </div>
 
 ---

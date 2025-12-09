@@ -421,3 +421,4 @@ This is the **exact strategy** successful creators use to get monetized in 2-3 w
 
 *Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to start creating the content that gets you monetized!*
 
+

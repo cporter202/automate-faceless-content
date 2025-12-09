@@ -364,3 +364,4 @@ A: Yes, if you add them in the CTA section, AI will include them.
 
 *Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) and start using AI Script Assistant to save hours!*
 
+

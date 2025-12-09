@@ -241,3 +241,4 @@ A: AI Visuals - most versatile and easiest
 
 **Ready to create?** Start with [Your First Video](../getting-started/your-first-video.md)
 
+

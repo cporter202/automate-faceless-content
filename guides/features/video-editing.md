@@ -180,3 +180,4 @@ Complete guide to editing your videos in Syllaby.io for perfect results.
 
 *Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to start editing your videos!*
 
+

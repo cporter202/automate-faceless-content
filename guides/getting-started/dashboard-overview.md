@@ -80,3 +80,4 @@ Now that you understand the dashboard:
 
 **Ready to create?** [Start your first video →](./your-first-video.md)
 
+

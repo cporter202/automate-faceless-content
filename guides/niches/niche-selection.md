@@ -267,3 +267,4 @@ Complete guide to choosing the right niche for your faceless video channel.
 
 *Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to research niches with real data!*
 
+

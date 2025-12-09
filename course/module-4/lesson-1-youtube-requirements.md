@@ -270,3 +270,4 @@ The YouTube Partner Program is how you monetize your YouTube channel. Once appro
 
 *Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to start creating the content that gets you to 1,000 subscribers and 4,000 watch hours!*
 
+

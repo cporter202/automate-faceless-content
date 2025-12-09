@@ -372,3 +372,4 @@ Getting monetized isn't just about meeting requirements—it's about getting app
 
 *Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to create the content that gets you monetized on all platforms!*
 
+

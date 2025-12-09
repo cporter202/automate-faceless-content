@@ -194,3 +194,4 @@ A: Bulk scheduler uses one style, but you can create separate batches
 
 **Ready to plan your month?** Start with [Monthly Workflow →](../workflows/monthly-workflow.md)
 
+

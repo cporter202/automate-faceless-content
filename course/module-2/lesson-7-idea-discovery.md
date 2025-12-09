@@ -316,3 +316,4 @@ Unlike AI-generated ideas, Idea Discovery pulls from **real third-party data**:
 
 *Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) and start using Idea Discovery to find content that performs!*
 
+
