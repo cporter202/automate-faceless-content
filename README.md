@@ -1,3 +1,5 @@
+<div align="center">
+
 # 🎬 Complete Guide and Full Learning Course to Automating Faceless Video Content
 
 ### 🏷️ Course Information
@@ -22,6 +24,8 @@ Learn how to automate faceless short-form + long-form video content and dominate
 **Your star helps others discover this resource and motivates continued improvements!**
 
 [![GitHub stars](https://img.shields.io/github/stars/cporter202/automate-faceless-content?style=social&label=Star)](https://github.com/cporter202/automate-faceless-content)
+
+</div>
 
 ---
 
