@@ -1,5 +1,3 @@
-<div align="center">
-
 # 🎬 Complete Guide and Full Learning Course to Automating Faceless Video Content
 
 ### 🏷️ Course Information
@@ -19,26 +17,22 @@ Learn how to automate faceless short-form + long-form video content and dominate
 
 ---
 
-<div align="center">
-
 ### ⭐ If You Find This Course/Guide Helpful, Please Star This Repo! ⭐
 
 **Your star helps others discover this resource and motivates continued improvements!**
 
 [![GitHub stars](https://img.shields.io/github/stars/cporter202/automate-faceless-content?style=social&label=Star)](https://github.com/cporter202/automate-faceless-content)
 
-</div>
-
 ---
 
-## 🎓 **NEW: Complete Course Available!**
+## 🎓 NEW: Complete Course Available!
 
 **[👉 Start The Faceless Video Mastery Course →](./course/README.md)**
 
 **Transform from Beginner to Profitable Content Creator in 4-6 Weeks**
 
 - ✅ Create professional videos in 5 minutes
-- ✅ Get monetized on all platforms in 2-3 weeks  
+- ✅ Get monetized on all platforms in 2-3 weeks
 - ✅ Generate $1,000+/month in passive income
 - ✅ Master every [Syllaby.io](https://syllaby.io/?via=chris56) feature
 - ✅ Build a scalable content business
@@ -51,7 +45,7 @@ Learn how to automate faceless short-form + long-form video content and dominate
 
 **New to faceless video content?** Choose your path:
 
-### 🎓 **Option 1: Complete Course (Recommended)**
+### 🎓 Option 1: Complete Course (Recommended)
 **Best for**: Complete beginners who want step-by-step guidance
 
 **[👉 Start The Faceless Video Mastery Course →](./course/README.md)**
@@ -71,7 +65,7 @@ Learn how to automate faceless short-form + long-form video content and dominate
 - [Module 9: Troubleshooting & Advanced Tips](./course/module-9/README.md)
 - [Module 10: Building Your Empire](./course/module-10/README.md)
 
-### 📚 **Option 2: Self-Guided Learning**
+### 📚 Option 2: Self-Guided Learning
 **Best for**: Those who prefer to learn at their own pace
 
 1. [Getting Started Guide](./guides/getting-started/introduction.md) - Learn the basics
@@ -203,7 +197,7 @@ Additional resources and support
 
 1. [Multi-Platform Domination](./guides/strategies/multi-platform.md)
 2. [Multi-Channel Management](./guides/workflows/multi-channel.md)
-3. [Content Repurposing](./guides/strategies/content-repurposing.md)
+3. [Content Repurposing](./guides/workflows/content-repurposing.md)
 4. [Advanced Monetization](./guides/monetization/complete-guide.md)
 5. [Community Building](./guides/strategies/community-building.md)
 
@@ -248,7 +242,7 @@ No credit card required for the trial. Cancel anytime.
 ✅ **Scaling**: Build multiple channels and revenue streams  
 ✅ **Strategies**: Proven tactics from successful creators  
 ✅ **Tools**: Master every Syllaby feature  
-✅ **Workflows**: Step-by-step processes for every scenario  
+✅ **Workflows**: Step-by-step processes for every scenario
 
 ---
 
@@ -288,7 +282,7 @@ No credit card required for the trial. Cancel anytime.
 
 ## 🤝 Contributing
 
-Found a better workflow or strategy? Have a success story to share? 
+Found a better workflow or strategy? Have a success story to share?
 
 This guide is designed to help the community. Feel free to contribute improvements!
 
@@ -306,7 +300,7 @@ This guide contains affiliate links. Using the provided link supports the mainte
 
 ---
 
-**Last Updated**: December 2024
+**Last Updated**: December 2025
 
 **Version**: 2.0 - Complete Multi-File Guide Structure
 
@@ -318,8 +312,6 @@ This guide contains affiliate links. Using the provided link supports the mainte
 
 ---
 
-<div align="center">
-
 ## 👨‍💻 Follow the Creator
 
 **Follow [Chris Porter](https://www.facebook.com/chris.porter.7731) for daily GitHub repo posts!**
@@ -327,5 +319,3 @@ This guide contains affiliate links. Using the provided link supports the mainte
 [![Follow Chris Porter](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1764955188913-Screenshot%202025-12-05%20121938.png?alt=media&token=51573aeb-6618-4970-ab10-39e8099d0c23)](https://www.facebook.com/chris.porter.7731)
 
 **[👉 Follow on Facebook →](https://www.facebook.com/chris.porter.7731)**
-
-</div>
