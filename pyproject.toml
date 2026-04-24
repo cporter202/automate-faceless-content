@@ -4,9 +4,9 @@ build-backend = "hatchling.build"
 
 [project]
 name = "faceless-content-cli"
-version = "0.1.0"
+version = "0.1.1"
 description = "🎬 Automate faceless video creation: idea → script → voiceover → video → scheduled posts"
-readme = "README.md"
+readme = "CLI_README.md"
 license = "MIT"
 requires-python = ">=3.10"
 authors = [{name = "Bonanza Labs", email = "passiveassets@proton.me"}]
@@ -21,8 +21,10 @@ dependencies = [
     "rich>=13.0",
     "requests>=2.28",
 ]
-optional-dependencies.tts = ["edge-tts>=6.1"]
-optional-dependencies.video = ["ffmpeg-python>=0.2"]
+
+[project.optional-dependencies]
+tts = ["edge-tts>=6.1"]
+video = ["ffmpeg-python>=0.2"]
 
 [project.scripts]
 faceless = "faceless_content_cli.cli:main"

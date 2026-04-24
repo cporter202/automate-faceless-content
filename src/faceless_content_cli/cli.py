@@ -35,7 +35,7 @@ DEFAULT_CONFIG = {
     "video_duration": 60,
     "platforms": ["youtube", "tiktok", "instagram", "facebook"],
     "llm_provider": "ollama",
-    "ollama_model": "gemma3:12b",
+    "ollama_model": "glm-5.1:cloud",
     "ollama_host": "http://localhost:11434",
     "output_dir": "./faceless-output",
     "schedule_interval": 30,  # minutes between posts
@@ -91,7 +91,7 @@ def generate_script(topic, cfg):
         resp = requests.post(
             f"{cfg.get('ollama_host', 'http://localhost:11434')}/api/generate",
             json={
-                "model": cfg.get("ollama_model", "gemma3:12b"),
+                "model": cfg.get("ollama_model", "glm-5.1:cloud"),
                 "prompt": prompt,
                 "stream": False,
                 "options": {"num_predict": 2048},
@@ -332,6 +332,45 @@ def show_niches():
 
 # ── CLI ─────────────────────────────────────────────────────────────────────
 
+SLIDESHOW_PROMPT = """You are a viral TikTok/Instagram slideshow content creator. Generate {num_slides} slide hooks for a faceless slideshow about: {topic}
+
+Each slide should:
+- Be under 10 words
+- Start with a hook word or emoji
+- Build curiosity/suspense
+- The last slide should be a CTA (follow/save/share)
+
+Output format: one hook per line, no numbering."""
+
+
+def generate_slideshow(topic, num_slides, cfg):
+    """Generate slide hooks for a TikTok slideshow."""
+    provider = cfg.get("llm_provider", "ollama")
+    prompt = SLIDESHOW_PROMPT.format(num_slides=num_slides, topic=topic)
+    if provider == "ollama":
+        import requests
+        host = cfg.get('ollama_host', 'http://localhost:11434')
+        model = cfg.get('ollama_model', 'glm-5.1:cloud')
+        resp = requests.post(f"{host}/api/chat", json={"model": model, "messages": [{"role": "user", "content": prompt}], "stream": False, "options": {"num_predict": 1024}}, timeout=60)
+        resp.raise_for_status()
+        data = resp.json()
+        text = data.get("message", {}).get("content", "") or data.get("response", "")
+        text = text.strip()
+    elif provider == "openai":
+        # Also fix the model for chat endpoint
+        host = cfg.get('ollama_host', 'http://localhost:11434')
+        model = cfg.get('ollama_model', 'glm-5.1:cloud')
+        resp = requests.post(f"{host}/api/chat", json={"model": model, "messages": [{"role": "system", "content": "You create viral TikTok slideshow hooks."}, {"role": "user", "content": prompt}], "stream": False, "options": {"num_predict": 1024}}, timeout=60)
+        resp.raise_for_status()
+        data = resp.json()
+        text = data.get("message", {}).get("content", "") or data.get("response", "")
+        text = text.strip()
+    else:
+        raise ValueError(f"Unknown provider: {provider}")
+    slides = [line.strip().lstrip("0123456789.-) ") for line in text.splitlines() if line.strip()]
+    return slides[:num_slides]
+
+
 def main():
     parser = argparse.ArgumentParser(
         description="🎬 Faceless Content CLI — Idea → Script → Video → Post on autopilot",
@@ -348,8 +387,11 @@ Examples:
     subparsers = parser.add_subparsers(dest="command", help="Command")
 
     # Single video
-    subparsers.add_parser("video", help="Generate a single video")
-    parser.add_argument("topic", nargs="?", help="Video topic")
+    video_parser = subparsers.add_parser("video", help="Generate a single video")
+    video_parser.add_argument("topic", nargs="?", help="Video topic")
+
+    # Default topic for backward compat
+    parser.add_argument("--topic", dest="default_topic", help="Video topic (shortcut)")
 
     # Bulk
     bulk_parser = subparsers.add_parser("bulk", help="Generate multiple videos from a file")
@@ -365,13 +407,18 @@ Examples:
     # Ideas
     ideas_parser = subparsers.add_parser("ideas", help="Generate video ideas for a niche")
     ideas_parser.add_argument("niche", choices=list(TOP_NICHES.keys()), help="Niche")
+    slideshow_parser = subparsers.add_parser("slideshow", help="Generate TikTok/Instagram slideshow hooks")
+    slideshow_parser.add_argument("topic", help="Slideshow topic")
+    slideshow_parser.add_argument("--slides", "-n", type=int, default=5, help="Number of slides")
+    slideshow_parser.add_argument("--format", choices=["tiktok", "instagram", "pinterest"], default="tiktok", help="Target platform")
 
     args = parser.parse_args()
     cfg = load_config()
 
     # Default: generate single video from topic
-    if args.topic and not args.command:
+    if args.default_topic and not args.command:
         args.command = "video"
+        args.topic = args.default_topic
 
     if args.command == "niches":
         show_niches()
@@ -393,7 +440,6 @@ Examples:
             log("✅ Config updated", style="green")
         else:
             log(Panel(json.dumps(cfg, indent=2), title="Faceless CLI Config", border_style="cyan"))
-
     elif args.command == "ideas":
         niche = args.niche
         data = TOP_NICHES[niche]
@@ -401,6 +447,20 @@ Examples:
         log(f"CPM: {data['cpm']} | Difficulty: {data['difficulty']} | Monetization: {data['monetization_time']}\n")
         for i, idea in enumerate(data["topics"], 1):
             log(f"  {i}. {idea}")
+
+    elif args.command == "slideshow":
+        num = args.slides
+        fmt = args.format
+        log(Panel(f"[bold]📱 Generating {num} {fmt.title()} slideshow slides[/bold]\nTopic: {args.topic}", border_style="cyan"))
+        hooks = generate_slideshow(args.topic, num, cfg)
+        log("[bold]📋 Slide Hooks:[/bold]")
+        for i, hook in enumerate(hooks, 1):
+            log(f"  {i}. {hook}")
+        output_dir = Path(cfg.get("output_dir", "./faceless-output"))
+        slideshow_file = output_dir / f"slideshow_{args.topic.replace(' ', '-')[:30]}.txt"
+        slideshow_file.parent.mkdir(parents=True, exist_ok=True)
+        slideshow_file.write_text("\n".join(hooks))
+        log(f"[green]✅ Saved to {slideshow_file}[/green]")
 
     elif args.command == "bulk":
         topics_file = Path(args.topics_file)
