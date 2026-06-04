@@ -1,13 +1,13 @@
 # Lesson 1: Dashboard Deep Dive
 
 **Duration**: 20 minutes  
-**Goal**: Master the Syllaby.io dashboard for efficient content creation
+**Goal**: Master the ViralWave Studio dashboard for efficient content creation
 
 ---
 
 ## Dashboard Overview
 
-The [Syllaby.io](https://syllaby.io/?via=chris56) dashboard is your command center. Understanding every element helps you work faster and more efficiently.
+The [ViralWave Studio](https://viralwavestudio.com) dashboard is your command center. Understanding every element helps you work faster and more efficiently.
 
 ---
 
@@ -330,7 +330,7 @@ The [Syllaby.io](https://syllaby.io/?via=chris56) dashboard is your command cent
 ## Resources
 
 - [Dashboard Overview Guide](../../../guides/getting-started/dashboard-overview.md) - Detailed guide
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Explore the dashboard
+- [ViralWave Studio Platform](https://viralwavestudio.com) - Explore the dashboard
 - [Your First Video Guide](../../../guides/getting-started/your-first-video.md) - Start creating
 
 ---
@@ -339,7 +339,7 @@ The [Syllaby.io](https://syllaby.io/?via=chris56) dashboard is your command cent
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) and explore the dashboard to master it!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) and explore the dashboard to master it!*
 
 
 

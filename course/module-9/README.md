@@ -41,7 +41,7 @@ By the end of this module, you will have:
 - [Troubleshooting Guide](../../../guides/resources/troubleshooting.md)
 - [Credit Management Guide](../../../guides/resources/credit-management.md)
 - [FAQ](../../../guides/resources/faq.md)
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56)
+- [ViralWave Studio Platform](https://viralwavestudio.com)
 
 ---
 

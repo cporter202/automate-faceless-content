@@ -2,7 +2,7 @@
 
 ## Step 1: Create Your Free Account
 
-1. Visit [Syllaby.io](https://syllaby.io/?via=chris56)
+1. Visit [ViralWave Studio](https://viralwavestudio.com)
 2. Click "Sign Up" or "Start Free Trial"
 3. Enter your email address
 4. Create a password
@@ -12,7 +12,7 @@
 
 ## Step 2: Choose Your Plan
 
-Syllaby offers flexible pricing:
+ViralWave Studio offers flexible pricing:
 
 - **Free Trial**: Test all features
 - **Starter Plan**: $25/month - Perfect for beginners

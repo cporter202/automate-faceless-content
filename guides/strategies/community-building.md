@@ -126,11 +126,11 @@ Build engaged community that drives growth and revenue.
 
 - [Growth Strategies Guide](./growth-strategies.md) - Growth tactics
 - [Content Strategies Guide](./content-strategies.md) - Content planning
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Create engaging content
+- [ViralWave Studio Platform](https://viralwavestudio.com) - Create engaging content
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to build your community!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) to build your community!*
 
 
 

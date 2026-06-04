@@ -1,13 +1,13 @@
-# Module 2: Mastering Syllaby.io - The Complete Tool
+# Module 2: Mastering ViralWave Studio - The Complete Tool
 
 **Duration**: 3 hours  
-**Goal**: Become a Syllaby.io power user
+**Goal**: Become a ViralWave Studio power user
 
 ---
 
 ## Module Overview
 
-In this module, you'll master every feature of [Syllaby.io](https://syllaby.io/?via=chris56). By the end, you'll be creating professional videos in minutes, not hours.
+In this module, you'll master every feature of [ViralWave Studio](https://viralwavestudio.com). By the end, you'll be creating professional videos in minutes, not hours.
 
 **This module is critical** - mastery here determines your success.
 
@@ -42,7 +42,7 @@ By the end of this module, you will have:
 - [Faceless Video Generator Guide](../../../guides/features/faceless-video-generator.md)
 - [Bulk Scheduler Guide](../../../guides/features/bulk-scheduler.md)
 - [Video Editing Guide](../../../guides/features/video-editing.md)
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56)
+- [ViralWave Studio Platform](https://viralwavestudio.com)
 
 ---
 
@@ -52,7 +52,7 @@ By the end of this module, you will have:
 
 ---
 
-**Ready to master Syllaby.io?** [Begin Lesson 1 →](./lesson-1-dashboard.md)
+**Ready to master ViralWave Studio?** [Begin Lesson 1 →](./lesson-1-dashboard.md)
 
 
 

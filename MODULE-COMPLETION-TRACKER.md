@@ -51,7 +51,7 @@
 
 ---
 
-## Module 2: Mastering Syllaby.io 🟡
+## Module 2: Mastering ViralWave Studio 🟡
 
 **Status**: 🟡 **IN PROGRESS** (3/8 lessons)
 

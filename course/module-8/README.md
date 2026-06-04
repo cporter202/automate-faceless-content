@@ -42,7 +42,7 @@ By the end of this module, you will have:
 - [TikTok Guide](../../../guides/platforms/tiktok-guide.md)
 - [Instagram Guide](../../../guides/platforms/instagram-guide.md)
 - [Facebook Guide](../../../guides/platforms/facebook-guide.md)
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56)
+- [ViralWave Studio Platform](https://viralwavestudio.com)
 
 ---
 

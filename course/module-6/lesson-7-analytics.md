@@ -256,7 +256,7 @@
 ## Resources
 
 - [Analytics Guide](../../../guides/resources/analytics-guide.md) - Complete guide
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Create content that performs
+- [ViralWave Studio Platform](https://viralwavestudio.com) - Create content that performs
 - [Optimization Strategies](../../../guides/strategies/optimization-strategies.md) - More tips
 
 ---
@@ -265,7 +265,7 @@
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to create content optimized by analytics!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) to create content optimized by analytics!*
 
 
 

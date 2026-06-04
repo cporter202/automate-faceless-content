@@ -47,7 +47,7 @@ Complete guide to building profitable affiliate marketing income.
 
 ---
 
-### Using [Syllaby.io](https://syllaby.io/?via=chris56)
+### Using [ViralWave Studio](https://viralwavestudio.com)
 
 **Method 1: URL to Video**:
 - Paste product URL
@@ -123,11 +123,11 @@ Complete guide to building profitable affiliate marketing income.
 
 - [Complete Monetization Guide](./complete-guide.md) - Full guide
 - [Revenue Streams Explained](./revenue-streams.md) - All streams
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Create affiliate content
+- [ViralWave Studio Platform](https://viralwavestudio.com) - Create affiliate content
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to create affiliate content that converts!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) to create affiliate content that converts!*
 
 
 

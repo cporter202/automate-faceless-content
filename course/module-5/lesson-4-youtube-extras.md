@@ -169,7 +169,7 @@
 - Channel store
 - Consistent promotion
 
-**Pro Tip**: Use [Syllaby.io](https://syllaby.io/?via=chris56) to create product promotion videos.
+**Pro Tip**: Use [ViralWave Studio](https://viralwavestudio.com) to create product promotion videos.
 
 ---
 
@@ -269,7 +269,7 @@
 ## Resources
 
 - [YouTube Monetization Guide](../../../guides/monetization/youtube-monetization.md) - Detailed guide
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Create content that drives revenue
+- [ViralWave Studio Platform](https://viralwavestudio.com) - Create content that drives revenue
 
 ---
 
@@ -277,7 +277,7 @@
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to create content that maximizes YouTube revenue!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) to create content that maximizes YouTube revenue!*
 
 
 

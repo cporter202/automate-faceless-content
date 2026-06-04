@@ -59,7 +59,7 @@
 ### 2. Track Expenses
 
 **What to Track**:
-- [Syllaby.io](https://syllaby.io/?via=chris56) subscription
+- [ViralWave Studio](https://viralwavestudio.com) subscription
 - Equipment
 - Software
 - Team costs
@@ -111,7 +111,7 @@
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to build your business legally!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) to build your business legally!*
 
 
 

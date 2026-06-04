@@ -34,7 +34,7 @@
 - Branded appearance
 
 **Why It's Unique**:
-- Only available on [Syllaby.io](https://syllaby.io/?via=chris56)
+- Only available on [ViralWave Studio](https://viralwavestudio.com)
 - Other tools can't do this
 - True character consistency
 - Professional quality
@@ -312,7 +312,7 @@
 ## Key Takeaways
 
 1. **Character consistency** = brand recognition
-2. **Only on Syllaby.io** - unique feature
+2. **Only on ViralWave Studio** - unique feature
 3. **Use same character** across all videos
 4. **Builds brand identity** over time
 5. **Professional appearance** without showing face
@@ -333,7 +333,7 @@
 ## Resources
 
 - [Character Consistency Guide](../../../guides/features/character-consistency.md) - Detailed guide
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start using character consistency
+- [ViralWave Studio Platform](https://viralwavestudio.com) - Start using character consistency
 - [Brand Building Guide](../../../guides/strategies/content-strategies.md) - More strategies
 
 ---
@@ -342,7 +342,7 @@
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) and start building your brand with character consistency!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) and start building your brand with character consistency!*
 
 
 

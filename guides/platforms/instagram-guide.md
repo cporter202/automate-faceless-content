@@ -48,7 +48,7 @@ Complete guide to dominating Instagram Reels with faceless video content.
 - Educational tips
 - Entertaining content
 
-**Using [Syllaby.io](https://syllaby.io/?via=chris56)**:
+**Using [ViralWave Studio](https://viralwavestudio.com)**:
 - Create Reels easily
 - Professional quality
 - Consistent output
@@ -85,7 +85,7 @@ Complete guide to dominating Instagram Reels with faceless video content.
 
 **Why**: Consistent posting = algorithm favor
 
-**Using [Syllaby.io](https://syllaby.io/?via=chris56)**:
+**Using [ViralWave Studio](https://viralwavestudio.com)**:
 - Create Reels quickly
 - Consistent quality
 - Easy management
@@ -194,19 +194,19 @@ Complete guide to dominating Instagram Reels with faceless video content.
 2. **Story-driven** = higher engagement
 3. **Consistent posting** = algorithm favor
 4. **Drive to YouTube** = subscriber growth
-5. **Use [Syllaby.io](https://syllaby.io/?via=chris56)** = consistent quality
+5. **Use [ViralWave Studio](https://viralwavestudio.com)** = consistent quality
 
 ---
 
 ## Resources
 
 - [Multi-Platform Strategy Guide](../strategies/multi-platform.md) - Cross-platform
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Create Instagram Reels
+- [ViralWave Studio Platform](https://viralwavestudio.com) - Create Instagram Reels
 - [Content Repurposing Guide](../workflows/content-repurposing.md) - Repurpose content
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to dominate Instagram!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) to dominate Instagram!*
 
 
 

@@ -40,7 +40,7 @@ By the end of this module, you will have:
 
 - [Daily Workflow Guide](../../../guides/workflows/daily-workflow.md)
 - [Content Repurposing Guide](../../../guides/workflows/content-repurposing.md)
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56)
+- [ViralWave Studio Platform](https://viralwavestudio.com)
 
 ---
 

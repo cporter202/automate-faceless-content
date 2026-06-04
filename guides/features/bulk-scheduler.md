@@ -92,7 +92,7 @@ The Bulk Scheduler helps you batch create and schedule videos in advance, mainta
 ### Step 6: Automatic Publishing
 
 **Once Generated**:
-- Syllaby publishes automatically
+- ViralWave Studio publishes automatically
 - Based on channels, timing, frequency
 - No manual intervention needed
 - Content goes live on schedule

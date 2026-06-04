@@ -406,7 +406,7 @@
 
 - [Daily Workflow Guide](../../../guides/workflows/daily-workflow.md) - 5-minute system
 - [Content Strategies Guide](../../../guides/strategies/content-strategies.md) - More strategies
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start creating
+- [ViralWave Studio Platform](https://viralwavestudio.com) - Start creating
 
 ---
 
@@ -414,7 +414,7 @@
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) and start creating content that gets you monetized!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) and start creating content that gets you monetized!*
 
 
 

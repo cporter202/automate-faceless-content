@@ -2,7 +2,7 @@
 
 **Your Complete Content Library**
 
-This bonus contains 2,700 plug-and-play video ideas across top niches. Copy and paste directly into [Syllaby.io](https://syllaby.io/?via=chris56) to start creating.
+This bonus contains 2,700 plug-and-play video ideas across top niches. Copy and paste directly into [ViralWave Studio](https://viralwavestudio.com) to start creating.
 
 ---
 
@@ -10,7 +10,7 @@ This bonus contains 2,700 plug-and-play video ideas across top niches. Copy and 
 
 1. **Choose Your Niche**: Find your niche section
 2. **Copy Topic**: Copy any topic you like
-3. **Paste in Syllaby.io**: Use AI Script Assistant
+3. **Paste in ViralWave Studio**: Use AI Script Assistant
 4. **Generate Video**: Create in 5 minutes
 5. **Repeat**: Build your content library
 
@@ -1983,13 +1983,13 @@ This bonus contains 2,700 plug-and-play video ideas across top niches. Copy and 
 
 1. **Choose Your Niche**: Pick ideas from your niche
 2. **Create Content Calendar**: Plan 30-60 videos
-3. **Start Creating**: Use [Syllaby.io](https://syllaby.io/?via=chris56) to generate videos
+3. **Start Creating**: Use [ViralWave Studio](https://viralwavestudio.com) to generate videos
 4. **Track Performance**: See what works
 5. **Double Down**: Create more of what performs
 
 ---
 
-**Ready to start creating?** [Get Syllaby.io →](https://syllaby.io/?via=chris56)
+**Ready to start creating?** [Get ViralWave Studio →](https://viralwavestudio.com)
 
 ---
 

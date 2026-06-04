@@ -173,13 +173,13 @@ Create ultra-realistic, cinematic videos using advanced AI models.
 
 ## Resources
 
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start creating ultra-realistic videos
+- [ViralWave Studio Platform](https://viralwavestudio.com) - Start creating ultra-realistic videos
 - [Credit Management Guide](../resources/credit-management.md) - Manage credits
 - [Faceless Video Generator Guide](./faceless-video-generator.md) - Complete guide
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to create ultra-realistic videos!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) to create ultra-realistic videos!*
 
 
 

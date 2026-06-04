@@ -77,7 +77,7 @@
 - Canva (free templates)
 - Photoshop
 - Fiverr (hire designer)
-- [Syllaby.io Thumbnail Generator](https://syllaby.io/?via=chris56) (adapt for banner)
+- [ViralWave Studio Thumbnail Generator](https://viralwavestudio.com) (adapt for banner)
 
 ---
 
@@ -113,7 +113,7 @@
 - **CTA**: Subscribe button
 
 **How to Create**:
-- Use [Syllaby.io](https://syllaby.io/?via=chris56) to create
+- Use [ViralWave Studio](https://viralwavestudio.com) to create
 - Script: "Welcome to [Channel Name]. I create [content type] to help you [benefit]. Subscribe for [value]."
 - Professional quality
 - Engaging visuals
@@ -352,7 +352,7 @@ Subscribe for daily content creation tips!
 - [ ] Create and upload profile picture
 - [ ] Write channel description
 - [ ] Add channel keywords
-- [ ] Create channel trailer using [Syllaby.io](https://syllaby.io/?via=chris56)
+- [ ] Create channel trailer using [ViralWave Studio](https://viralwavestudio.com)
 - [ ] Set up channel sections
 - [ ] Add links and contact info
 - [ ] Configure channel settings
@@ -387,23 +387,23 @@ Subscribe for daily content creation tips!
 - ✅ How to set up your channel
 
 **You're Ready For**:
-- **[Module 2: Mastering Syllaby.io →](./../module-2/)**
+- **[Module 2: Mastering ViralWave Studio →](./../module-2/)**
 
 ---
 
 ## Resources
 
-- [Account Setup Guide](../../../guides/getting-started/account-setup.md) - Syllaby.io setup
+- [Account Setup Guide](../../../guides/getting-started/account-setup.md) - ViralWave Studio setup
 - [Dashboard Overview](../../../guides/getting-started/dashboard-overview.md) - Learn the platform
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start creating content
+- [ViralWave Studio Platform](https://viralwavestudio.com) - Start creating content
 
 ---
 
-**Ready for Module 2?** [Start Mastering Syllaby.io →](./../module-2/)
+**Ready for Module 2?** [Start Mastering ViralWave Studio →](./../module-2/)
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to start creating content for your new channel!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) to start creating content for your new channel!*
 
 
 

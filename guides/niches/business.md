@@ -107,7 +107,7 @@ Complete guide to creating faceless video content in the business and entreprene
 
 ## Content Creation Tips
 
-### Using [Syllaby.io](https://syllaby.io/?via=chris56)
+### Using [ViralWave Studio](https://viralwavestudio.com)
 
 **Best Features**:
 - AI Script Assistant for educational content
@@ -178,7 +178,7 @@ Complete guide to creating faceless video content in the business and entreprene
 **Start in Business Niche**:
 
 - [ ] Choose sub-niche
-- [ ] Research topics using [Idea Discovery](https://syllaby.io/?via=chris56)
+- [ ] Research topics using [Idea Discovery](https://viralwavestudio.com)
 - [ ] Create first educational video
 - [ ] Join affiliate programs
 - [ ] Create product review videos
@@ -194,7 +194,7 @@ Complete guide to creating faceless video content in the business and entreprene
 1. **Business niche** = premium CPM ($8-25 per 1,000 views)
 2. **Educational focus** = builds authority
 3. **Multiple products** = high affiliate potential
-4. **Use [Syllaby.io](https://syllaby.io/?via=chris56)** = easy content creation
+4. **Use [ViralWave Studio](https://viralwavestudio.com)** = easy content creation
 5. **Case studies** = better engagement
 6. **Practical advice** = higher value
 
@@ -204,11 +204,11 @@ Complete guide to creating faceless video content in the business and entreprene
 
 - [Top Paying Niches Guide](./top-paying-niches.md) - Compare niches
 - [Niche Selection Guide](./niche-selection.md) - Choose your niche
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Create business content
+- [ViralWave Studio Platform](https://viralwavestudio.com) - Create business content
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to create high-earning business content!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) to create high-earning business content!*
 
 
 

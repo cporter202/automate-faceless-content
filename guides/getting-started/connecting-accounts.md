@@ -32,7 +32,7 @@ For each platform:
 
 1. Click **"Connect [Platform]"**
 2. You'll be redirected to platform login
-3. Authorize Syllaby to access your account
+3. Authorize ViralWave Studio to access your account
 4. Grant necessary permissions:
    - **Post videos**
    - **Manage content**

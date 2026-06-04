@@ -336,7 +336,7 @@
 ## Resources
 
 - [YouTube Monetization Guide](../../../guides/monetization/youtube-monetization.md) - Complete guide
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Create high-retention content
+- [ViralWave Studio Platform](https://viralwavestudio.com) - Create high-retention content
 - [Revenue Streams Guide](../../../guides/monetization/revenue-streams.md) - Multiple income
 
 ---
@@ -345,7 +345,7 @@
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to create content that maximizes AdSense revenue!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) to create content that maximizes AdSense revenue!*
 
 
 

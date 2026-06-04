@@ -115,7 +115,7 @@ This guide shows you how to get monetized on YouTube in 2-3 weeks using proven s
 **Day 1-2**: Setup
 - Create YouTube channel
 - Optimize channel (banner, description, tags)
-- Connect to Syllaby
+- Connect to ViralWave Studio
 - Create first 5 videos
 
 **Day 3-7**: Content Creation

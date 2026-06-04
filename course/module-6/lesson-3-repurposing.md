@@ -25,7 +25,7 @@
 
 ### Step 1: Create Long-Form
 
-**Using [Syllaby.io](https://syllaby.io/?via=chris56)**:
+**Using [ViralWave Studio](https://viralwavestudio.com)**:
 - Create 10-20 minute video
 - Comprehensive content
 - All key points covered
@@ -40,7 +40,7 @@
 **How**:
 - Identify 5-10 key moments
 - Each = 15-60 second Short
-- Create using [Syllaby.io](https://syllaby.io/?via=chris56)
+- Create using [ViralWave Studio](https://viralwavestudio.com)
 - Link to long-form
 
 **Result**: 5-10 Shorts from one video.
@@ -72,7 +72,7 @@
 
 ---
 
-### 2. Use [Syllaby.io](https://syllaby.io/?via=chris56) for All
+### 2. Use [ViralWave Studio](https://viralwavestudio.com) for All
 
 **Benefits**:
 - Create all formats
@@ -116,7 +116,7 @@
 1. **Repurposing** = 6-11x ROI
 2. **One long-form** = multiple Shorts
 3. **Platform optimization** = better performance
-4. **Use [Syllaby.io](https://syllaby.io/?via=chris56)** = easy repurposing
+4. **Use [ViralWave Studio](https://viralwavestudio.com)** = easy repurposing
 5. **Track performance** = optimize strategy
 
 ---
@@ -130,7 +130,7 @@
 ## Resources
 
 - [Content Repurposing Guide](../../../guides/workflows/content-repurposing.md) - Complete system
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Repurpose content
+- [ViralWave Studio Platform](https://viralwavestudio.com) - Repurpose content
 - [Multi-Platform Strategy](../../../guides/strategies/multi-platform.md) - Cross-platform
 
 ---
@@ -139,7 +139,7 @@
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to repurpose content effortlessly!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) to repurpose content effortlessly!*
 
 
 

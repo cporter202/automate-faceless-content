@@ -42,9 +42,9 @@ Users have reported incredible results:
 - **Entrepreneurs**: Build personal brands without showing face
 - **Anyone**: Who wants to create professional videos quickly
 
-## What is Syllaby.io?
+## What is ViralWave Studio?
 
-**Syllaby.io** is an AI-powered video creation platform that transforms your ideas into complete, social media-ready videos. It's the only A-to-Z workflow video marketing tool that handles:
+**ViralWave Studio** is an AI-powered video creation platform that transforms your ideas into complete, social media-ready videos. It's the only A-to-Z workflow video marketing tool that handles:
 
 - ✅ Idea discovery (viral topics)
 - ✅ AI script generation
@@ -64,7 +64,7 @@ Users have reported incredible results:
 6. Upload and optimize (30 min)
 **Total: 5-7 hours per video**
 
-### Syllaby Workflow (Minutes)
+### ViralWave Studio Workflow (Minutes)
 1. Enter topic or idea (1 min)
 2. AI generates script (30 seconds)
 3. Choose style and settings (2 min)
@@ -79,7 +79,7 @@ Users have reported incredible results:
 This comprehensive guide will teach you:
 
 1. **Getting Started**: Set up your account and create your first video
-2. **Core Features**: Master every Syllaby feature
+2. **Core Features**: Master every ViralWave Studio feature
 3. **Monetization**: Get monetized on all platforms
 4. **Strategies**: Proven tactics from successful creators
 5. **Niches**: Choose the right niche for maximum earnings
@@ -90,14 +90,14 @@ This comprehensive guide will teach you:
 
 Ready to get started? Follow these guides in order:
 
-1. **[Account Setup](./account-setup.md)** - Create your Syllaby account
+1. **[Account Setup](./account-setup.md)** - Create your ViralWave Studio account
 2. **[Dashboard Overview](./dashboard-overview.md)** - Learn the interface
 3. **[Your First Video](./your-first-video.md)** - Create your first video in 5 minutes
 4. **[Connecting Accounts](./connecting-accounts.md)** - Connect social media platforms
 
 ---
 
-**Ready to start?** [Create your free account →](https://syllaby.io/?via=chris56)
+**Ready to start?** [Create your free account →](https://viralwavestudio.com)
 
 
 

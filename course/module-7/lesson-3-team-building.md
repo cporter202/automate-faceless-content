@@ -25,7 +25,7 @@
 
 ### 1. Content Creator
 
-**Role**: Create videos using [Syllaby.io](https://syllaby.io/?via=chris56)
+**Role**: Create videos using [ViralWave Studio](https://viralwavestudio.com)
 
 **Cost**: $500-2,000/month
 
@@ -104,7 +104,7 @@
 
 1. **Start small** = one person first
 2. **Document systems** = easy training
-3. **Use [Syllaby.io](https://syllaby.io/?via=chris56)** = easy for team
+3. **Use [ViralWave Studio](https://viralwavestudio.com)** = easy for team
 4. **Track ROI** = ensure value
 
 ---
@@ -136,7 +136,7 @@
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) - easy for team to use!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) - easy for team to use!*
 
 
 

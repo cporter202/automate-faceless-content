@@ -47,7 +47,7 @@ Dominate all platforms simultaneously for maximum reach and revenue.
 
 ## Cross-Platform Workflow
 
-### Using [Syllaby.io](https://syllaby.io/?via=chris56)
+### Using [ViralWave Studio](https://viralwavestudio.com)
 
 **One-Click Publishing**:
 1. Create video once
@@ -99,7 +99,7 @@ Dominate all platforms simultaneously for maximum reach and revenue.
 ## Pro Tips
 
 1. **Start with 3 platforms** = manageable
-2. **Use [Syllaby.io](https://syllaby.io/?via=chris56)** = post everywhere easily
+2. **Use [ViralWave Studio](https://viralwavestudio.com)** = post everywhere easily
 3. **Cross-promote** = maximize reach
 4. **Track performance** = optimize per platform
 
@@ -109,11 +109,11 @@ Dominate all platforms simultaneously for maximum reach and revenue.
 
 - [Content Repurposing Guide](../workflows/content-repurposing.md) - Repurpose system
 - [Growth Strategies Guide](./growth-strategies.md) - Growth tactics
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Post to all platforms
+- [ViralWave Studio Platform](https://viralwavestudio.com) - Post to all platforms
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to dominate all platforms!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) to dominate all platforms!*
 
 
 

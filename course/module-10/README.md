@@ -39,7 +39,7 @@ By the end of this module, you will have:
 ## Resources
 
 - [Best Practices Guide](../../../guides/resources/best-practices.md)
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56)
+- [ViralWave Studio Platform](https://viralwavestudio.com)
 - [Success Stories](../../bonuses/success-stories.md)
 
 ---
@@ -60,7 +60,7 @@ By the end of this module, you will have:
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to continue building your faceless video empire!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) to continue building your faceless video empire!*
 
 
 

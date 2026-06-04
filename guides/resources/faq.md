@@ -2,14 +2,14 @@
 
 ## General Questions
 
-### What is Syllaby.io?
-Syllaby.io is an AI-powered video creation platform that transforms your ideas into complete, social media-ready videos. It handles everything from script generation to video production and multi-platform publishing.
+### What is ViralWave Studio?
+ViralWave Studio is an AI-powered video creation platform that transforms your ideas into complete, social media-ready videos. It handles everything from script generation to video production and multi-platform publishing.
 
 ### How much does it cost?
-Syllaby offers flexible pricing starting at $25/month. Higher tiers provide more credits. There's also a free trial available with no credit card required.
+ViralWave Studio offers flexible pricing starting at $25/month. Higher tiers provide more credits. There's also a free trial available with no credit card required.
 
 ### Do I need video editing experience?
-No! Syllaby is designed for beginners. The interface is intuitive and guides you through every step. No video editing skills required.
+No! ViralWave Studio is designed for beginners. The interface is intuitive and guides you through every step. No video editing skills required.
 
 ### Can I use my own images?
 Yes! You can upload your own images, photos, or graphics. Uploaded media is free to use and doesn't cost credits.
@@ -22,7 +22,7 @@ Yes! All videos you create are yours to download and use for any purpose, includ
 ## Account & Setup
 
 ### How do I create an account?
-Visit [Syllaby.io](https://syllaby.io/?via=chris56) and click "Sign Up" or "Start Free Trial". No credit card required for the trial.
+Visit [ViralWave Studio](https://viralwavestudio.com) and click "Sign Up" or "Start Free Trial". No credit card required for the trial.
 
 ### Can I manage multiple channels?
 Yes! One Gmail account can manage 20+ channels. Some users manage 700+ channels under one account.
@@ -228,7 +228,7 @@ Yes! Many creators manage 3-5 channels in the same niche or different niches. Cr
 The best niche is one you're interested in and can create content consistently. See [Top Paying Niches](../niches/top-paying-niches.md) for options.
 
 ### How do I track performance?
-- Use Syllaby analytics
+- Use ViralWave Studio analytics
 - Check platform analytics
 - Monitor key metrics:
   - Views

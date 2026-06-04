@@ -41,7 +41,7 @@ By the end of this module, you will have:
 
 - [Growth Strategies Guide](../../../guides/strategies/growth-strategies.md)
 - [Multi-Platform Strategy](../../../guides/strategies/multi-platform.md)
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56)
+- [ViralWave Studio Platform](https://viralwavestudio.com)
 
 ---
 

@@ -85,7 +85,7 @@
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to build long-term!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) to build long-term!*
 
 
 

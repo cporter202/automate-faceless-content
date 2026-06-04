@@ -330,7 +330,7 @@
 ## Resources
 
 - [AI Script Generation Guide](../module-2/lesson-3-ai-scripts.md) - Detailed guide
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start generating scripts
+- [ViralWave Studio Platform](https://viralwavestudio.com) - Start generating scripts
 - [Best Practices Guide](../../../guides/resources/best-practices.md) - More tips
 
 ---
@@ -339,7 +339,7 @@
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) and use AI Script Assistant for conversion-focused scripts!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) and use AI Script Assistant for conversion-focused scripts!*
 
 
 

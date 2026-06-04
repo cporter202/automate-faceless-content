@@ -44,7 +44,7 @@ Complete workflow for planning and creating a month of content in one day.
 ### Step 2: Research Topics (1 hour)
 
 **How to Research**:
-1. Use [Syllaby.io Idea Discovery](https://syllaby.io/?via=chris56)
+1. Use [ViralWave Studio Idea Discovery](https://viralwavestudio.com)
 2. Check trending topics
 3. Analyze competitor content
 4. Review saved topics
@@ -56,7 +56,7 @@ Complete workflow for planning and creating a month of content in one day.
 - Variety of formats
 - High-demand topics
 
-**Using [Idea Discovery](https://syllaby.io/?via=chris56)**:
+**Using [Idea Discovery](https://viralwavestudio.com)**:
 - Research 10-15 keywords
 - Get 100-150 topic ideas
 - Select best 30-60
@@ -76,7 +76,7 @@ Complete workflow for planning and creating a month of content in one day.
 5. Add themes
 
 **Tools**:
-- [Syllaby.io Content Calendar](https://syllaby.io/?via=chris56)
+- [ViralWave Studio Content Calendar](https://viralwavestudio.com)
 - Google Calendar
 - Spreadsheet
 - Planning app
@@ -88,7 +88,7 @@ Complete workflow for planning and creating a month of content in one day.
 ### Step 4: Batch Create Content (2-3 hours)
 
 **Using Bulk Scheduler**:
-1. Open Bulk Scheduler in [Syllaby.io](https://syllaby.io/?via=chris56)
+1. Open Bulk Scheduler in [ViralWave Studio](https://viralwavestudio.com)
 2. Enter topics from calendar
 3. Configure settings
 4. Generate all videos
@@ -271,7 +271,7 @@ Complete workflow for planning and creating a month of content in one day.
 **Set up monthly workflow**:
 
 - [ ] Review last month's performance
-- [ ] Research 30-60 topics using [Idea Discovery](https://syllaby.io/?via=chris56)
+- [ ] Research 30-60 topics using [Idea Discovery](https://viralwavestudio.com)
 - [ ] Create content calendar
 - [ ] Plan content themes
 - [ ] Use Bulk Scheduler to create all videos
@@ -290,7 +290,7 @@ Complete workflow for planning and creating a month of content in one day.
 3. **Use themes** = cohesive content
 4. **Mix content types** = engaged audience
 5. **Leave room for trends** = flexibility
-6. **Use [Syllaby.io](https://syllaby.io/?via=chris56)** = easy monthly planning
+6. **Use [ViralWave Studio](https://viralwavestudio.com)** = easy monthly planning
 
 ---
 
@@ -298,11 +298,11 @@ Complete workflow for planning and creating a month of content in one day.
 
 - [Bulk Scheduler Guide](../features/bulk-scheduler.md) - Complete guide
 - [Content Calendar Guide](../strategies/content-strategies.md) - Planning strategies
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start monthly planning
+- [ViralWave Studio Platform](https://viralwavestudio.com) - Start monthly planning
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to plan your month of content!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) to plan your month of content!*
 
 
 

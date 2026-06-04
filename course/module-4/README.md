@@ -52,7 +52,7 @@ By completing this module:
 - [Getting Monetized Fast Guide](../../guides/monetization/getting-monetized-fast.md)
 - [Platform Requirements](../../guides/monetization/platform-requirements.md)
 - [YouTube Monetization Guide](../../guides/monetization/youtube-monetization.md)
-- [Syllaby.io - Start Creating](https://syllaby.io/?via=chris56)
+- [ViralWave Studio - Start Creating](https://viralwavestudio.com)
 
 ---
 
@@ -76,7 +76,7 @@ Track these weekly:
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to start creating content that gets you monetized!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) to start creating content that gets you monetized!*
 
 
 

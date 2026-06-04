@@ -31,7 +31,7 @@
 - [ ] 1-2 Reels/day
 - [ ] Optimal times (11 AM-1 PM, 7-9 PM)
 - [ ] Consistent schedule
-- [ ] Use [Syllaby.io](https://syllaby.io/?via=chris56)
+- [ ] Use [ViralWave Studio](https://viralwavestudio.com)
 
 ---
 
@@ -69,7 +69,7 @@
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to master Instagram!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) to master Instagram!*
 
 
 

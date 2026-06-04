@@ -40,7 +40,7 @@ By the end of this module, you will have:
 
 - [Multi-Channel Management](../../../guides/workflows/multi-channel.md)
 - [Advanced Strategies Guide](../../../guides/strategies/success-strategies.md)
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56)
+- [ViralWave Studio Platform](https://viralwavestudio.com)
 
 ---
 

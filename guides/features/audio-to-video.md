@@ -6,7 +6,7 @@ Convert any audio into professional video content - perfect for repurposing podc
 
 ## What is Audio to Video?
 
-**Definition**: Upload any audio file and Syllaby generates visuals to match, creating complete video
+**Definition**: Upload any audio file and ViralWave Studio generates visuals to match, creating complete video
 
 **Perfect For**: Podcast repurposing, audio content conversion, music videos, voiceover content
 
@@ -19,7 +19,7 @@ Convert any audio into professional video content - perfect for repurposing podc
 ### The Process
 
 1. Upload audio file (voiceover, song, podcast)
-2. Syllaby generates visuals
+2. ViralWave Studio generates visuals
 3. Matches audio to visuals
 4. Creates complete video
 5. Automatic sync
@@ -150,13 +150,13 @@ Convert any audio into professional video content - perfect for repurposing podc
 
 ## Resources
 
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start converting audio to video
+- [ViralWave Studio Platform](https://viralwavestudio.com) - Start converting audio to video
 - [Content Repurposing Guide](../workflows/content-repurposing.md) - Repurpose content
 - [Faceless Video Generator Guide](./faceless-video-generator.md) - Complete guide
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to convert audio to video!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) to convert audio to video!*
 
 
 

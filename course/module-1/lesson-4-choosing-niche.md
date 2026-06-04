@@ -42,7 +42,7 @@ Your niche determines:
 - Growing demand = future potential
 
 **How to Research**:
-- Use [Syllaby.io's Idea Discovery](https://syllaby.io/?via=chris56) feature
+- Use [ViralWave Studio's Idea Discovery](https://viralwavestudio.com) feature
 - Check Google Trends
 - Analyze competitor channels
 - Look at search volumes
@@ -285,7 +285,7 @@ Write down 5-10 topics you're interested in:
 ### Step 2: Research Market Demand
 
 For each interest, check:
-- [ ] Search volume (use [Idea Discovery](https://syllaby.io/?via=chris56))
+- [ ] Search volume (use [Idea Discovery](https://viralwavestudio.com))
 - [ ] Trending topics
 - [ ] Competitor analysis
 - [ ] Growth trends
@@ -378,7 +378,7 @@ For each interest, research:
 ## Resources
 
 - [Top Paying Niches Guide](../../../guides/niches/top-paying-niches.md) - Detailed breakdown
-- [Idea Discovery Feature](https://syllaby.io/?via=chris56) - Research demand
+- [Idea Discovery Feature](https://viralwavestudio.com) - Research demand
 - [Niche Selection Guide](../../../guides/niches/niche-selection.md) - More strategies
 
 ---
@@ -387,7 +387,7 @@ For each interest, research:
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to start researching niches with Idea Discovery!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) to start researching niches with Idea Discovery!*
 
 
 

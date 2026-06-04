@@ -21,7 +21,7 @@
 
 ### 2. Tool Updates
 
-**Syllaby.io Updates**:
+**ViralWave Studio Updates**:
 - New features
 - Improvements
 - Changes
@@ -76,7 +76,7 @@
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) and stay current with updates!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) and stay current with updates!*
 
 
 

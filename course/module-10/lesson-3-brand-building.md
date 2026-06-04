@@ -15,7 +15,7 @@
 - Voice
 - Character (if using)
 
-**Using [Syllaby.io Character Consistency](https://syllaby.io/?via=chris56)**:
+**Using [ViralWave Studio Character Consistency](https://viralwavestudio.com)**:
 - Same character across videos
 - Build recognition
 - Professional appearance
@@ -52,7 +52,7 @@
 1. **Consistent branding** = recognition
 2. **Clear value proposition** = differentiation
 3. **Quality content** = trust
-4. **Use [Syllaby.io](https://syllaby.io/?via=chris56)** = consistent quality
+4. **Use [ViralWave Studio](https://viralwavestudio.com)** = consistent quality
 
 ---
 
@@ -81,7 +81,7 @@
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to build your brand!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) to build your brand!*
 
 
 

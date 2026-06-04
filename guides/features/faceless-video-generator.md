@@ -1,6 +1,6 @@
 # Faceless Video Generator - Complete Guide
 
-The Faceless Video Generator is Syllaby's most powerful feature. This comprehensive guide will teach you everything you need to know.
+The Faceless Video Generator is ViralWave Studio's most powerful feature. This comprehensive guide will teach you everything you need to know.
 
 ## Overview
 
@@ -41,7 +41,7 @@ The Faceless Video Generator is designed as a guided step-by-step workflow, perf
 ### 3. B-Roll Videos
 
 **What It Is**:
-- Syllaby pulls relevant clips from stock library
+- ViralWave Studio pulls relevant clips from stock library
 - Automatically matches clips to your script
 - Professional visual experience
 
@@ -133,7 +133,7 @@ The Faceless Video Generator is designed as a guided step-by-step workflow, perf
 
 #### Option 3: URL to Script
 - Paste any article or blog link
-- Syllaby converts to video script
+- ViralWave Studio converts to video script
 - Perfect for repurposing content
 
 **How to Use**:
@@ -145,7 +145,7 @@ The Faceless Video Generator is designed as a guided step-by-step workflow, perf
 #### Option 4: Audio to Video
 - Upload audio recording or voiceover
 - Even upload songs
-- Syllaby generates visuals to match
+- ViralWave Studio generates visuals to match
 
 **How to Use**:
 1. Click "Audio to Video"
@@ -188,7 +188,7 @@ The Faceless Video Generator is designed as a guided step-by-step workflow, perf
 4. Video appears in "My Videos" section
 
 **After Generation**:
-- Syllaby shows **5 new topic ideas**
+- ViralWave Studio shows **5 new topic ideas**
 - Related to your video topic
 - Click any idea to create next video
 - Seamless content pipeline

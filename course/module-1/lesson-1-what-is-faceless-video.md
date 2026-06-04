@@ -97,7 +97,7 @@ AI ensures:
 - **Total**: $800-3,000+ upfront
 
 **Faceless**:
-- [Syllaby.io subscription](https://syllaby.io/?via=chris56): $25/month
+- [ViralWave Studio subscription](https://viralwavestudio.com): $25/month
 - **Total**: $25/month, no equipment needed
 
 ### 5. Speed
@@ -209,7 +209,7 @@ You can:
 
 ### Current Statistics
 
-- **150,000+ users** on [Syllaby.io](https://syllaby.io/?via=chris56)
+- **150,000+ users** on [ViralWave Studio](https://viralwavestudio.com)
 - **250,000+ videos** created
 - **Growing market** with massive demand
 - **Low competition** in many niches
@@ -257,7 +257,7 @@ You can:
 
 ### Misconception 3: "You Need Technical Skills"
 
-**Reality**: [Syllaby.io](https://syllaby.io/?via=chris56) requires **zero technical skills**:
+**Reality**: [ViralWave Studio](https://viralwavestudio.com) requires **zero technical skills**:
 - No video editing needed
 - No camera skills needed
 - No design skills needed
@@ -313,7 +313,7 @@ You can:
 
 ## Resources
 
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start creating faceless videos
+- [ViralWave Studio Platform](https://viralwavestudio.com) - Start creating faceless videos
 - [Success Stories](../../bonuses/success-stories.md) - See real results
 - [Getting Started Guide](../../../guides/getting-started/introduction.md) - Learn more
 
@@ -323,7 +323,7 @@ You can:
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to start creating faceless videos today!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) to start creating faceless videos today!*
 
 
 

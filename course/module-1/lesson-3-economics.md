@@ -24,7 +24,7 @@ Understanding the economics of faceless video content is crucial for building a 
 - **Total**: $1,820-4,850+ upfront
 
 **Faceless Content Creation**:
-- [Syllaby.io subscription](https://syllaby.io/?via=chris56): $25/month
+- [ViralWave Studio subscription](https://viralwavestudio.com): $25/month
 - Computer (you likely already have): $0
 - **Total**: $25/month, no upfront cost
 
@@ -41,7 +41,7 @@ Understanding the economics of faceless video content is crucial for building a 
 - **Total**: $70-150/month + massive time cost
 
 **Faceless Model**:
-- [Syllaby.io subscription](https://syllaby.io/?via=chris56): $25/month
+- [ViralWave Studio subscription](https://viralwavestudio.com): $25/month
 - Time investment: 25 hours/month
 - **Total**: $25/month + minimal time
 
@@ -58,7 +58,7 @@ Understanding the economics of faceless video content is crucial for building a 
 - **Total**: $106-152 per video
 
 **Faceless Model**:
-- [Syllaby.io credits](https://syllaby.io/?via=chris56): ~$0.20-0.50/video
+- [ViralWave Studio credits](https://viralwavestudio.com): ~$0.20-0.50/video
 - Time (5 minutes): $1.67/video
 - **Total**: $1.87-2.17 per video
 
@@ -211,7 +211,7 @@ Understanding the economics of faceless video content is crucial for building a 
 ### Month 1-3: Foundation
 
 **Investment**:
-- [Syllaby.io](https://syllaby.io/?via=chris56): $75 ($25/month × 3)
+- [ViralWave Studio](https://viralwavestudio.com): $75 ($25/month × 3)
 - Time: 75 hours (25 hours/month)
 
 **Revenue**:
@@ -227,7 +227,7 @@ Understanding the economics of faceless video content is crucial for building a 
 ### Month 4-6: Growth
 
 **Investment**:
-- [Syllaby.io](https://syllaby.io/?via=chris56): $75
+- [ViralWave Studio](https://viralwavestudio.com): $75
 - Time: 75 hours
 
 **Revenue**:
@@ -244,7 +244,7 @@ Understanding the economics of faceless video content is crucial for building a 
 ### Month 7-12: Scaling
 
 **Investment**:
-- [Syllaby.io](https://syllaby.io/?via=chris56): $150
+- [ViralWave Studio](https://viralwavestudio.com): $150
 - Time: 150 hours
 
 **Revenue**:
@@ -409,7 +409,7 @@ Understanding the economics of faceless video content is crucial for building a 
 
 - [Top Paying Niches Guide](../../../guides/niches/top-paying-niches.md) - CPM rates by niche
 - [Revenue Streams Guide](../../../guides/monetization/revenue-streams.md) - Multiple income sources
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start your profitable business
+- [ViralWave Studio Platform](https://viralwavestudio.com) - Start your profitable business
 
 ---
 
@@ -417,7 +417,7 @@ Understanding the economics of faceless video content is crucial for building a 
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) and start building your profitable business today!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) and start building your profitable business today!*
 
 
 

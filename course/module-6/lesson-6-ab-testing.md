@@ -49,7 +49,7 @@
 **Step 1: Create Variations**:
 - 3 different thumbnails
 - 3 different titles
-- Use [Syllaby.io Thumbnail Generator](https://syllaby.io/?via=chris56)
+- Use [ViralWave Studio Thumbnail Generator](https://viralwavestudio.com)
 - Use ChatGPT for titles
 
 **Step 2: Upload to YouTube**:
@@ -82,7 +82,7 @@
 - Different colors
 - Different emotions
 
-**Using [Syllaby.io](https://syllaby.io/?via=chris56)**:
+**Using [ViralWave Studio](https://viralwavestudio.com)**:
 - Generate multiple thumbnails
 - Test different styles
 - Compare performance
@@ -146,7 +146,7 @@
 
 **Set up A/B testing**:
 
-- [ ] Create 3 thumbnail variations using [Syllaby.io](https://syllaby.io/?via=chris56)
+- [ ] Create 3 thumbnail variations using [ViralWave Studio](https://viralwavestudio.com)
 - [ ] Generate 3 title variations using ChatGPT
 - [ ] Upload to YouTube A/B test
 - [ ] Monitor results
@@ -178,7 +178,7 @@
 ## Resources
 
 - [Thumbnail Generator Guide](../../../guides/features/thumbnail-generator.md) - Create variations
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Generate thumbnails
+- [ViralWave Studio Platform](https://viralwavestudio.com) - Generate thumbnails
 - [Best Practices Guide](../../../guides/resources/best-practices.md) - More tips
 
 ---
@@ -187,7 +187,7 @@
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to create thumbnail variations for A/B testing!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) to create thumbnail variations for A/B testing!*
 
 
 

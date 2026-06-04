@@ -45,13 +45,13 @@ By the end of this module, you will have:
 
 - [Top Paying Niches Guide](../../guides/niches/top-paying-niches.md)
 - [Niche Selection Guide](../../guides/niches/niche-selection.md)
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56)
+- [ViralWave Studio Platform](https://viralwavestudio.com)
 
 ---
 
 ## Next Module
 
-**[Module 2: Mastering Syllaby.io →](./../module-2/)**
+**[Module 2: Mastering ViralWave Studio →](./../module-2/)**
 
 ---
 

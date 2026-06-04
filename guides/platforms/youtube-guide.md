@@ -53,7 +53,7 @@ Complete guide to dominating YouTube with faceless video content.
 - Series content
 - Case studies
 
-**Using [Syllaby.io](https://syllaby.io/?via=chris56)**:
+**Using [ViralWave Studio](https://viralwavestudio.com)**:
 - Create longer content easily
 - Professional quality
 - Consistent output
@@ -112,7 +112,7 @@ Complete guide to dominating YouTube with faceless video content.
 - 5-10 relevant tags
 - Mix broad and specific
 - Include variations
-- Use [Idea Discovery](https://syllaby.io/?via=chris56) for research
+- Use [Idea Discovery](https://viralwavestudio.com) for research
 
 ---
 
@@ -125,7 +125,7 @@ Complete guide to dominating YouTube with faceless video content.
 - Clear value
 - Brand consistency
 
-**Using [Syllaby.io Thumbnail Generator](https://syllaby.io/?via=chris56)**:
+**Using [ViralWave Studio Thumbnail Generator](https://viralwavestudio.com)**:
 - Generate multiple options
 - A/B test
 - Optimize CTR
@@ -163,7 +163,7 @@ Complete guide to dominating YouTube with faceless video content.
 
 **Strategy**: Daily posting
 
-**Using [Syllaby.io Bulk Scheduler](https://syllaby.io/?via=chris56)**:
+**Using [ViralWave Studio Bulk Scheduler](https://viralwavestudio.com)**:
 - Plan month of content
 - Automatic publishing
 - Set and forget
@@ -176,7 +176,7 @@ Complete guide to dominating YouTube with faceless video content.
 
 **Strategy**: Hook in first 3 seconds, value throughout
 
-**Using [Syllaby.io AI Script Assistant](https://syllaby.io/?via=chris56)**:
+**Using [ViralWave Studio AI Script Assistant](https://viralwavestudio.com)**:
 - Proven formulas
 - High retention
 - Professional quality
@@ -189,7 +189,7 @@ Complete guide to dominating YouTube with faceless video content.
 
 **Strategy**: Keyword research, optimized content
 
-**Using [Idea Discovery](https://syllaby.io/?via=chris56)**:
+**Using [Idea Discovery](https://viralwavestudio.com)**:
 - Research high-volume keywords
 - Create SEO-optimized content
 - Long-term traffic
@@ -204,19 +204,19 @@ Complete guide to dominating YouTube with faceless video content.
 2. **Long-form + Shorts** = optimal mix
 3. **SEO optimization** = long-term traffic
 4. **Daily posting** = faster growth
-5. **Use [Syllaby.io](https://syllaby.io/?via=chris56)** = consistent quality
+5. **Use [ViralWave Studio](https://viralwavestudio.com)** = consistent quality
 
 ---
 
 ## Resources
 
 - [Getting Monetized Fast Guide](../monetization/getting-monetized-fast.md) - Monetization
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Create YouTube content
+- [ViralWave Studio Platform](https://viralwavestudio.com) - Create YouTube content
 - [Multi-Platform Strategy Guide](../strategies/multi-platform.md) - Cross-platform
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to dominate YouTube!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) to dominate YouTube!*
 
 
 

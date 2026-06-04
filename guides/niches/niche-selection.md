@@ -30,7 +30,7 @@ Complete guide to choosing the right niche for your faceless video channel.
 - Business & Entrepreneurship: $8-25 per 1,000 views
 - Technology & Software: $5-20 per 1,000 views
 
-**Pro Tip**: Use [Syllaby.io Idea Discovery](https://syllaby.io/?via=chris56) to research niche CPM rates.
+**Pro Tip**: Use [ViralWave Studio Idea Discovery](https://viralwavestudio.com) to research niche CPM rates.
 
 ---
 
@@ -43,7 +43,7 @@ Complete guide to choosing the right niche for your faceless video channel.
 - Growth potential
 
 **How to Research**:
-- Use [Idea Discovery](https://syllaby.io/?via=chris56) for real data
+- Use [Idea Discovery](https://viralwavestudio.com) for real data
 - Google Trends
 - YouTube search
 - Social media analysis
@@ -125,7 +125,7 @@ Complete guide to choosing the right niche for your faceless video channel.
 - Monetization opportunities
 - Your fit
 
-**Using [Idea Discovery](https://syllaby.io/?via=chris56)**:
+**Using [Idea Discovery](https://viralwavestudio.com)**:
 - Research keywords
 - Check search volume
 - Analyze trends
@@ -211,7 +211,7 @@ Complete guide to choosing the right niche for your faceless video channel.
 
 **Strategy**: Research before choosing
 
-**Using [Idea Discovery](https://syllaby.io/?via=chris56)**: Real data, not guesswork
+**Using [Idea Discovery](https://viralwavestudio.com)**: Real data, not guesswork
 
 **Result**: Better niche selection.
 
@@ -232,7 +232,7 @@ Complete guide to choosing the right niche for your faceless video channel.
 **Choose your niche**:
 
 - [ ] Brainstorm 5-10 niche options
-- [ ] Research each using [Idea Discovery](https://syllaby.io/?via=chris56)
+- [ ] Research each using [Idea Discovery](https://viralwavestudio.com)
 - [ ] Score each niche
 - [ ] Complete validation checklist
 - [ ] Choose primary niche
@@ -261,11 +261,11 @@ Complete guide to choosing the right niche for your faceless video channel.
 - [Health & Wellness Niche](./health-wellness.md) - Detailed guide
 - [Technology Niche](./technology.md) - Detailed guide
 - [Business Niche](./business.md) - Detailed guide
-- [Syllaby.io Idea Discovery](https://syllaby.io/?via=chris56) - Research niches
+- [ViralWave Studio Idea Discovery](https://viralwavestudio.com) - Research niches
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to research niches with real data!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) to research niches with real data!*
 
 
 

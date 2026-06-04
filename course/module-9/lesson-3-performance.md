@@ -59,7 +59,7 @@
 1. **Track metrics** = identify opportunities
 2. **Test changes** = data-driven optimization
 3. **Focus on retention** = algorithm favor
-4. **Use [Syllaby.io](https://syllaby.io/?via=chris56)** = consistent quality
+4. **Use [ViralWave Studio](https://viralwavestudio.com)** = consistent quality
 
 ---
 
@@ -88,7 +88,7 @@
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to optimize performance!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) to optimize performance!*
 
 
 

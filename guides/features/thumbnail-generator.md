@@ -173,13 +173,13 @@ Create eye-catching thumbnails that get clicks using AI-powered generation.
 
 ## Resources
 
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start generating thumbnails
+- [ViralWave Studio Platform](https://viralwavestudio.com) - Start generating thumbnails
 - [Thumbnail Design Guide](../strategies/thumbnail-design.md) - Design tips
 - [A/B Testing Guide](../strategies/ab-testing.md) - Testing strategies
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to create click-worthy thumbnails!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) to create click-worthy thumbnails!*
 
 
 

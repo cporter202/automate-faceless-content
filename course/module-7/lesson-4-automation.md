@@ -9,7 +9,7 @@
 
 ### 1. Content Creation
 
-**Using [Syllaby.io Bulk Scheduler](https://syllaby.io/?via=chris56)**:
+**Using [ViralWave Studio Bulk Scheduler](https://viralwavestudio.com)**:
 - Plan month of content
 - Create all videos
 - Schedule automatically
@@ -21,7 +21,7 @@
 
 ### 2. Publishing
 
-**Using [Syllaby.io](https://syllaby.io/?via=chris56)**:
+**Using [ViralWave Studio](https://viralwavestudio.com)**:
 - Auto-publish to all platforms
 - Scheduled posting
 - Multi-platform
@@ -36,7 +36,7 @@
 **Tools**:
 - Buffer
 - Hootsuite
-- [Syllaby.io](https://syllaby.io/?via=chris56) (integrated)
+- [ViralWave Studio](https://viralwavestudio.com) (integrated)
 
 **Result**: Consistent posting, no daily work
 
@@ -83,7 +83,7 @@
 ## Pro Tips
 
 1. **Automate everything possible** = time back
-2. **Use [Syllaby.io](https://syllaby.io/?via=chris56)** = built-in automation
+2. **Use [ViralWave Studio](https://viralwavestudio.com)** = built-in automation
 3. **Document systems** = easy to maintain
 4. **Review regularly** = optimize automation
 
@@ -115,7 +115,7 @@
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) for built-in automation!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) for built-in automation!*
 
 
 

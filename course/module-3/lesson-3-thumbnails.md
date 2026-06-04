@@ -82,7 +82,7 @@
 - Generic stock photos
 - Irrelevant images
 
-**Pro Tip**: Use [Syllaby.io's Thumbnail Generator](https://syllaby.io/?via=chris56) or create custom images.
+**Pro Tip**: Use [ViralWave Studio's Thumbnail Generator](https://viralwavestudio.com) or create custom images.
 
 ---
 
@@ -163,7 +163,7 @@
 
 ## Thumbnail Creation Methods
 
-### Method 1: Syllaby.io Thumbnail Generator
+### Method 1: ViralWave Studio Thumbnail Generator
 
 **How It Works**:
 1. Go to Thumbnail Generator
@@ -197,7 +197,7 @@
 ### Method 3: Hybrid Approach
 
 **Process**:
-1. Use [Syllaby.io](https://syllaby.io/?via=chris56) for base
+1. Use [ViralWave Studio](https://viralwavestudio.com) for base
 2. Edit in Canva/Photoshop
 3. Add text, branding
 4. Finalize design
@@ -307,7 +307,7 @@
 
 **Master thumbnail design**:
 
-- [ ] Create 10 thumbnails using [Syllaby.io](https://syllaby.io/?via=chris56)
+- [ ] Create 10 thumbnails using [ViralWave Studio](https://viralwavestudio.com)
 - [ ] Test different text overlays
 - [ ] Experiment with colors
 - [ ] Study top performers in your niche
@@ -326,7 +326,7 @@
 2. **5%+ CTR** = algorithm boost
 3. **Test everything** = find what works
 4. **Brand consistency** = recognition
-5. **Use [Syllaby.io Generator](https://syllaby.io/?via=chris56)** = quick creation
+5. **Use [ViralWave Studio Generator](https://viralwavestudio.com)** = quick creation
 6. **A/B test** = data-driven optimization
 
 ---
@@ -340,7 +340,7 @@
 ## Resources
 
 - [Thumbnail Generator Guide](../../../guides/features/thumbnail-generator.md) - How to use
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start generating thumbnails
+- [ViralWave Studio Platform](https://viralwavestudio.com) - Start generating thumbnails
 - [Best Practices Guide](../../../guides/resources/best-practices.md) - More tips
 
 ---
@@ -349,7 +349,7 @@
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) and start creating click-worthy thumbnails!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) and start creating click-worthy thumbnails!*
 
 
 

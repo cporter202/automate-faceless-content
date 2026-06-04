@@ -9,7 +9,7 @@
 ![Self Paced](https://img.shields.io/badge/Self-Paced-orange?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-All%20Social%20Media-purple?style=for-the-badge)
 
-<a href="https://syllaby.io/?via=chris56"><img src="https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765241465730-Screenshot%202025-12-08%20195046.png?alt=media&token=ad72ea81-d19b-4712-bafb-cad00124e9d2" width="400" alt="Faceless Video Content Guide" /></a>
+<a href="https://viralwavestudio.com"><img src="./assets/viralwave-studio-homepage.png" width="800" alt="ViralWave Studio homepage" /></a>
 
 **The Ultimate Resource for Dominating Social Media with AI-Powered Faceless Videos**
 
@@ -19,11 +19,11 @@ Learn how to automate faceless short-form + long-form video content and dominate
 
 ---
 
-### [🚀 Join Syllaby.io - Start Your Free Trial →](https://syllaby.io/?via=chris56)
+### [🚀 Join ViralWave Studio - Start Your Free Trial →](https://viralwavestudio.com)
 
-**In order to take full advantage of this course and guide, join Syllaby for free!**
+**In order to take full advantage of this course and guide, join ViralWave Studio for free!**
 
-[![Join Syllaby](https://img.shields.io/badge/Join%20Syllaby.io-Start%20Free%20Trial-brightgreen?style=for-the-badge&logo=syllaby)](https://syllaby.io/?via=chris56)
+[![Join ViralWave Studio](https://img.shields.io/badge/Join%20ViralWave%20Studio-Start%20Free%20Trial-brightgreen?style=for-the-badge)](https://viralwavestudio.com)
 
 ---
 
@@ -56,10 +56,10 @@ Learn how to automate faceless short-form + long-form video content and dominate
 - ✅ Create professional videos in 5 minutes
 - ✅ Get monetized on all platforms in 2-3 weeks
 - ✅ Generate $1,000+/month in passive income
-- ✅ Master every [Syllaby.io](https://syllaby.io/?via=chris56) feature
+- ✅ Master every [ViralWave Studio](https://viralwavestudio.com) feature
 - ✅ Build a scalable content business
 
-**[Get Started with the Course →](./course/README.md)** | **[Get Syllaby.io Free Trial →](https://syllaby.io/?via=chris56)**
+**[Get Started with the Course →](./course/README.md)** | **[Get ViralWave Studio Free Trial →](https://viralwavestudio.com)**
 
 ---
 
@@ -77,7 +77,7 @@ Learn how to automate faceless short-form + long-form video content and dominate
 **Jump to any module:**
 - [Module 0: Welcome & Introduction](./course/module-0/README.md)
 - [Module 1: Foundations of Faceless Video](./course/module-1/README.md)
-- [Module 2: Mastering Syllaby.io Features](./course/module-2/README.md)
+- [Module 2: Mastering ViralWave Studio Features](./course/module-2/README.md)
 - [Module 3: Content Creation Strategies](./course/module-3/README.md)
 - [Module 4: Getting Monetized Fast](./course/module-4/README.md)
 - [Module 5: Advanced Revenue Streams](./course/module-5/README.md)
@@ -91,10 +91,10 @@ Learn how to automate faceless short-form + long-form video content and dominate
 **Best for**: Those who prefer to learn at their own pace
 
 1. [Getting Started Guide](./guides/getting-started/introduction.md) - Learn the basics
-2. [Account Setup](./guides/getting-started/account-setup.md) - Create your [Syllaby.io account](https://syllaby.io/?via=chris56)
+2. [Account Setup](./guides/getting-started/account-setup.md) - Create your [ViralWave Studio account](https://viralwavestudio.com)
 3. [Your First Video](./guides/getting-started/your-first-video.md) - Create your first faceless video in 5 minutes
 
-**👉 [Get Your Free Syllaby.io Trial →](https://syllaby.io/?via=chris56)**
+**👉 [Get Your Free ViralWave Studio Trial →](https://viralwavestudio.com)**
 
 ---
 
@@ -102,15 +102,14 @@ Learn how to automate faceless short-form + long-form video content and dominate
 
 **Looking for the best tools to automate your faceless video content creation?**
 
-Check out our comprehensive guide comparing the top tools in the industry:
+Check out the recommended platform for building your faceless content workflow:
 
 **[👉 Best Automating Tools Guide →](./best-automating-tools.md)**
 
-**Featured Tools:**
-1. **ViralWave Studio** - All-in-one AI social media content generator & scheduler
-2. **Syllaby** - Specialized faceless video creation platform
+**Featured Tool:**
+1. **ViralWave Studio** - All-in-one AI social media content generator, faceless video tool, and scheduler
 
-Learn which tool is right for you, or use both for maximum efficiency!
+Use ViralWave Studio to create, repurpose, schedule, and publish content more efficiently.
 
 ---
 
@@ -126,7 +125,7 @@ Essential guides for beginners
 - [Connecting Social Media Accounts](./guides/getting-started/connecting-accounts.md)
 
 ### 🛠️ Core Features
-Master every Syllaby feature
+Master every ViralWave Studio feature
 
 - [Faceless Video Generator - Complete Guide](./guides/features/faceless-video-generator.md)
 - [Video Editing Mastery](./guides/features/video-editing.md)
@@ -266,7 +265,7 @@ Additional resources and support
 
 Ready to automate your faceless video content and dominate social media?
 
-**[👉 Start Your Free Trial at Syllaby.io](https://syllaby.io/?via=chris56)**
+**[👉 Start Your Free Trial at ViralWave Studio](https://viralwavestudio.com)**
 
 No credit card required for the trial. Cancel anytime.
 
@@ -279,14 +278,14 @@ No credit card required for the trial. Cancel anytime.
 ✅ **Monetization**: Get monetized on all major platforms  
 ✅ **Scaling**: Build multiple channels and revenue streams  
 ✅ **Strategies**: Proven tactics from successful creators  
-✅ **Tools**: Master every Syllaby feature  
+✅ **Tools**: Master every ViralWave Studio feature  
 ✅ **Workflows**: Step-by-step processes for every scenario
 
 ---
 
 ## 🏆 Success Stories
 
-- **150,000+ users** have signed up for Syllaby
+- **150,000+ users** have signed up for ViralWave Studio
 - **250,000+ videos** created in the platform
 - Users growing from **10 to 65+ subscribers in days**
 - Videos reaching **1,300-1,500 views** (vs. previous 50-60)
@@ -328,7 +327,7 @@ This guide is designed to help the community. Feel free to contribute improvemen
 
 ## 📄 License
 
-This guide is provided as-is for educational purposes. Syllaby.io is a third-party service with its own terms and conditions.
+This guide is provided as-is for educational purposes. ViralWave Studio is a third-party service with its own terms and conditions.
 
 ---
 

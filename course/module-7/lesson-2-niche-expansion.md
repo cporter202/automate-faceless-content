@@ -64,7 +64,7 @@
 - [ ] Identify expansion opportunity
 - [ ] Create new channel
 - [ ] Plan content strategy
-- [ ] Use [Syllaby.io](https://syllaby.io/?via=chris56) for content
+- [ ] Use [ViralWave Studio](https://viralwavestudio.com) for content
 - [ ] Track performance
 - [ ] Adjust strategy
 
@@ -85,7 +85,7 @@
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to expand into new niches!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) to expand into new niches!*
 
 
 

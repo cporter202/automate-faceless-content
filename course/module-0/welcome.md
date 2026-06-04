@@ -12,7 +12,7 @@
 In this module, you'll:
 - Understand what you'll achieve
 - See real success stories
-- Set up your [Syllaby.io account](https://syllaby.io/?via=chris56)
+- Set up your [ViralWave Studio account](https://viralwavestudio.com)
 - Connect your social media accounts
 - Prepare for success
 
@@ -44,7 +44,7 @@ By the end of this course, you will:
    - Automated content creation
    - Scalable business model
 
-4. **Master Every Syllaby.io Feature**
+4. **Master Every ViralWave Studio Feature**
    - Faceless video generator
    - Bulk scheduler
    - Idea discovery
@@ -59,7 +59,7 @@ By the end of this course, you will:
 
 **Real Results from Real People**:
 
-- **150,000+ users** have signed up for [Syllaby.io](https://syllaby.io/?via=chris56)
+- **150,000+ users** have signed up for [ViralWave Studio](https://viralwavestudio.com)
 - **250,000+ videos** created in the platform
 - Users growing from **10 to 65+ subscribers in days**
 - Videos reaching **1,300-1,500 views** (vs. previous 50-60)
@@ -92,7 +92,7 @@ Traditional video creation is **broken**:
 
 ### The Market Opportunity
 
-- **250,000+ videos** created in Syllaby
+- **250,000+ videos** created in ViralWave Studio
 - **150,000+ users** already succeeding
 - **Growing market** with massive demand
 - **Low competition** in many niches
@@ -115,13 +115,13 @@ Traditional video creation is **broken**:
 ### Real People, Real Results
 
 **Matt Goose Gossett** (@matt_435):
-> "Sunday, I had 10 subs. Today at 65 using Syllaby.io. I cannot thank the team enough! The most views I had prior is 50-60. Now I have videos getting 1,300-1,500! Definitely a game changer!"
+> "Sunday, I had 10 subs. Today at 65 using ViralWave Studio. I cannot thank the team enough! The most views I had prior is 50-60. Now I have videos getting 1,300-1,500! Definitely a game changer!"
 
 **James Douglas** (@james_douglas):
-> "WOW!!! I woke up expecting to work from 6:30am until noon making content... went into Syllaby.io and once again... I had all 4 of my shorts completed by 7:45am, scheduled them out throughout the day and I'm already at the pool with my family. Without A.I. this would've taken me half of the day."
+> "WOW!!! I woke up expecting to work from 6:30am until noon making content... went into ViralWave Studio and once again... I had all 4 of my shorts completed by 7:45am, scheduled them out throughout the day and I'm already at the pool with my family. Without A.I. this would've taken me half of the day."
 
 **Greg Beazley** (@grey_22):
-> "Syllaby is WILD! I just created and scheduled 10 videos to YouTube and TikTok in about 30 minutes!! 🤯"
+> "ViralWave Studio is WILD! I just created and scheduled 10 videos to YouTube and TikTok in about 30 minutes!! 🤯"
 
 **Tim Sackrider** (@tim_5555):
 > "I'm having a blast with this! I started a YouTube channel this afternoon and I'm at 700 views and 3 subscribers!"
@@ -147,11 +147,11 @@ These people started exactly where you are. They:
 
 ---
 
-## Lesson 4: Getting Started with Syllaby.io
+## Lesson 4: Getting Started with ViralWave Studio
 
-### What is Syllaby.io?
+### What is ViralWave Studio?
 
-[Syllaby.io](https://syllaby.io/?via=chris56) is the **only A-to-Z workflow video marketing tool** that handles:
+[ViralWave Studio](https://viralwavestudio.com) is the **only A-to-Z workflow video marketing tool** that handles:
 
 - ✅ **Idea Discovery**: Find viral topics
 - ✅ **AI Script Generation**: Write scripts automatically
@@ -160,7 +160,7 @@ These people started exactly where you are. They:
 - ✅ **Content Scheduling**: Plan months ahead
 - ✅ **Analytics Tracking**: Measure performance
 
-### Why Syllaby.io?
+### Why ViralWave Studio?
 
 **It's the Complete Solution**:
 - No other tool does everything
@@ -194,7 +194,7 @@ These people started exactly where you are. They:
 
 ### Step 1: Create Your Free Trial
 
-**[👉 Click Here to Start Your Free Trial](https://syllaby.io/?via=chris56)**
+**[👉 Click Here to Start Your Free Trial](https://viralwavestudio.com)**
 
 **Why Start Now?**:
 - ✅ **No credit card required** for trial
@@ -255,12 +255,12 @@ Before moving forward, write down:
 
 **Complete These Before Moving to Module 1**:
 
-- [ ] Create your [Syllaby.io account](https://syllaby.io/?via=chris56) (free trial)
+- [ ] Create your [ViralWave Studio account](https://viralwavestudio.com) (free trial)
 - [ ] Explore the dashboard for 10 minutes
 - [ ] Connect at least one social media account (YouTube recommended)
 - [ ] Write down your goals (niche, goals, timeline, why)
 - [ ] Watch at least one success story video
-- [ ] Join the Syllaby community (if available)
+- [ ] Join the ViralWave Studio community (if available)
 
 **Time Required**: 30 minutes
 
@@ -304,7 +304,7 @@ Before moving forward, write down:
 
 - **FAQ**: [Frequently Asked Questions](../../guides/resources/faq.md)
 - **Troubleshooting**: [Troubleshooting Guide](../../guides/resources/troubleshooting.md)
-- **Support**: Contact Syllaby support team
+- **Support**: Contact ViralWave Studio support team
 
 ---
 
@@ -312,7 +312,7 @@ Before moving forward, write down:
 
 ---
 
-*Remember: [Get your Syllaby.io account here](https://syllaby.io/?via=chris56) if you haven't already!*
+*Remember: [Get your ViralWave Studio account here](https://viralwavestudio.com) if you haven't already!*
 
 
 

@@ -36,7 +36,7 @@
 
 **Strategy**: 10 videos/day vs. 1/day
 
-**Using [Syllaby.io Bulk Scheduler](https://syllaby.io/?via=chris56)**:
+**Using [ViralWave Studio Bulk Scheduler](https://viralwavestudio.com)**:
 - Create 300 videos/month
 - Automatic publishing
 - 10x content = 5-10x revenue
@@ -95,7 +95,7 @@
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to scale to $5,000+/month!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) to scale to $5,000+/month!*
 
 
 

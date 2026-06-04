@@ -15,7 +15,7 @@
 - Maximum watch time
 - Works in any niche
 
-**Using [Syllaby.io](https://syllaby.io/?via=chris56)**:
+**Using [ViralWave Studio](https://viralwavestudio.com)**:
 - Create base video
 - Loop in CapCut
 - Add music
@@ -31,7 +31,7 @@
 - Use same character across videos
 - Build brand recognition
 - Professional appearance
-- Unique to [Syllaby.io](https://syllaby.io/?via=chris56)
+- Unique to [ViralWave Studio](https://viralwavestudio.com)
 
 **Result**: 3-5x brand recognition
 
@@ -86,7 +86,7 @@
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to use advanced features!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) to use advanced features!*
 
 
 

@@ -48,7 +48,7 @@
 - ✅ "How to Create Faceless Videos with AI"
 - ❌ "Faceless Videos AI Create How To Tutorial Guide"
 
-**Pro Tip**: Use [Idea Discovery](https://syllaby.io/?via=chris56) to find high-volume keywords.
+**Pro Tip**: Use [Idea Discovery](https://viralwavestudio.com) to find high-volume keywords.
 
 ---
 
@@ -187,7 +187,7 @@
 ### Keyword Research
 
 **How to Research**:
-1. Use [Syllaby.io Idea Discovery](https://syllaby.io/?via=chris56)
+1. Use [ViralWave Studio Idea Discovery](https://viralwavestudio.com)
 2. Check search volume
 3. Analyze competition
 4. Find long-tail keywords
@@ -318,7 +318,7 @@
 **Master title writing**:
 
 - [ ] Write 10 titles using different formulas
-- [ ] Research keywords using [Idea Discovery](https://syllaby.io/?via=chris56)
+- [ ] Research keywords using [Idea Discovery](https://viralwavestudio.com)
 - [ ] Create title templates
 - [ ] Test 3 titles per video (A/B testing)
 - [ ] Study top performers in your niche
@@ -352,7 +352,7 @@
 ## Resources
 
 - [Idea Discovery Guide](../../../guides/features/idea-discovery.md) - Keyword research
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Research keywords
+- [ViralWave Studio Platform](https://viralwavestudio.com) - Research keywords
 - [Best Practices Guide](../../../guides/resources/best-practices.md) - More tips
 
 ---
@@ -361,7 +361,7 @@
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) and use Idea Discovery to find high-volume keywords for your titles!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) and use Idea Discovery to find high-volume keywords for your titles!*
 
 
 

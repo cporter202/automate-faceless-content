@@ -120,7 +120,7 @@ This is the **exact strategy** successful creators use to get monetized in 2-3 w
 **Day 1-2: Setup**
 - [ ] Create YouTube channel
 - [ ] Optimize channel (banner, description, tags)
-- [ ] Connect to [Syllaby.io](https://syllaby.io/?via=chris56)
+- [ ] Connect to [ViralWave Studio](https://viralwavestudio.com)
 - [ ] Create first 5 videos
 - [ ] Set up content calendar
 
@@ -185,7 +185,7 @@ This is the **exact strategy** successful creators use to get monetized in 2-3 w
 - High watch time = more ad revenue
 
 **How to Create**:
-1. Use [Syllaby.io](https://syllaby.io/?via=chris56) to create base video
+1. Use [ViralWave Studio](https://viralwavestudio.com) to create base video
 2. Script: Simple, repetitive (e.g., "Sitting by fireplace")
 3. No subtitles
 4. Download and import to CapCut (free)
@@ -213,7 +213,7 @@ This is the **exact strategy** successful creators use to get monetized in 2-3 w
 **How to Create**:
 1. Choose a topic
 2. Break into 5-10 parts
-3. Create series using [Syllaby.io](https://syllaby.io/?via=chris56)
+3. Create series using [ViralWave Studio](https://viralwavestudio.com)
 4. Link videos together
 5. Create playlist
 
@@ -252,7 +252,7 @@ This is the **exact strategy** successful creators use to get monetized in 2-3 w
 #### 1. Trending Topics
 
 **How to Find**:
-- Use [Syllaby.io's Idea Discovery](https://syllaby.io/?via=chris56)
+- Use [ViralWave Studio's Idea Discovery](https://viralwavestudio.com)
 - Check trending sounds
 - Monitor current events
 - Analyze competitor content
@@ -311,7 +311,7 @@ This is the **exact strategy** successful creators use to get monetized in 2-3 w
 - High CTR: Aim for 5%+ click-through rate
 - Eye-Catching: Stand out in feed
 - Consistent Style: Build brand recognition
-- Use [Syllaby.io's Thumbnail Generator](https://syllaby.io/?via=chris56)
+- Use [ViralWave Studio's Thumbnail Generator](https://viralwavestudio.com)
 
 ---
 
@@ -358,7 +358,7 @@ This is the **exact strategy** successful creators use to get monetized in 2-3 w
 
 **Tools**:
 - YouTube Analytics
-- [Syllaby.io Analytics](https://syllaby.io/?via=chris56)
+- [ViralWave Studio Analytics](https://viralwavestudio.com)
 - Spreadsheet tracking
 
 ---
@@ -380,7 +380,7 @@ This is the **exact strategy** successful creators use to get monetized in 2-3 w
 
 - [ ] Set up YouTube channel (if not done)
 - [ ] Create content calendar for 3 weeks
-- [ ] Create first 5 videos using [Syllaby.io](https://syllaby.io/?via=chris56)
+- [ ] Create first 5 videos using [ViralWave Studio](https://viralwavestudio.com)
 - [ ] Set up tracking spreadsheet
 - [ ] Create U-log video for watch hours
 - [ ] Plan educational series
@@ -410,7 +410,7 @@ This is the **exact strategy** successful creators use to get monetized in 2-3 w
 ## Resources
 
 - [Getting Monetized Fast Guide](../../../guides/monetization/getting-monetized-fast.md) - Complete guide
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start creating content
+- [ViralWave Studio Platform](https://viralwavestudio.com) - Start creating content
 - [YouTube Monetization Guide](../../../guides/monetization/youtube-monetization.md) - Detailed guide
 
 ---
@@ -419,7 +419,7 @@ This is the **exact strategy** successful creators use to get monetized in 2-3 w
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to start creating the content that gets you monetized!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) to start creating the content that gets you monetized!*
 
 
 

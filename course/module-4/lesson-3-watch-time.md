@@ -78,7 +78,7 @@
 - 10 videos = 3,330 hours
 - **Almost at 4,000 hours with just 10 videos**
 
-**Pro Tip**: Use [Syllaby.io](https://syllaby.io/?via=chris56) to create longer content easily.
+**Pro Tip**: Use [ViralWave Studio](https://viralwavestudio.com) to create longer content easily.
 
 ---
 
@@ -134,7 +134,7 @@
 **How to Create**:
 1. Choose a topic
 2. Break into 5-10 parts
-3. Create series using [Syllaby.io](https://syllaby.io/?via=chris56)
+3. Create series using [ViralWave Studio](https://viralwavestudio.com)
 4. Link videos together
 5. Create playlist
 
@@ -161,7 +161,7 @@
 - Minimal effort
 
 **How to Create**:
-1. Use [Syllaby.io](https://syllaby.io/?via=chris56) to create base
+1. Use [ViralWave Studio](https://viralwavestudio.com) to create base
 2. Script: Simple, repetitive (e.g., "Sitting by fireplace")
 3. No subtitles
 4. Download and import to CapCut (free)
@@ -292,7 +292,7 @@
 - Keep viewers engaged
 - Increase sessions
 
-**Pro Tip**: Use [Syllaby.io](https://syllaby.io/?via=chris56) to create series content easily.
+**Pro Tip**: Use [ViralWave Studio](https://viralwavestudio.com) to create series content easily.
 
 ---
 
@@ -442,7 +442,7 @@
 
 - [Getting Monetized Fast Guide](../../../guides/monetization/getting-monetized-fast.md) - Complete strategy
 - [U-Log Workflow Guide](../../../guides/workflows/ulog-workflow.md) - Create watch time content
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start creating watch time content
+- [ViralWave Studio Platform](https://viralwavestudio.com) - Start creating watch time content
 
 ---
 
@@ -450,7 +450,7 @@
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to create the content that gets you to 4,000 watch hours!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) to create the content that gets you to 4,000 watch hours!*
 
 
 

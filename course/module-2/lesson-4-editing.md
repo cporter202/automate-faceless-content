@@ -478,7 +478,7 @@
 ## Resources
 
 - [Video Editing Guide](../../../guides/features/video-editing.md) - Detailed guide
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start editing
+- [ViralWave Studio Platform](https://viralwavestudio.com) - Start editing
 - [Best Practices Guide](../../../guides/resources/best-practices.md) - More tips
 
 ---
@@ -487,7 +487,7 @@
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) and start editing your videos to perfection!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) and start editing your videos to perfection!*
 
 
 

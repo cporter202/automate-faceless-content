@@ -1,13 +1,13 @@
 # Lesson 2: Faceless Video Generator - Complete Mastery
 
 **Duration**: 45 minutes  
-**Goal**: Master the most important feature in Syllaby.io
+**Goal**: Master the most important feature in ViralWave Studio
 
 ---
 
 ## Why This Feature Matters
 
-The Faceless Video Generator is **Syllaby.io's most powerful feature**. It's what 90% of users use daily. Master this, and you've mastered the platform.
+The Faceless Video Generator is **ViralWave Studio's most powerful feature**. It's what 90% of users use daily. Master this, and you've mastered the platform.
 
 **This single feature can**:
 - Create professional videos in 5 minutes
@@ -253,7 +253,7 @@ You have **4 powerful options**:
 **How to Use**:
 1. Click "Audio to Video"
 2. Upload audio file
-3. Syllaby generates visuals
+3. ViralWave Studio generates visuals
 4. Video created automatically
 
 **Pro Tip**: Great for repurposing podcasts or audio content.
@@ -304,7 +304,7 @@ You have **4 powerful options**:
 4. Video appears in "My Videos" section
 
 **After Generation**:
-- Syllaby shows **5 new topic ideas**
+- ViralWave Studio shows **5 new topic ideas**
 - Related to your video topic
 - Click any idea to create next video
 - Seamless content pipeline
@@ -392,7 +392,7 @@ You have **4 powerful options**:
 ## Resources
 
 - [Faceless Video Generator Guide](../../../guides/features/faceless-video-generator.md) - Detailed guide
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start creating
+- [ViralWave Studio Platform](https://viralwavestudio.com) - Start creating
 - [Video Editing Guide](./lesson-4-editing.md) - Next step
 
 ---
@@ -401,7 +401,7 @@ You have **4 powerful options**:
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) and start mastering the Faceless Video Generator today!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) and start mastering the Faceless Video Generator today!*
 
 
 

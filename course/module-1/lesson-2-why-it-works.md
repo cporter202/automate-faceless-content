@@ -48,7 +48,7 @@ Faceless video content isn't just a trend—it's a **fundamental shift** in how 
 ### 1. Low Barriers to Entry
 
 **What You Need**:
-- [Syllaby.io subscription](https://syllaby.io/?via=chris56): $25/month
+- [ViralWave Studio subscription](https://viralwavestudio.com): $25/month
 - Computer or mobile device
 - Internet connection
 - That's it!
@@ -147,7 +147,7 @@ Faceless video content isn't just a trend—it's a **fundamental shift** in how 
 - **Total**: $820-3,050+ upfront + ongoing time
 
 **Faceless Content Creation**:
-- [Syllaby.io](https://syllaby.io/?via=chris56): $25/month
+- [ViralWave Studio](https://viralwavestudio.com): $25/month
 - Time: 5 minutes per video
 - **Total**: $25/month + minimal time
 
@@ -196,7 +196,7 @@ Faceless video content isn't just a trend—it's a **fundamental shift** in how 
 ### Growing Market
 
 **Statistics**:
-- **150,000+ users** on [Syllaby.io](https://syllaby.io/?via=chris56)
+- **150,000+ users** on [ViralWave Studio](https://viralwavestudio.com)
 - **250,000+ videos** created
 - **Growing 30%+ annually**
 - **Early adopter phase**
@@ -407,7 +407,7 @@ Faceless video content isn't just a trend—it's a **fundamental shift** in how 
 
 ## Resources
 
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start your business
+- [ViralWave Studio Platform](https://viralwavestudio.com) - Start your business
 - [Success Stories](../../bonuses/success-stories.md) - See real results
 - [Getting Started Guide](../../../guides/getting-started/introduction.md) - Learn more
 
@@ -417,7 +417,7 @@ Faceless video content isn't just a trend—it's a **fundamental shift** in how 
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) and start building your scalable business today!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) and start building your scalable business today!*
 
 
 

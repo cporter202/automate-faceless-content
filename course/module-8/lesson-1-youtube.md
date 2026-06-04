@@ -46,7 +46,7 @@
 2. **Long-form content** = watch time + revenue
 3. **Shorts** = fast growth
 4. **SEO optimization** = long-term traffic
-5. **Use [Syllaby.io](https://syllaby.io/?via=chris56)** = consistent quality
+5. **Use [ViralWave Studio](https://viralwavestudio.com)** = consistent quality
 
 ---
 
@@ -77,7 +77,7 @@
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to dominate YouTube!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) to dominate YouTube!*
 
 
 

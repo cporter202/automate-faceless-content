@@ -22,7 +22,7 @@ Create your own AI avatar and voice clone for personal branding without being on
 
 **How It Works**:
 - Record in front of green screen
-- Syllaby crops you out cleanly
+- ViralWave Studio crops you out cleanly
 - Overlay any background during editing
 - Studio quality look
 
@@ -50,7 +50,7 @@ Create your own AI avatar and voice clone for personal branding without being on
 
 **How It Works**:
 - Record sample audio
-- Syllaby creates voice clone
+- ViralWave Studio creates voice clone
 - Use in all videos
 - Available on all plans
 
@@ -75,7 +75,7 @@ Create your own AI avatar and voice clone for personal branding without being on
 
 **Options**:
 - Upload pre-recorded audio file
-- Record directly inside Syllaby using built-in voice recorder
+- Record directly inside ViralWave Studio using built-in voice recorder
 
 **Pro Tip**: Record in quiet space for best quality.
 
@@ -183,13 +183,13 @@ Create your own AI avatar and voice clone for personal branding without being on
 
 ## Resources
 
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start cloning your voice
+- [ViralWave Studio Platform](https://viralwavestudio.com) - Start cloning your voice
 - [Brand Building Guide](../strategies/brand-building.md) - Build your brand
 - [Faceless Video Generator Guide](./faceless-video-generator.md) - Complete guide
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to create your voice clone!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) to create your voice clone!*
 
 
 

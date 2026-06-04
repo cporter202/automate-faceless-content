@@ -55,7 +55,7 @@
 
 ### How to Post Daily
 
-**Using [Syllaby.io](https://syllaby.io/?via=chris56)**:
+**Using [ViralWave Studio](https://viralwavestudio.com)**:
 
 **Method 1: Bulk Scheduler**:
 1. Plan month of content
@@ -130,7 +130,7 @@
 - Schedule automatically
 - Daily posting without daily work
 
-**Using [Syllaby.io](https://syllaby.io/?via=chris56)**:
+**Using [ViralWave Studio](https://viralwavestudio.com)**:
 1. Plan 30 topics
 2. Use Bulk Scheduler
 3. Create all videos
@@ -291,7 +291,7 @@
 
 - [Daily Workflow Guide](../../../guides/workflows/daily-workflow.md) - Complete system
 - [Bulk Scheduler Guide](../../../guides/features/bulk-scheduler.md) - Monthly planning
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start daily posting
+- [ViralWave Studio Platform](https://viralwavestudio.com) - Start daily posting
 
 ---
 
@@ -299,7 +299,7 @@
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to implement daily posting effortlessly!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) to implement daily posting effortlessly!*
 
 
 

@@ -46,7 +46,7 @@
 
 **Strategy**: 5+ channels in related niches
 
-**Using [Syllaby.io](https://syllaby.io/?via=chris56)**: Manage all efficiently
+**Using [ViralWave Studio](https://viralwavestudio.com)**: Manage all efficiently
 
 ---
 
@@ -62,7 +62,7 @@
 
 **Strategy**: Automate everything possible
 
-**Using [Syllaby.io](https://syllaby.io/?via=chris56)**: Built-in automation
+**Using [ViralWave Studio](https://viralwavestudio.com)**: Built-in automation
 
 ---
 
@@ -114,7 +114,7 @@
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to build your content empire!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) to build your content empire!*
 
 
 

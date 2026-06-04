@@ -7,7 +7,7 @@
 
 ## Advanced Features Overview
 
-[Syllaby.io](https://syllaby.io/?via=chris56) offers advanced features beyond basic video creation. These features help you create more sophisticated content and scale your business.
+[ViralWave Studio](https://viralwavestudio.com) offers advanced features beyond basic video creation. These features help you create more sophisticated content and scale your business.
 
 ---
 
@@ -23,7 +23,7 @@
 
 **How It Works**:
 1. Paste URL of webpage
-2. Syllaby analyzes page
+2. ViralWave Studio analyzes page
 3. Extracts images and content
 4. Creates video automatically
 
@@ -79,7 +79,7 @@
 
 **How It Works**:
 1. Upload audio file (voiceover, song, podcast)
-2. Syllaby generates visuals
+2. ViralWave Studio generates visuals
 3. Matches audio to visuals
 4. Creates complete video
 
@@ -390,7 +390,7 @@
 
 ## Module 2 Complete! 🎉
 
-**Congratulations!** You've completed Module 2: Mastering Syllaby.io.
+**Congratulations!** You've completed Module 2: Mastering ViralWave Studio.
 
 **What You've Learned**:
 - ✅ Dashboard navigation
@@ -410,7 +410,7 @@
 ## Resources
 
 - [All Feature Guides](../../../guides/features/) - Complete documentation
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Master all features
+- [ViralWave Studio Platform](https://viralwavestudio.com) - Master all features
 - [Best Practices Guide](../../../guides/resources/best-practices.md) - Optimization tips
 
 ---
@@ -419,7 +419,7 @@
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) and master all features to scale your content!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) and master all features to scale your content!*
 
 
 

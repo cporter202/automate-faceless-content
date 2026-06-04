@@ -1,6 +1,6 @@
 # Dashboard Overview
 
-Understanding your Syllaby dashboard is key to efficient content creation.
+Understanding your ViralWave Studio dashboard is key to efficient content creation.
 
 ## Main Dashboard Elements
 

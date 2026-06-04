@@ -34,7 +34,7 @@
 
 **How to Research**:
 
-**1. Use [Syllaby.io's Idea Discovery](https://syllaby.io/?via=chris56)**:
+**1. Use [ViralWave Studio's Idea Discovery](https://viralwavestudio.com)**:
 - Enter your niche keyword
 - Get 10 results with data
 - Check search volume
@@ -193,7 +193,7 @@
 
 ## Research Tools & Resources
 
-### Tool 1: Syllaby.io Idea Discovery
+### Tool 1: ViralWave Studio Idea Discovery
 
 **What It Does**:
 - Real-time data from Google, Instagram, YouTube
@@ -202,7 +202,7 @@
 - Instant creation option
 
 **How to Use**:
-1. Go to Idea Discovery in [Syllaby.io](https://syllaby.io/?via=chris56)
+1. Go to Idea Discovery in [ViralWave Studio](https://viralwavestudio.com)
 2. Enter your niche keyword
 3. Review results and data
 4. Select winning topics
@@ -345,7 +345,7 @@
 
 **Competition Analysis**:
 - ✅ 25 competitors (moderate)
-- ✅ Quality: Can match with [Syllaby.io](https://syllaby.io/?via=chris56)
+- ✅ Quality: Can match with [ViralWave Studio](https://viralwavestudio.com)
 - ✅ Engagement: High (5%+)
 - ✅ Content gaps: Advanced strategies, workflows
 - ✅ Not oversaturated: Room for new creators
@@ -407,7 +407,7 @@
 - [Idea Discovery Guide](../../../guides/features/idea-discovery.md) - How to use
 - [Niche Selection Guide](../../../guides/niches/niche-selection.md) - More strategies
 - [Top Paying Niches](../../../guides/niches/top-paying-niches.md) - CPM rates
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start researching
+- [ViralWave Studio Platform](https://viralwavestudio.com) - Start researching
 
 ---
 
@@ -415,7 +415,7 @@
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) and use Idea Discovery to validate your niche!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) and use Idea Discovery to validate your niche!*
 
 
 

@@ -10,7 +10,7 @@ Proven strategies to grow your audience and scale your content.
 
 **Why**: Algorithm favors consistency
 
-**How**: Use [Syllaby.io Bulk Scheduler](https://syllaby.io/?via=chris56)
+**How**: Use [ViralWave Studio Bulk Scheduler](https://viralwavestudio.com)
 
 **Result**: 5x faster growth
 
@@ -22,7 +22,7 @@ Proven strategies to grow your audience and scale your content.
 
 **How**: Keyword research, optimized content
 
-**Using [Idea Discovery](https://syllaby.io/?via=chris56)**: Research high-volume keywords
+**Using [Idea Discovery](https://viralwavestudio.com)**: Research high-volume keywords
 
 **Result**: Sustainable growth
 
@@ -63,7 +63,7 @@ Proven strategies to grow your audience and scale your content.
 
 **How**: Post to all platforms
 
-**Using [Syllaby.io](https://syllaby.io/?via=chris56)**: One-click publishing
+**Using [ViralWave Studio](https://viralwavestudio.com)**: One-click publishing
 
 **Result**: 2-3x faster growth
 
@@ -114,11 +114,11 @@ Proven strategies to grow your audience and scale your content.
 
 - [Multi-Platform Strategy Guide](./multi-platform.md) - Cross-platform
 - [Content Strategies Guide](./content-strategies.md) - Content planning
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Implement growth strategies
+- [ViralWave Studio Platform](https://viralwavestudio.com) - Implement growth strategies
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to grow faster!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) to grow faster!*
 
 
 

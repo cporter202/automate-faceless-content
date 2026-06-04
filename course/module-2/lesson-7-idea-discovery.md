@@ -305,7 +305,7 @@ Unlike AI-generated ideas, Idea Discovery pulls from **real third-party data**:
 ## Resources
 
 - [Idea Discovery Guide](../../../guides/features/idea-discovery.md) - Detailed guide
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start researching
+- [ViralWave Studio Platform](https://viralwavestudio.com) - Start researching
 - [Content Strategies Guide](../../../guides/strategies/content-strategies.md) - Content planning
 
 ---
@@ -314,7 +314,7 @@ Unlike AI-generated ideas, Idea Discovery pulls from **real third-party data**:
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) and start using Idea Discovery to find content that performs!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) and start using Idea Discovery to find content that performs!*
 
 
 

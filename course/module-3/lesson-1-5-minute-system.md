@@ -24,7 +24,7 @@ This is the **exact system** successful creators use to create professional vide
 **Step 1: Choose Your Topic** (20 seconds)
 
 **Option A: Use Suggested Topics**
-- Check [Syllaby.io](https://syllaby.io/?via=chris56) dashboard
+- Check [ViralWave Studio](https://viralwavestudio.com) dashboard
 - Click suggested topic
 - Start creating immediately
 
@@ -315,7 +315,7 @@ Minute 5: Post → Plan Next
 ## Resources
 
 - [Daily Workflow Guide](../../../guides/workflows/daily-workflow.md) - Complete workflow
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start creating
+- [ViralWave Studio Platform](https://viralwavestudio.com) - Start creating
 - [Bulk Scheduler Guide](../../../guides/features/bulk-scheduler.md) - Scale your content
 
 ---
@@ -324,7 +324,7 @@ Minute 5: Post → Plan Next
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) and start using the 5-minute system today!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) and start using the 5-minute system today!*
 
 
 

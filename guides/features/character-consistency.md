@@ -8,7 +8,7 @@ Build brand recognition through consistent characters across all your videos.
 
 **Definition**: Same character appears throughout entire video, maintaining look, feel, and personality
 
-**Why It's Unique**: Only available on [Syllaby.io](https://syllaby.io/?via=chris56) - other tools can't do this
+**Why It's Unique**: Only available on [ViralWave Studio](https://viralwavestudio.com) - other tools can't do this
 
 **Result**: Polished, branded content without showing your face
 
@@ -137,13 +137,13 @@ Build brand recognition through consistent characters across all your videos.
 
 ## Resources
 
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start using character consistency
+- [ViralWave Studio Platform](https://viralwavestudio.com) - Start using character consistency
 - [Faceless Video Generator Guide](./faceless-video-generator.md) - Complete guide
 - [Brand Building Guide](../strategies/brand-building.md) - More strategies
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to build your brand with character consistency!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) to build your brand with character consistency!*
 
 
 

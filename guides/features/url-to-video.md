@@ -19,7 +19,7 @@ Turn any webpage into a professional video - perfect for affiliate marketers and
 ### The Process
 
 1. Paste URL of webpage
-2. Syllaby analyzes page
+2. ViralWave Studio analyzes page
 3. Extracts images and content
 4. Creates video automatically
 
@@ -151,13 +151,13 @@ Turn any webpage into a professional video - perfect for affiliate marketers and
 
 ## Resources
 
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start using URL to Video
+- [ViralWave Studio Platform](https://viralwavestudio.com) - Start using URL to Video
 - [Affiliate Marketing Guide](../monetization/affiliate-marketing.md) - Complete strategy
 - [Faceless Video Generator Guide](./faceless-video-generator.md) - Complete guide
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to turn any URL into a video!*
+*Remember: [Get your ViralWave Studio account](https://viralwavestudio.com) to turn any URL into a video!*
 
 
 
