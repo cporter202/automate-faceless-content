@@ -1,17 +1,17 @@
 <div align="center">
   <h1>Automate Video with Blotato</h1>
-  <p>
-    <a href="https://github.com/cporter202/automate-faceless-content/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/cporter202/automate-faceless-content?style=flat-square&amp;label=GitHub%20stars&amp;color=8250df" /></a>
-    <a href="#course-roadmap"><img alt="Course roadmap: 7 lessons" src="https://img.shields.io/badge/Course-7%20lessons-8250df?style=flat-square" /></a>
-    <a href="#blotato-skills-for-claude-and-codex"><img alt="2 copyable skills" src="https://img.shields.io/badge/Skills-2%20workflows-8250df?style=flat-square" /></a>
-    <a href="./skills/blotato/project.md"><img alt="Hands-on project" src="https://img.shields.io/badge/Project-Reel%20to%20DM-8250df?style=flat-square" /></a>
-  </p>
   <a href="https://blotato.com/?ref=chrisl9"><img src="./assets/blotato-homepage-screenshot.png" width="960" alt="Blotato homepage showing its social media publishing API and AI agent workflows. Sponsored by Blotato." /></a>
   <p>
     <strong><a href="#course-roadmap">Start the course</a></strong> ·
     <a href="#blotato-skills-for-claude-and-codex">Copy the skills</a> ·
     <a href="./skills/blotato/project.md">Run the project</a> ·
     <a href="https://blotato.com/?ref=chrisl9">Explore Blotato</a>
+  </p>
+  <p>
+    <a href="https://github.com/cporter202/automate-faceless-content/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/cporter202/automate-faceless-content?style=for-the-badge&amp;label=GitHub%20stars&amp;color=8250df" /></a>
+    <a href="#course-roadmap"><img alt="Course roadmap: 7 lessons" src="https://img.shields.io/badge/Course-7%20lessons-8250df?style=for-the-badge" /></a>
+    <a href="#blotato-skills-for-claude-and-codex"><img alt="2 copyable skills" src="https://img.shields.io/badge/Skills-2%20workflows-8250df?style=for-the-badge" /></a>
+    <a href="./skills/blotato/project.md"><img alt="Hands-on project" src="https://img.shields.io/badge/Project-Reel%20to%20DM-8250df?style=for-the-badge" /></a>
   </p>
 </div>
 
