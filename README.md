@@ -24,7 +24,7 @@
 
 **The Ultimate Resource for Dominating Social Media with AI-Powered Faceless Videos**
 
-Learn how to automate faceless short-form + long-form video content and dominate YouTube, TikTok, Facebook & Instagram on autopilot — from idea → script → video → scheduled posts.
+Learn to make faceless videos with ViralWave Studio, then use Blotato from Claude or Codex to schedule an exported clip and set up keyword replies on Instagram.
 
 **Save 70% of your content creation time** while building a scalable content empire.
 
@@ -56,14 +56,20 @@ Learn how to automate faceless short-form + long-form video content and dominate
 
 **Best for** creators who have a finished clip and want to queue it for publishing or deliver a resource link to viewers who ask for it in the comments.
 
-Follow the ViralWave Studio course to create your faceless videos. When your clip is ready, connect Blotato to Claude or Codex to run either workflow:
+### From ViralWave Studio to a scheduled Reel and DM reply
+
+1. **Create the clip in ViralWave Studio.** Follow the [first-video guide](./guides/getting-started/your-first-video.md) and export your finished vertical video as an MP4.
+2. **Schedule the MP4 with Blotato.** Pass the exported file or an accessible video URL to Claude or Codex. Pick your connected Instagram account and a future time with a timezone. If you're inviting viewers to request a resource, include the keyword in the caption.
+3. **Connect the published Reel to a reply.** Once the Reel is live, use the DM skill to create an inactive rule for that Reel. Review the message and link, activate the rule, and test it from a second account.
+
+The exported video is the handoff between ViralWave Studio and Blotato. Start with the combined walkthrough or open either skill below.
 
 | Workflow | What you'll do | Skill |
 | --- | --- | --- |
 | **Schedule your next clip** | Choose a connected account, review the video and caption, and confirm the exact time it appears in the publishing queue. | [Schedule a finished clip →](./skills/blotato/README.md#schedule-a-finished-clip) |
 | **Deliver a resource from a Reel** | Choose a keyword and create a private reply that delivers your guide or resource when someone comments. Preview the rule before turning it on. | [Set up Instagram comment-to-DM →](./skills/blotato/README.md#set-up-instagram-comment-to-dm) |
 
-**[Connect Blotato and open the skills guide →](./skills/blotato/README.md)**
+**[Follow the ViralWave-to-Blotato walkthrough →](./skills/blotato/README.md#from-viralwave-studio-to-blotato)**
 
 ### Watch the Blotato DM automation case study
 
@@ -93,7 +99,7 @@ Follow the ViralWave Studio course to create your faceless videos. When your cli
 
 ## 🚀 Quick Start
 
-**New to faceless video content?** Choose your path:
+**New to faceless video content?** Start with the ViralWave Studio course below. If you already have a clip, jump to the [Blotato publishing and DM workflows](#blotato-publishing-and-dm-workflows).
 
 ### 🎓 Option 1: Complete Course (Recommended)
 **Best for**: Complete beginners who want step-by-step guidance
