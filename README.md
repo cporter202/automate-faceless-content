@@ -69,7 +69,7 @@ Follow the ViralWave Studio course to create your faceless videos. When your cli
 
 <div align="center"><a href="./assets/blotato-dm-case-study.mp4"><img src="https://i.ytimg.com/vi/yBBoh-fRUfY/maxresdefault.jpg" width="960" alt="Watch How I Made $120K with a Simple Instagram DM Strategy on GitHub" /></a></div>
 
-[**Play the MP4 on GitHub**](./assets/blotato-dm-case-study.mp4) · [Original on YouTube](https://www.youtube.com/watch?v=yBBoh-fRUfY)
+[**Download the MP4 from GitHub**](./assets/blotato-dm-case-study.mp4) · [Original on YouTube](https://www.youtube.com/watch?v=yBBoh-fRUfY)
 
 **How I Made $120K with a Simple Instagram DM Strategy** · Shared by the Blotato team
 
