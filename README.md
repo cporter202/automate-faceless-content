@@ -134,10 +134,10 @@ Check out the recommended platform for building your faceless content workflow:
 
 **[👉 Best Automating Tools Guide →](./best-automating-tools.md)**
 
-**Featured Tool:**
-1. **ViralWave Studio** - All-in-one AI social media content generator, faceless video tool, and scheduler
+**Featured Tools**
 
-Use ViralWave Studio to create, repurpose, schedule, and publish content more efficiently.
+1. **ViralWave Studio** — Create, repurpose, and publish faceless videos using the tools covered in this course.
+2. **[Blotato](https://blotato.com/?ref=chrisl9)** — Schedule finished clips and set up keyword-triggered Instagram replies from Claude or Codex. [Try the Blotato workflows →](#blotato-publishing-and-dm-workflows)
 
 ---
 
