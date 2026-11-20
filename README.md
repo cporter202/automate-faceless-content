@@ -38,10 +38,6 @@ Copy a prompt to try it in Claude or Codex, or open the standalone skill file.
 
 **Jump to a chapter** · [4:34 Calendar](https://www.youtube.com/watch?v=o5GsAxEX-Bk&t=274s) · [5:51 Media and visuals](https://www.youtube.com/watch?v=o5GsAxEX-Bk&t=351s) · [9:57 Analytics](https://www.youtube.com/watch?v=o5GsAxEX-Bk&t=597s) · [10:37 DM automation](https://www.youtube.com/watch?v=o5GsAxEX-Bk&t=637s) · [11:59 Assistant setup](https://www.youtube.com/watch?v=o5GsAxEX-Bk&t=719s)
 
-## GitHub star history
-
-[![GitHub Star History for automate-faceless-content](https://api.star-history.com/svg?repos=cporter202/automate-faceless-content&type=Date)](https://star-history.com/#cporter202/automate-faceless-content&Date)
-
 ## Course roadmap
 
 Start with one Reel and one keyword reply. Once that works, extend the workflow to other platforms and automate the handoff from a content sheet.
@@ -150,6 +146,12 @@ Start with a sheet containing one row per destination account. Use columns for c
 | Building a second media format | [Instagram Carousel Machine With n8n, Make, and Blotato](https://www.youtube.com/watch?v=oMiBByDQ6eM) |
 
 Use these as examples of the workflow. Follow the official docs linked in each lesson for current screens, access requirements, and connector fields.
+
+---
+
+## GitHub star history
+
+[![GitHub Star History for automate-faceless-content](https://api.star-history.com/svg?repos=cporter202/automate-faceless-content&type=Date)](https://star-history.com/#cporter202/automate-faceless-content&Date)
 
 ---
 
