@@ -46,15 +46,30 @@ Learn how to automate faceless short-form + long-form video content and dominate
 
 [![GitHub stars](https://img.shields.io/github/stars/cporter202/automate-faceless-content?style=social&label=Star)](https://github.com/cporter202/automate-faceless-content)
 
+</div>
+
 ---
 
-### ☕ If This Repo Has Helped You, Consider Buying Me a Coffee!
+<a name="blotato-publishing-and-dm-workflows"></a>
 
-**Your support keeps me creating valuable repos and keeps everything up to date!**
+## 📅 Blotato Publishing and DM Workflows
 
-<a href="https://buymeacoffee.com/viralwavestudio" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" /></a>
+**Best for** creators who have a finished clip and want to queue it for publishing or deliver a resource link to viewers who ask for it in the comments.
 
-</div>
+Follow the ViralWave Studio course to create your faceless videos. When your clip is ready, connect Blotato to Claude or Codex to run either workflow:
+
+| Workflow | What you'll do | Skill |
+| --- | --- | --- |
+| **Schedule your next clip** | Choose a connected account, review the video and caption, and confirm the exact time it appears in the publishing queue. | [Schedule a finished clip →](./skills/blotato/blotato-schedule-video/SKILL.md) |
+| **Deliver a resource from a Reel** | Choose a keyword and create a private reply that delivers your guide or resource when someone comments. Preview the rule before turning it on. | [Set up Instagram comment-to-DM →](./skills/blotato/blotato-instagram-comment-to-dm/SKILL.md) |
+
+**[Connect Blotato and open the skills guide →](./skills/blotato/README.md)**
+
+### Watch the Blotato DM automation case study
+
+[![Watch How I Made $120K with a Simple Instagram DM Strategy on YouTube](https://i.ytimg.com/vi/yBBoh-fRUfY/hqdefault.jpg)](https://www.youtube.com/watch?v=yBBoh-fRUfY)
+
+**How I Made $120K with a Simple Instagram DM Strategy** · Shared by the Blotato team
 
 ---
 
@@ -121,25 +136,6 @@ Check out the recommended platform for building your faceless content workflow:
 1. **ViralWave Studio** - All-in-one AI social media content generator, faceless video tool, and scheduler
 
 Use ViralWave Studio to create, repurpose, schedule, and publish content more efficiently.
-
----
-
-<a name="blotato-publishing-and-dm-workflows"></a>
-
-## 📅 Blotato Publishing and DM Workflows
-
-**Best for** creators who have a finished clip and want to queue it for publishing or deliver a resource link to viewers who ask for it in the comments.
-
-Follow the ViralWave Studio course to create your faceless videos. When your clip is ready, connect Blotato to Claude or Codex to run either workflow:
-
-| Workflow | What you'll do | Skill |
-| --- | --- | --- |
-| **Schedule your next clip** | Choose a connected account, review the video and caption, and confirm the exact time it appears in the publishing queue. | [Schedule a finished clip →](./skills/blotato/blotato-schedule-video/SKILL.md) |
-| **Deliver a resource from a Reel** | Choose a keyword and create a private reply that delivers your guide or resource when someone comments. Preview the rule before turning it on. | [Set up Instagram comment-to-DM →](./skills/blotato/blotato-instagram-comment-to-dm/SKILL.md) |
-
-**[Connect Blotato and open the skills guide →](./skills/blotato/README.md)**
-
-**Case study:** [How I Made $120K with a Simple Instagram DM Strategy](https://www.youtube.com/watch?v=yBBoh-fRUfY), shared by the Blotato team.
 
 ---
 
