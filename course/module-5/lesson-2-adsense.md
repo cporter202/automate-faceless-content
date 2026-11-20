@@ -335,9 +335,9 @@
 
 ## Resources
 
-- [YouTube Monetization Guide](../../../guides/monetization/youtube-monetization.md) - Complete guide
+- [YouTube Monetization Guide](../../guides/monetization/youtube-monetization.md) - Complete guide
 - [ViralWave Studio Platform](https://viralwavestudio.com) - Create high-retention content
-- [Revenue Streams Guide](../../../guides/monetization/revenue-streams.md) - Multiple income
+- [Revenue Streams Guide](../../guides/monetization/revenue-streams.md) - Multiple income
 
 ---
 

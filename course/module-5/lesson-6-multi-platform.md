@@ -253,8 +253,8 @@
 
 ## Resources
 
-- [Platform Requirements Guide](../../../guides/monetization/platform-requirements.md) - All platforms
-- [Multi-Platform Strategy Guide](../../../guides/strategies/multi-platform.md) - Cross-platform
+- [Platform Requirements Guide](../../guides/monetization/platform-requirements.md) - All platforms
+- [Multi-Platform Strategy Guide](../../guides/strategies/multi-platform.md) - Cross-platform
 - [ViralWave Studio Platform](https://viralwavestudio.com) - Post to all platforms
 
 ---

@@ -39,9 +39,9 @@ By the end of this module, you will have:
 
 ## Resources
 
-- [Faceless Video Generator Guide](../../../guides/features/faceless-video-generator.md)
-- [Bulk Scheduler Guide](../../../guides/features/bulk-scheduler.md)
-- [Video Editing Guide](../../../guides/features/video-editing.md)
+- [Faceless Video Generator Guide](../../guides/features/faceless-video-generator.md)
+- [Bulk Scheduler Guide](../../guides/features/bulk-scheduler.md)
+- [Video Editing Guide](../../guides/features/video-editing.md)
 - [ViralWave Studio Platform](https://viralwavestudio.com)
 
 ---

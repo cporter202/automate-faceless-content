@@ -204,8 +204,8 @@
 
 ## Resources
 
-- [SEO Guide](../../../guides/strategies/seo-strategies.md) - Complete guide
-- [Idea Discovery Guide](../../../guides/features/idea-discovery.md) - Keyword research
+- SEO Guide - Complete guide
+- [Idea Discovery Guide](../../guides/features/idea-discovery.md) - Keyword research
 - [ViralWave Studio Platform](https://viralwavestudio.com) - Research keywords
 
 ---

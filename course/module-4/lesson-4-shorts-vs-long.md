@@ -412,9 +412,9 @@
 
 ## Resources
 
-- [Content Repurposing Guide](../../../guides/workflows/content-repurposing.md) - Repurpose content
+- [Content Repurposing Guide](../../guides/workflows/content-repurposing.md) - Repurpose content
 - [ViralWave Studio Platform](https://viralwavestudio.com) - Create both formats
-- [Multi-Platform Strategy](../../../guides/strategies/multi-platform.md) - Cross-platform
+- [Multi-Platform Strategy](../../guides/strategies/multi-platform.md) - Cross-platform
 
 ---
 

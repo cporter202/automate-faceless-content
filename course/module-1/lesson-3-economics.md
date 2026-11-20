@@ -407,8 +407,8 @@ Understanding the economics of faceless video content is crucial for building a 
 
 ## Resources
 
-- [Top Paying Niches Guide](../../../guides/niches/top-paying-niches.md) - CPM rates by niche
-- [Revenue Streams Guide](../../../guides/monetization/revenue-streams.md) - Multiple income sources
+- [Top Paying Niches Guide](../../guides/niches/top-paying-niches.md) - CPM rates by niche
+- [Revenue Streams Guide](../../guides/monetization/revenue-streams.md) - Multiple income sources
 - [ViralWave Studio Platform](https://viralwavestudio.com) - Start your profitable business
 
 ---

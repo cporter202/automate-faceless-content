@@ -259,7 +259,7 @@ The YouTube Partner Program is how you monetize your YouTube channel. Once appro
 ## Resources
 
 - [YouTube Partner Program](https://www.youtube.com/creators/how-things-work/getting-paid/) - Official requirements
-- [Getting Monetized Fast Guide](../../../guides/monetization/getting-monetized-fast.md) - Complete strategy
+- [Getting Monetized Fast Guide](../../guides/monetization/getting-monetized-fast.md) - Complete strategy
 - [ViralWave Studio Platform](https://viralwavestudio.com) - Start creating content
 
 ---

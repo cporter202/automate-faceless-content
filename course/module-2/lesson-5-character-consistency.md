@@ -332,9 +332,9 @@
 
 ## Resources
 
-- [Character Consistency Guide](../../../guides/features/character-consistency.md) - Detailed guide
+- [Character Consistency Guide](../../guides/features/character-consistency.md) - Detailed guide
 - [ViralWave Studio Platform](https://viralwavestudio.com) - Start using character consistency
-- [Brand Building Guide](../../../guides/strategies/content-strategies.md) - More strategies
+- [Brand Building Guide](../../guides/strategies/content-strategies.md) - More strategies
 
 ---
 

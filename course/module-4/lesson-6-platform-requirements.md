@@ -290,10 +290,10 @@ While YouTube is primary, other platforms offer additional revenue streams. This
 
 ## Resources
 
-- [Platform Requirements Guide](../../../guides/monetization/platform-requirements.md) - Complete guide
-- [TikTok Guide](../../../guides/platforms/tiktok-guide.md) - TikTok strategy
-- [Instagram Guide](../../../guides/platforms/instagram-guide.md) - Instagram strategy
-- [Facebook Guide](../../../guides/platforms/facebook-guide.md) - Facebook strategy
+- [Platform Requirements Guide](../../guides/monetization/platform-requirements.md) - Complete guide
+- [TikTok Guide](../../guides/platforms/tiktok-guide.md) - TikTok strategy
+- [Instagram Guide](../../guides/platforms/instagram-guide.md) - Instagram strategy
+- [Facebook Guide](../../guides/platforms/facebook-guide.md) - Facebook strategy
 - [ViralWave Studio Platform](https://viralwavestudio.com) - Post to all platforms
 
 ---

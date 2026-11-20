@@ -177,9 +177,9 @@
 
 ## Resources
 
-- [Thumbnail Generator Guide](../../../guides/features/thumbnail-generator.md) - Create variations
+- [Thumbnail Generator Guide](../../guides/features/thumbnail-generator.md) - Create variations
 - [ViralWave Studio Platform](https://viralwavestudio.com) - Generate thumbnails
-- [Best Practices Guide](../../../guides/resources/best-practices.md) - More tips
+- Best Practices Guide - More tips
 
 ---
 

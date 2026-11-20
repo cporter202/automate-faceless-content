@@ -39,8 +39,8 @@ By the end of this module, you will have:
 
 ## Resources
 
-- [Revenue Streams Guide](../../../guides/monetization/revenue-streams.md)
-- [Affiliate Marketing Guide](../../../guides/monetization/affiliate-marketing.md)
+- [Revenue Streams Guide](../../guides/monetization/revenue-streams.md)
+- [Affiliate Marketing Guide](../../guides/monetization/affiliate-marketing.md)
 - [ViralWave Studio Platform](https://viralwavestudio.com)
 
 ---

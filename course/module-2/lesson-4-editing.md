@@ -477,9 +477,9 @@
 
 ## Resources
 
-- [Video Editing Guide](../../../guides/features/video-editing.md) - Detailed guide
+- [Video Editing Guide](../../guides/features/video-editing.md) - Detailed guide
 - [ViralWave Studio Platform](https://viralwavestudio.com) - Start editing
-- [Best Practices Guide](../../../guides/resources/best-practices.md) - More tips
+- Best Practices Guide - More tips
 
 ---
 

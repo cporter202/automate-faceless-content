@@ -287,9 +287,9 @@
 
 ## Resources
 
-- [Complete Monetization Guide](../../../guides/monetization/complete-guide.md) - Complete guide
+- [Complete Monetization Guide](../../guides/monetization/complete-guide.md) - Complete guide
 - [ViralWave Studio Platform](https://viralwavestudio.com) - Create content for all revenue streams
-- [Affiliate Marketing Guide](../../../guides/monetization/affiliate-marketing.md) - Detailed strategy
+- [Affiliate Marketing Guide](../../guides/monetization/affiliate-marketing.md) - Detailed strategy
 
 ---
 

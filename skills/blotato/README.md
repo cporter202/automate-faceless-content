@@ -36,7 +36,7 @@ the submission ID and whether it is scheduled.
 
 Check the calendar for the correct clip, account, and exact time. Remove the post before it goes live if it was only a test.
 
-[Open the full SKILL.md](blotato-schedule-video/SKILL.md) · [View raw skill file](https://raw.githubusercontent.com/cporter202/automate-faceless-content/blotato-partner-preview/skills/blotato/blotato-schedule-video/SKILL.md)
+[Open the full SKILL.md](blotato-schedule-video/SKILL.md) · [View raw skill file](blotato-schedule-video/SKILL.md?raw=1)
 
 ## Set up Instagram comment-to-DM
 
@@ -54,6 +54,6 @@ and wait for separate approval before activating it.
 
 After approving activation, comment with the keyword from a second account and check for the private reply. Disable the rule after the test.
 
-[Open the full SKILL.md](blotato-instagram-comment-to-dm/SKILL.md) · [View raw skill file](https://raw.githubusercontent.com/cporter202/automate-faceless-content/blotato-partner-preview/skills/blotato/blotato-instagram-comment-to-dm/SKILL.md)
+[Open the full SKILL.md](blotato-instagram-comment-to-dm/SKILL.md) · [View raw skill file](blotato-instagram-comment-to-dm/SKILL.md?raw=1)
 
 [Run both skills together with the project checklist](./project.md) · [Back to the Blotato course](../../README.md)

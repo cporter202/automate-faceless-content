@@ -409,9 +409,9 @@ This is the **exact strategy** successful creators use to get monetized in 2-3 w
 
 ## Resources
 
-- [Getting Monetized Fast Guide](../../../guides/monetization/getting-monetized-fast.md) - Complete guide
+- [Getting Monetized Fast Guide](../../guides/monetization/getting-monetized-fast.md) - Complete guide
 - [ViralWave Studio Platform](https://viralwavestudio.com) - Start creating content
-- [YouTube Monetization Guide](../../../guides/monetization/youtube-monetization.md) - Detailed guide
+- [YouTube Monetization Guide](../../guides/monetization/youtube-monetization.md) - Detailed guide
 
 ---
 

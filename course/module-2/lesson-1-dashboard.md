@@ -329,9 +329,9 @@ The [ViralWave Studio](https://viralwavestudio.com) dashboard is your command ce
 
 ## Resources
 
-- [Dashboard Overview Guide](../../../guides/getting-started/dashboard-overview.md) - Detailed guide
+- [Dashboard Overview Guide](../../guides/getting-started/dashboard-overview.md) - Detailed guide
 - [ViralWave Studio Platform](https://viralwavestudio.com) - Explore the dashboard
-- [Your First Video Guide](../../../guides/getting-started/your-first-video.md) - Start creating
+- [Your First Video Guide](../../guides/getting-started/your-first-video.md) - Start creating
 
 ---
 

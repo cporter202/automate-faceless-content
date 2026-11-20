@@ -391,7 +391,7 @@ You have **4 powerful options**:
 
 ## Resources
 
-- [Faceless Video Generator Guide](../../../guides/features/faceless-video-generator.md) - Detailed guide
+- [Faceless Video Generator Guide](../../guides/features/faceless-video-generator.md) - Detailed guide
 - [ViralWave Studio Platform](https://viralwavestudio.com) - Start creating
 - [Video Editing Guide](./lesson-4-editing.md) - Next step
 

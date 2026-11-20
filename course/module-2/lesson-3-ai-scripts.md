@@ -354,7 +354,7 @@ A: Yes, if you add them in the CTA section, AI will include them.
 
 - [Faceless Video Generator Guide](./lesson-2-faceless-generator.md) - Complete workflow
 - [ViralWave Studio Platform](https://viralwavestudio.com) - Start generating scripts
-- [Script Writing Guide](../../../guides/resources/best-practices.md) - More tips
+- Script Writing Guide - More tips
 
 ---
 

@@ -39,8 +39,8 @@ By the end of this module, you will have:
 
 ## Resources
 
-- [Growth Strategies Guide](../../../guides/strategies/growth-strategies.md)
-- [Multi-Platform Strategy](../../../guides/strategies/multi-platform.md)
+- [Growth Strategies Guide](../../guides/strategies/growth-strategies.md)
+- [Multi-Platform Strategy](../../guides/strategies/multi-platform.md)
 - [ViralWave Studio Platform](https://viralwavestudio.com)
 
 ---

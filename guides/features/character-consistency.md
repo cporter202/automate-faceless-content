@@ -139,7 +139,7 @@ Build brand recognition through consistent characters across all your videos.
 
 - [ViralWave Studio Platform](https://viralwavestudio.com) - Start using character consistency
 - [Faceless Video Generator Guide](./faceless-video-generator.md) - Complete guide
-- [Brand Building Guide](../strategies/brand-building.md) - More strategies
+- Brand Building Guide - More strategies
 
 ---
 

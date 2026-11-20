@@ -38,8 +38,8 @@ By the end of this module, you will have:
 
 ## Resources
 
-- [Multi-Channel Management](../../../guides/workflows/multi-channel.md)
-- [Advanced Strategies Guide](../../../guides/strategies/success-strategies.md)
+- [Multi-Channel Management](../../guides/workflows/multi-channel.md)
+- [Advanced Strategies Guide](../../guides/strategies/success-strategies.md)
 - [ViralWave Studio Platform](https://viralwavestudio.com)
 
 ---

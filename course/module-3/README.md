@@ -38,8 +38,8 @@ By the end of this module, you will have:
 
 ## Resources
 
-- [Daily Workflow Guide](../../../guides/workflows/daily-workflow.md)
-- [Content Repurposing Guide](../../../guides/workflows/content-repurposing.md)
+- [Daily Workflow Guide](../../guides/workflows/daily-workflow.md)
+- [Content Repurposing Guide](../../guides/workflows/content-repurposing.md)
 - [ViralWave Studio Platform](https://viralwavestudio.com)
 
 ---

@@ -440,8 +440,8 @@
 
 ## Resources
 
-- [Getting Monetized Fast Guide](../../../guides/monetization/getting-monetized-fast.md) - Complete strategy
-- [U-Log Workflow Guide](../../../guides/workflows/ulog-workflow.md) - Create watch time content
+- [Getting Monetized Fast Guide](../../guides/monetization/getting-monetized-fast.md) - Complete strategy
+- [U-Log Workflow Guide](../../guides/workflows/ulog-workflow.md) - Create watch time content
 - [ViralWave Studio Platform](https://viralwavestudio.com) - Start creating watch time content
 
 ---

@@ -38,9 +38,9 @@ By the end of this module, you will have:
 
 ## Resources
 
-- [Best Practices Guide](../../../guides/resources/best-practices.md)
+- Best Practices Guide
 - [ViralWave Studio Platform](https://viralwavestudio.com)
-- [Success Stories](../../bonuses/success-stories.md)
+- Success Stories
 
 ---
 

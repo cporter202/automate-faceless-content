@@ -194,7 +194,7 @@ Use real-time data to find viral topics and create content that performs.
 
 - [ViralWave Studio Platform](https://viralwavestudio.com) - Start researching
 - [Content Strategies Guide](../strategies/content-strategies.md) - Content planning
-- [SEO Guide](../strategies/seo-strategies.md) - SEO optimization
+- SEO Guide - SEO optimization
 
 ---
 

@@ -129,9 +129,9 @@
 
 ## Resources
 
-- [Content Repurposing Guide](../../../guides/workflows/content-repurposing.md) - Complete system
+- [Content Repurposing Guide](../../guides/workflows/content-repurposing.md) - Complete system
 - [ViralWave Studio Platform](https://viralwavestudio.com) - Repurpose content
-- [Multi-Platform Strategy](../../../guides/strategies/multi-platform.md) - Cross-platform
+- [Multi-Platform Strategy](../../guides/strategies/multi-platform.md) - Cross-platform
 
 ---
 

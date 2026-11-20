@@ -289,8 +289,8 @@
 
 ## Resources
 
-- [Daily Workflow Guide](../../../guides/workflows/daily-workflow.md) - Complete system
-- [Bulk Scheduler Guide](../../../guides/features/bulk-scheduler.md) - Monthly planning
+- [Daily Workflow Guide](../../guides/workflows/daily-workflow.md) - Complete system
+- [Bulk Scheduler Guide](../../guides/features/bulk-scheduler.md) - Monthly planning
 - [ViralWave Studio Platform](https://viralwavestudio.com) - Start daily posting
 
 ---

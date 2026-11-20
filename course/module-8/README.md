@@ -38,10 +38,10 @@ By the end of this module, you will have:
 
 ## Resources
 
-- [YouTube Guide](../../../guides/platforms/youtube-guide.md)
-- [TikTok Guide](../../../guides/platforms/tiktok-guide.md)
-- [Instagram Guide](../../../guides/platforms/instagram-guide.md)
-- [Facebook Guide](../../../guides/platforms/facebook-guide.md)
+- [YouTube Guide](../../guides/platforms/youtube-guide.md)
+- [TikTok Guide](../../guides/platforms/tiktok-guide.md)
+- [Instagram Guide](../../guides/platforms/instagram-guide.md)
+- [Facebook Guide](../../guides/platforms/facebook-guide.md)
 - [ViralWave Studio Platform](https://viralwavestudio.com)
 
 ---

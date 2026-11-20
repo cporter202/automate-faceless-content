@@ -377,9 +377,9 @@ For each interest, research:
 
 ## Resources
 
-- [Top Paying Niches Guide](../../../guides/niches/top-paying-niches.md) - Detailed breakdown
+- [Top Paying Niches Guide](../../guides/niches/top-paying-niches.md) - Detailed breakdown
 - [Idea Discovery Feature](https://viralwavestudio.com) - Research demand
-- [Niche Selection Guide](../../../guides/niches/niche-selection.md) - More strategies
+- [Niche Selection Guide](../../guides/niches/niche-selection.md) - More strategies
 
 ---
 

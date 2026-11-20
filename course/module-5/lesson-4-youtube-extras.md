@@ -268,7 +268,7 @@
 
 ## Resources
 
-- [YouTube Monetization Guide](../../../guides/monetization/youtube-monetization.md) - Detailed guide
+- [YouTube Monetization Guide](../../guides/monetization/youtube-monetization.md) - Detailed guide
 - [ViralWave Studio Platform](https://viralwavestudio.com) - Create content that drives revenue
 
 ---

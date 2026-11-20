@@ -184,7 +184,7 @@ Create your own AI avatar and voice clone for personal branding without being on
 ## Resources
 
 - [ViralWave Studio Platform](https://viralwavestudio.com) - Start cloning your voice
-- [Brand Building Guide](../strategies/brand-building.md) - Build your brand
+- Brand Building Guide - Build your brand
 - [Faceless Video Generator Guide](./faceless-video-generator.md) - Complete guide
 
 ---

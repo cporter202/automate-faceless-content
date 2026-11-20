@@ -404,8 +404,8 @@
 
 ## Resources
 
-- [Daily Workflow Guide](../../../guides/workflows/daily-workflow.md) - 5-minute system
-- [Content Strategies Guide](../../../guides/strategies/content-strategies.md) - More strategies
+- [Daily Workflow Guide](../../guides/workflows/daily-workflow.md) - 5-minute system
+- [Content Strategies Guide](../../guides/strategies/content-strategies.md) - More strategies
 - [ViralWave Studio Platform](https://viralwavestudio.com) - Start creating
 
 ---

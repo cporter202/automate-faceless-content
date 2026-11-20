@@ -409,9 +409,9 @@
 
 ## Resources
 
-- [All Feature Guides](../../../guides/features/) - Complete documentation
+- [All Feature Guides](../../guides/features/) - Complete documentation
 - [ViralWave Studio Platform](https://viralwavestudio.com) - Master all features
-- [Best Practices Guide](../../../guides/resources/best-practices.md) - Optimization tips
+- Best Practices Guide - Optimization tips
 
 ---
 

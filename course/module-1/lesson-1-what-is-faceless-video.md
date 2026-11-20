@@ -314,8 +314,8 @@ You can:
 ## Resources
 
 - [ViralWave Studio Platform](https://viralwavestudio.com) - Start creating faceless videos
-- [Success Stories](../../bonuses/success-stories.md) - See real results
-- [Getting Started Guide](../../../guides/getting-started/introduction.md) - Learn more
+- Success Stories - See real results
+- [Getting Started Guide](../../guides/getting-started/introduction.md) - Learn more
 
 ---
 

@@ -303,7 +303,7 @@ Before moving forward, write down:
 ## 🆘 Need Help?
 
 - **FAQ**: [Frequently Asked Questions](../../guides/resources/faq.md)
-- **Troubleshooting**: [Troubleshooting Guide](../../guides/resources/troubleshooting.md)
+- **Troubleshooting**: Troubleshooting Guide
 - **Support**: Contact ViralWave Studio support team
 
 ---

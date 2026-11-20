@@ -305,8 +305,8 @@
 
 ## Resources
 
-- [YouTube Monetization Guide](../../../guides/monetization/youtube-monetization.md) - Detailed guide
-- [Affiliate Marketing Guide](../../../guides/monetization/affiliate-marketing.md) - Complete strategy
+- [YouTube Monetization Guide](../../guides/monetization/youtube-monetization.md) - Detailed guide
+- [Affiliate Marketing Guide](../../guides/monetization/affiliate-marketing.md) - Complete strategy
 - [ViralWave Studio Platform](https://viralwavestudio.com) - Create monetizable content
 
 ---

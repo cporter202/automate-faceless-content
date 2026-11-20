@@ -38,9 +38,9 @@ By the end of this module, you will have:
 
 ## Resources
 
-- [Troubleshooting Guide](../../../guides/resources/troubleshooting.md)
-- [Credit Management Guide](../../../guides/resources/credit-management.md)
-- [FAQ](../../../guides/resources/faq.md)
+- Troubleshooting Guide
+- Credit Management Guide
+- [FAQ](../../guides/resources/faq.md)
 - [ViralWave Studio Platform](https://viralwavestudio.com)
 
 ---

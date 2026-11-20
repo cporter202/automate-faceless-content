@@ -351,9 +351,9 @@
 
 ## Resources
 
-- [Idea Discovery Guide](../../../guides/features/idea-discovery.md) - Keyword research
+- [Idea Discovery Guide](../../guides/features/idea-discovery.md) - Keyword research
 - [ViralWave Studio Platform](https://viralwavestudio.com) - Research keywords
-- [Best Practices Guide](../../../guides/resources/best-practices.md) - More tips
+- Best Practices Guide - More tips
 
 ---
 

@@ -331,7 +331,7 @@
 
 - [AI Script Generation Guide](../module-2/lesson-3-ai-scripts.md) - Detailed guide
 - [ViralWave Studio Platform](https://viralwavestudio.com) - Start generating scripts
-- [Best Practices Guide](../../../guides/resources/best-practices.md) - More tips
+- Best Practices Guide - More tips
 
 ---
 

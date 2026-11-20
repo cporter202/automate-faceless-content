@@ -297,9 +297,9 @@
 
 ## Resources
 
-- [Revenue Streams Guide](../../../guides/monetization/revenue-streams.md) - Complete guide
+- [Revenue Streams Guide](../../guides/monetization/revenue-streams.md) - Complete guide
 - [ViralWave Studio Platform](https://viralwavestudio.com) - Create sponsored content
-- [Community Building Guide](../../../guides/strategies/community-building.md) - Build engaged audience
+- [Community Building Guide](../../guides/strategies/community-building.md) - Build engaged audience
 
 ---
 

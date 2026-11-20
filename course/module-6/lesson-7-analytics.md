@@ -255,9 +255,9 @@
 
 ## Resources
 
-- [Analytics Guide](../../../guides/resources/analytics-guide.md) - Complete guide
+- Analytics Guide - Complete guide
 - [ViralWave Studio Platform](https://viralwavestudio.com) - Create content that performs
-- [Optimization Strategies](../../../guides/strategies/optimization-strategies.md) - More tips
+- Optimization Strategies - More tips
 
 ---
 

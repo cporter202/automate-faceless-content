@@ -408,8 +408,8 @@ Faceless video content isn't just a trend—it's a **fundamental shift** in how 
 ## Resources
 
 - [ViralWave Studio Platform](https://viralwavestudio.com) - Start your business
-- [Success Stories](../../bonuses/success-stories.md) - See real results
-- [Getting Started Guide](../../../guides/getting-started/introduction.md) - Learn more
+- Success Stories - See real results
+- [Getting Started Guide](../../guides/getting-started/introduction.md) - Learn more
 
 ---
 

@@ -187,9 +187,9 @@
 
 ## Resources
 
-- [Community Building Guide](../../../guides/strategies/community-building.md) - Complete guide
+- [Community Building Guide](../../guides/strategies/community-building.md) - Complete guide
 - [ViralWave Studio Platform](https://viralwavestudio.com) - Create engaging content
-- [Engagement Strategies](../../../guides/strategies/engagement-strategies.md) - More tips
+- Engagement Strategies - More tips
 
 ---
 

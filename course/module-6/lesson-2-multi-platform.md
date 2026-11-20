@@ -216,9 +216,9 @@
 
 ## Resources
 
-- [Multi-Platform Strategy Guide](../../../guides/strategies/multi-platform.md) - Complete guide
+- [Multi-Platform Strategy Guide](../../guides/strategies/multi-platform.md) - Complete guide
 - [ViralWave Studio Platform](https://viralwavestudio.com) - Post to all platforms
-- [Cross-Platform Guide](../../../guides/platforms/cross-platform.md) - Optimization
+- [Cross-Platform Guide](../../guides/platforms/cross-platform.md) - Optimization
 
 ---
 

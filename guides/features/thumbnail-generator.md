@@ -174,8 +174,8 @@ Create eye-catching thumbnails that get clicks using AI-powered generation.
 ## Resources
 
 - [ViralWave Studio Platform](https://viralwavestudio.com) - Start generating thumbnails
-- [Thumbnail Design Guide](../strategies/thumbnail-design.md) - Design tips
-- [A/B Testing Guide](../strategies/ab-testing.md) - Testing strategies
+- Thumbnail Design Guide - Design tips
+- A/B Testing Guide - Testing strategies
 
 ---
 

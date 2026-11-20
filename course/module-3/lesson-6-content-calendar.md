@@ -411,8 +411,8 @@
 
 ## Resources
 
-- [Bulk Scheduler Guide](../../../guides/features/bulk-scheduler.md) - Monthly planning
-- [Content Strategies Guide](../../../guides/strategies/content-strategies.md) - Planning strategies
+- [Bulk Scheduler Guide](../../guides/features/bulk-scheduler.md) - Monthly planning
+- [Content Strategies Guide](../../guides/strategies/content-strategies.md) - Planning strategies
 - [ViralWave Studio Platform](https://viralwavestudio.com) - Start planning
 
 ---

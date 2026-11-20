@@ -360,8 +360,8 @@ Getting monetized isn't just about meeting requirements—it's about getting app
 
 ## Resources
 
-- [Getting Monetized Fast Guide](../../../guides/monetization/getting-monetized-fast.md) - Complete strategy
-- [Platform Requirements Guide](../../../guides/monetization/platform-requirements.md) - All platforms
+- [Getting Monetized Fast Guide](../../guides/monetization/getting-monetized-fast.md) - Complete strategy
+- [Platform Requirements Guide](../../guides/monetization/platform-requirements.md) - All platforms
 - [ViralWave Studio Platform](https://viralwavestudio.com) - Create content that gets you approved
 
 ---

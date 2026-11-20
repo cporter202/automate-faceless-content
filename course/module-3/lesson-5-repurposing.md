@@ -354,9 +354,9 @@
 
 ## Resources
 
-- [Content Repurposing Guide](../../../guides/workflows/content-repurposing.md) - Detailed workflow
+- [Content Repurposing Guide](../../guides/workflows/content-repurposing.md) - Detailed workflow
 - [ViralWave Studio Platform](https://viralwavestudio.com) - Create and repurpose content
-- [Multi-Platform Strategy](../../../guides/strategies/multi-platform.md) - Cross-platform promotion
+- [Multi-Platform Strategy](../../guides/strategies/multi-platform.md) - Cross-platform promotion
 
 ---
 

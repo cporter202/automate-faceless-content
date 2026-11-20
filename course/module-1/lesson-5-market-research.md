@@ -404,9 +404,9 @@
 
 ## Resources
 
-- [Idea Discovery Guide](../../../guides/features/idea-discovery.md) - How to use
-- [Niche Selection Guide](../../../guides/niches/niche-selection.md) - More strategies
-- [Top Paying Niches](../../../guides/niches/top-paying-niches.md) - CPM rates
+- [Idea Discovery Guide](../../guides/features/idea-discovery.md) - How to use
+- [Niche Selection Guide](../../guides/niches/niche-selection.md) - More strategies
+- [Top Paying Niches](../../guides/niches/top-paying-niches.md) - CPM rates
 - [ViralWave Studio Platform](https://viralwavestudio.com) - Start researching
 
 ---

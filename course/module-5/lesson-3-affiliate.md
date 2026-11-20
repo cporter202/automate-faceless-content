@@ -366,19 +366,19 @@
 
 ## Next Lesson
 
-**[Lesson 4: Digital Products →](./lesson-4-digital-products.md)**
+**Lesson 4: Digital Products →**
 
 ---
 
 ## Resources
 
-- [Affiliate Marketing Guide](../../../guides/monetization/affiliate-marketing.md) - Complete strategy
+- [Affiliate Marketing Guide](../../guides/monetization/affiliate-marketing.md) - Complete strategy
 - [ViralWave Studio Platform](https://viralwavestudio.com) - Create affiliate content
-- [Revenue Streams Guide](../../../guides/monetization/revenue-streams.md) - Multiple income
+- [Revenue Streams Guide](../../guides/monetization/revenue-streams.md) - Multiple income
 
 ---
 
-**Ready to continue?** [Next Lesson →](./lesson-4-digital-products.md)
+**Ready to continue?** Next Lesson →
 
 ---
 

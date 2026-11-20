@@ -174,7 +174,7 @@ Complete guide to editing your videos in ViralWave Studio for perfect results.
 
 - [ViralWave Studio Platform](https://viralwavestudio.com) - Start editing
 - [Faceless Video Generator Guide](./faceless-video-generator.md) - Complete guide
-- [Best Practices Guide](../resources/best-practices.md) - More tips
+- Best Practices Guide - More tips
 
 ---
 

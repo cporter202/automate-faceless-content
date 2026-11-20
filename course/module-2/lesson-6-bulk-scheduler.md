@@ -323,8 +323,8 @@ A: Bulk scheduler uses one style, but you can create separate batches
 
 ## Resources
 
-- [Bulk Scheduler Guide](../../../guides/features/bulk-scheduler.md) - Detailed guide
-- [Monthly Workflow Guide](../../../guides/workflows/monthly-workflow.md) - Complete process
+- [Bulk Scheduler Guide](../../guides/features/bulk-scheduler.md) - Detailed guide
+- [Monthly Workflow Guide](../../guides/workflows/monthly-workflow.md) - Complete process
 - [ViralWave Studio Platform](https://viralwavestudio.com) - Start bulk scheduling
 
 ---

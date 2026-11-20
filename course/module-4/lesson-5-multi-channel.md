@@ -363,9 +363,9 @@
 
 ## Resources
 
-- [Multi-Channel Management Guide](../../../guides/workflows/multi-channel.md) - Complete guide
+- [Multi-Channel Management Guide](../../guides/workflows/multi-channel.md) - Complete guide
 - [ViralWave Studio Platform](https://viralwavestudio.com) - Manage all channels
-- [Cross-Platform Strategy](../../../guides/platforms/cross-platform.md) - More strategies
+- [Cross-Platform Strategy](../../guides/platforms/cross-platform.md) - More strategies
 
 ---
 

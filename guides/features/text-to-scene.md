@@ -174,7 +174,7 @@ Create ultra-realistic, cinematic videos using advanced AI models.
 ## Resources
 
 - [ViralWave Studio Platform](https://viralwavestudio.com) - Start creating ultra-realistic videos
-- [Credit Management Guide](../resources/credit-management.md) - Manage credits
+- Credit Management Guide - Manage credits
 - [Faceless Video Generator Guide](./faceless-video-generator.md) - Complete guide
 
 ---

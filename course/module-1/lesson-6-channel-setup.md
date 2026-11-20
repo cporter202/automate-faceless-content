@@ -393,8 +393,8 @@ Subscribe for daily content creation tips!
 
 ## Resources
 
-- [Account Setup Guide](../../../guides/getting-started/account-setup.md) - ViralWave Studio setup
-- [Dashboard Overview](../../../guides/getting-started/dashboard-overview.md) - Learn the platform
+- [Account Setup Guide](../../guides/getting-started/account-setup.md) - ViralWave Studio setup
+- [Dashboard Overview](../../guides/getting-started/dashboard-overview.md) - Learn the platform
 - [ViralWave Studio Platform](https://viralwavestudio.com) - Start creating content
 
 ---

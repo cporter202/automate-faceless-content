@@ -339,9 +339,9 @@
 
 ## Resources
 
-- [Thumbnail Generator Guide](../../../guides/features/thumbnail-generator.md) - How to use
+- [Thumbnail Generator Guide](../../guides/features/thumbnail-generator.md) - How to use
 - [ViralWave Studio Platform](https://viralwavestudio.com) - Start generating thumbnails
-- [Best Practices Guide](../../../guides/resources/best-practices.md) - More tips
+- Best Practices Guide - More tips
 
 ---
 

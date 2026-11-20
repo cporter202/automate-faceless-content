@@ -304,9 +304,9 @@ Unlike AI-generated ideas, Idea Discovery pulls from **real third-party data**:
 
 ## Resources
 
-- [Idea Discovery Guide](../../../guides/features/idea-discovery.md) - Detailed guide
+- [Idea Discovery Guide](../../guides/features/idea-discovery.md) - Detailed guide
 - [ViralWave Studio Platform](https://viralwavestudio.com) - Start researching
-- [Content Strategies Guide](../../../guides/strategies/content-strategies.md) - Content planning
+- [Content Strategies Guide](../../guides/strategies/content-strategies.md) - Content planning
 
 ---
 

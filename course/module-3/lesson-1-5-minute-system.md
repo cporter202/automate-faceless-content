@@ -314,9 +314,9 @@ Minute 5: Post → Plan Next
 
 ## Resources
 
-- [Daily Workflow Guide](../../../guides/workflows/daily-workflow.md) - Complete workflow
+- [Daily Workflow Guide](../../guides/workflows/daily-workflow.md) - Complete workflow
 - [ViralWave Studio Platform](https://viralwavestudio.com) - Start creating
-- [Bulk Scheduler Guide](../../../guides/features/bulk-scheduler.md) - Scale your content
+- [Bulk Scheduler Guide](../../guides/features/bulk-scheduler.md) - Scale your content
 
 ---
 
