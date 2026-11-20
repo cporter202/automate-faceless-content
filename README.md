@@ -29,6 +29,8 @@ Both skills include a copyable prompt and a standalone `SKILL.md` file. Run eith
 
 ## Start here: Sabrina’s Blotato walkthrough
 
+[![GitHub stars for this course](https://img.shields.io/github/stars/cporter202/automate-faceless-content?style=social)](https://github.com/cporter202/automate-faceless-content/stargazers)
+
 <div align="center"><a href="https://www.youtube.com/watch?v=o5GsAxEX-Bk"><img src="https://i.ytimg.com/vi/o5GsAxEX-Bk/maxresdefault.jpg" width="960" alt="Watch Sabrina Ramonov's 14-minute Blotato beginner tutorial on YouTube" /></a></div>
 
 Watch the full tutorial or jump straight to [scheduling and the calendar](https://www.youtube.com/watch?v=o5GsAxEX-Bk&t=274s), [media and visuals](https://www.youtube.com/watch?v=o5GsAxEX-Bk&t=351s), [analytics](https://www.youtube.com/watch?v=o5GsAxEX-Bk&t=597s), [DM automation](https://www.youtube.com/watch?v=o5GsAxEX-Bk&t=637s), or [assistant setup](https://www.youtube.com/watch?v=o5GsAxEX-Bk&t=719s).
