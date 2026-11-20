@@ -2,6 +2,16 @@
 
 # 🎬 Complete Guide and Full Learning Course to Automating Faceless Video Content
 
+</div>
+
+<div align="center">
+  <a href="https://blotato.com/?ref=chrisl9"><img src="./assets/blotato-partner-banner.png" width="960" alt="Sponsored by Blotato. Schedule finished clips and set up comment-to-DM workflows from Claude or Codex." /></a>
+  <p><strong>Schedule a finished video or send an Instagram DM when someone comments with your keyword.</strong></p>
+  <p><strong><a href="https://blotato.com/?ref=chrisl9">Explore Blotato →</a></strong> · <a href="./skills/blotato/blotato-schedule-video/SKILL.md">Schedule a clip</a> · <a href="./skills/blotato/blotato-instagram-comment-to-dm/SKILL.md">Set up comment-to-DM</a> · <a href="#blotato-publishing-and-dm-workflows">See how it works</a></p>
+</div>
+
+<div align="center">
+
 
 ### 🏷️ Course Information
 
@@ -111,6 +121,25 @@ Check out the recommended platform for building your faceless content workflow:
 1. **ViralWave Studio** - All-in-one AI social media content generator, faceless video tool, and scheduler
 
 Use ViralWave Studio to create, repurpose, schedule, and publish content more efficiently.
+
+---
+
+<a name="blotato-publishing-and-dm-workflows"></a>
+
+## 📅 Blotato Publishing and DM Workflows
+
+**Best for** creators who have a finished clip and want to queue it for publishing or deliver a resource link to viewers who ask for it in the comments.
+
+Follow the ViralWave Studio course to create your faceless videos. When your clip is ready, connect Blotato to Claude or Codex to run either workflow:
+
+| Workflow | What you'll do | Skill |
+| --- | --- | --- |
+| **Schedule your next clip** | Choose a connected account, review the video and caption, and confirm the exact time it appears in the publishing queue. | [Schedule a finished clip →](./skills/blotato/blotato-schedule-video/SKILL.md) |
+| **Deliver a resource from a Reel** | Choose a keyword and create a private reply that delivers your guide or resource when someone comments. Preview the rule before turning it on. | [Set up Instagram comment-to-DM →](./skills/blotato/blotato-instagram-comment-to-dm/SKILL.md) |
+
+**[Connect Blotato and open the skills guide →](./skills/blotato/README.md)**
+
+**Case study:** [How I Made $120K with a Simple Instagram DM Strategy](https://www.youtube.com/watch?v=yBBoh-fRUfY), shared by the Blotato team.
 
 ---
 
