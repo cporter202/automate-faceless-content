@@ -56,4 +56,4 @@ After approving activation, comment with the keyword from a second account and c
 
 [Open the full SKILL.md](blotato-instagram-comment-to-dm/SKILL.md) · [View raw skill file](https://raw.githubusercontent.com/cporter202/automate-faceless-content/blotato-partner-preview/skills/blotato/blotato-instagram-comment-to-dm/SKILL.md)
 
-[Back to the faceless video guide](../../README.md)
+[Back to the Blotato course](../../README.md)

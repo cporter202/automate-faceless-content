@@ -1,407 +1,103 @@
-<div align="center">
+# Automate Faceless Video with Blotato
 
-# 🎬 Complete Guide and Full Learning Course to Automating Faceless Video Content
-
-</div>
+Make or import a short video, schedule it as an Instagram Reel, and send a resource link when someone comments with your keyword. This course uses Blotato for publishing and DM automation. You can make the clip in Blotato or bring one from your preferred editor.
 
 <div align="center">
   <a href="https://blotato.com/?ref=chrisl9"><img src="./assets/blotato-partner-banner.png" width="960" alt="Sponsored by Blotato. Schedule finished clips and set up comment-to-DM workflows from Claude or Codex." /></a>
   <p><strong>Schedule a finished video or send an Instagram DM when someone comments with your keyword.</strong></p>
-  <p><strong><a href="https://blotato.com/?ref=chrisl9">Explore Blotato →</a></strong> · <a href="./skills/blotato/README.md#schedule-a-finished-clip">Schedule a clip</a> · <a href="./skills/blotato/README.md#set-up-instagram-comment-to-dm">Set up comment-to-DM</a> · <a href="#blotato-publishing-and-dm-workflows">See how it works</a></p>
+  <p><strong><a href="https://blotato.com/?ref=chrisl9">Explore Blotato →</a></strong> · <a href="./skills/blotato/README.md#schedule-a-finished-clip">Schedule a clip</a> · <a href="./skills/blotato/README.md#set-up-instagram-comment-to-dm">Set up comment-to-DM</a> · <a href="#1-connect-blotato">Start the course</a></p>
 </div>
-
-<div align="center">
-
-
-### 🏷️ Course Information
-
-![Modules](https://img.shields.io/badge/Modules-11-blue?style=for-the-badge)
-![Beginner Friendly](https://img.shields.io/badge/Beginner-Friendly-brightgreen?style=for-the-badge)
-![Self Paced](https://img.shields.io/badge/Self-Paced-orange?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-All%20Social%20Media-purple?style=for-the-badge)
-
-<a href="https://viralwavestudio.com"><img src="./assets/viralwave-studio-homepage.png" width="800" alt="ViralWave Studio homepage" /></a>
-
-**The Ultimate Resource for Dominating Social Media with AI-Powered Faceless Videos**
-
-Create or import a clip with Blotato, schedule it, and set up Instagram keyword replies. The original ViralWave Studio course is available below for reference.
-
-**Save 70% of your content creation time** while building a scalable content empire.
-
----
-
-### [🚀 Join ViralWave Studio - Start Your Free Trial →](https://viralwavestudio.com)
-
-**ViralWave Studio's video creation feature is currently paused.**
-
-[![Join ViralWave Studio](https://img.shields.io/badge/Join%20ViralWave%20Studio-Start%20Free%20Trial-brightgreen?style=for-the-badge)](https://viralwavestudio.com)
-
----
-
-### ⭐ If You Find This Course/Guide Helpful, Please Star This Repo! ⭐
-
-**Your star helps others discover this resource and motivates continued improvements!**
-
-[![Star History Chart](https://api.star-history.com/svg?repos=cporter202/automate-faceless-content&type=Date)](https://star-history.com/#cporter202/automate-faceless-content&Date)
-
-[![GitHub stars](https://img.shields.io/github/stars/cporter202/automate-faceless-content?style=social&label=Star)](https://github.com/cporter202/automate-faceless-content)
-
-</div>
-
----
 
 <a name="blotato-publishing-and-dm-workflows"></a>
 
-## 📅 Blotato Publishing and DM Workflows
+## Blotato publishing and DM workflows
 
-**Best for** creators who have a finished clip and want to queue it for publishing or deliver a resource link to viewers who ask for it in the comments.
+Blotato's web app lets you create media, prepare posts, and manage a publishing calendar. Its MCP server lets an assistant such as Claude or Codex use those workflows with your connected accounts. The REST API and integrations are useful when your workflow starts in n8n, Make, or your own application. This course starts with one Instagram test profile and one Reel so you can verify every step. [Blotato feature overview](https://www.blotato.com/social-media-scheduler)
 
-### From a finished clip to a scheduled Reel and DM reply
+## Course roadmap
 
-1. **Make or bring a clip.** Generate a short video in Blotato from a template, or export a vertical MP4 from your preferred editor.
-2. **Schedule the MP4 with Blotato.** Pass the exported file or an accessible video URL to Claude or Codex. Pick your connected Instagram account and a future time with a timezone. If you're inviting viewers to request a resource, include the keyword in the caption.
-3. **Connect the published Reel to a reply.** Once the Reel is live, use the DM skill to create an inactive rule for that Reel. Review the message and link, activate the rule, and test it from a second account.
+| Lesson | What you'll do |
+| --- | --- |
+| [1. Connect Blotato](#1-connect-blotato) | Connect a test Instagram profile and verify it in Claude or Codex. |
+| [2. Create or import a clip](#2-create-or-import-a-clip) | Produce a short vertical video and prepare its caption. |
+| [3. Schedule the Reel](#3-schedule-the-reel) | Queue the clip for an exact future time and verify the result. |
+| [4. Set up a keyword reply](#4-set-up-a-keyword-reply) | Review and test an Instagram comment-to-DM rule. |
+| [5. Repurpose and cross-post](#5-repurpose-and-cross-post) | Adapt the idea and clip for another platform. |
+| [6. Review replies and results](#6-review-replies-and-results) | Use the inbox and post metrics to plan the next clip. |
+| [7. Build a repeatable workflow](#7-build-a-repeatable-workflow) | Use n8n, Make, or the API to queue approved content. |
 
-Use one publishing queue for each clip to avoid duplicate posts. If another scheduler already has the clip in its queue, start with the DM skill once the Reel is published.
+## 1. Connect Blotato
 
-| Workflow | What you'll do | Skill |
-| --- | --- | --- |
-| **Schedule your next clip** | Choose a connected account, review the video and caption, and confirm the exact time it appears in the publishing queue. | [Schedule a finished clip →](./skills/blotato/README.md#schedule-a-finished-clip) |
-| **Deliver a resource from a Reel** | Choose a keyword and create a private reply that delivers your guide or resource when someone comments. Preview the rule before turning it on. | [Set up Instagram comment-to-DM →](./skills/blotato/README.md#set-up-instagram-comment-to-dm) |
+1. Connect an Instagram professional test profile in Blotato. The agent exercises require a Blotato plan with MCP access.
+2. Follow the [Claude setup guide](https://www.blotato.com/claude) or the [Codex setup guide](https://www.blotato.com/codex).
+3. In a new conversation, ask the assistant to list the connected Blotato accounts. Confirm that the profile you intend to use appears before continuing.
+4. Open Blotato's calendar. This is where you'll cross-check the account, time, and queued post after the assistant schedules it. Keep any API key in your connector or automation credential store.
 
-**[Follow the Blotato publishing and DM walkthrough →](./skills/blotato/README.md#from-viralwave-studio-to-blotato)**
+## 2. Create or import a clip
+
+For the course project, make a short vertical clip that teaches one useful idea. For example, show viewers three ways to plan a faceless Reel and offer a link to your checklist.
+
+- **Create in Blotato.** In **Videos → New**, choose a template or **Create Everything with AI Agent**. Describe the scenes, narration, and on-screen text. Review the preview, edit the captions or visuals, and export when ready. AI image and video generation can use credits. [Blotato video creation help](https://help.blotato.com/support/faqs)
+- **Bring your own clip.** Export a vertical MP4 from your preferred editor. Keep the file handy or use a video URL that your assistant can access.
+
+Pick a resource URL you control and a distinctive keyword such as `CLIPGUIDE26`. For this project, use the caption `Comment CLIPGUIDE26 and I'll DM you the faceless video checklist.` Review the clip, caption, and link before scheduling.
+
+## 3. Schedule the Reel
+
+Open the [scheduling skill](./skills/blotato/README.md#schedule-a-finished-clip) and copy its prompt into Claude or Codex. Supply your MP4 or video URL, the test profile, the project caption, and a future date and time with a timezone. Approve the exact account, clip, caption, and schedule.
+
+For a dashboard-only run, add the clip to a draft in **Remix**, select the connected test profile, and use the scheduling option to choose the date and time. Check the calendar before leaving the app. For your first API or agent run, use an explicit time. Blotato's next-open-slot option can publish immediately if there are no slots configured. [Blotato scheduling FAQ](https://help.blotato.com/support/faqs)
+
+**Checkpoint:** Blotato reports the submission as scheduled and the calendar shows the correct clip and time. Let it publish on the test profile if you're continuing to Lesson 4. If you only want to test scheduling, remove it from the queue before it goes live.
+
+## 4. Set up a keyword reply
+
+Once the Reel is live, open the [Instagram comment-to-DM skill](./skills/blotato/README.md#set-up-instagram-comment-to-dm). Supply the published Reel, test profile, same keyword, and your resource URL. Review the trigger scope and message while the rule is inactive. If the Reel can't be selected, approve any account-wide trigger separately and use a dedicated test profile.
+
+**Checkpoint:** After approving activation, comment with the keyword from a second account and confirm the private reply contains the right link. Try an unrelated comment to check that it receives no reply. Disable the rule after the test.
+
+[Open the Blotato skills guide and copy both prompts →](./skills/blotato/README.md)
 
 ### Watch the Blotato DM automation case study
 
 <div align="center"><a href="https://www.youtube.com/watch?v=yBBoh-fRUfY"><img src="https://i.ytimg.com/vi/yBBoh-fRUfY/maxresdefault.jpg" width="960" alt="Watch How I Made $120K with a Simple Instagram DM Strategy on YouTube" /></a></div>
 
-[**Watch on YouTube**](https://www.youtube.com/watch?v=yBBoh-fRUfY)
-
 **How I Made $120K with a Simple Instagram DM Strategy** · Shared by the Blotato team
 
----
+## 5. Repurpose and cross-post
 
-## 🎓 Original ViralWave Studio Course
+1. Start with your own script, article, or video URL. Add it as a source in Remix or ask your connected assistant to use it to draft a post. Review the draft for accuracy and match the language to the destination.
+2. Reuse the finished clip with a platform-specific caption. For example, write an Instagram caption that calls out the DM keyword and a separate TikTok caption with a CTA that works there.
+3. Review each account, media item, and time. In the API, submit one post per destination account and track each submission separately. Confirm the post is queued on each destination before treating the batch as scheduled.
 
-ViralWave Studio video creation is currently paused. The original lessons are available for reference. Use the [Blotato workflows](#blotato-publishing-and-dm-workflows) to create and publish a clip today.
+**Checkpoint:** Two reviewed drafts or queued posts, each tied to the intended account. A draft-only run is enough to complete this lesson.
 
-**[👉 Start The Faceless Video Mastery Course →](./course/README.md)**
+[Blotato cross-platform publishing guide](https://help.blotato.com/blog/post-videos-tiktok-reels-shorts-one-workflow) · [Blotato source and repurposing examples](https://www.blotato.com/codex)
 
-**Transform from Beginner to Profitable Content Creator in 4-6 Weeks**
+## 6. Review replies and results
 
-- ✅ Create professional videos in 5 minutes
-- ✅ Get monetized on all platforms in 2-3 weeks
-- ✅ Generate $1,000+/month in passive income
-- ✅ Master every [ViralWave Studio](https://viralwavestudio.com) feature
-- ✅ Build a scalable content business
+1. Ask Blotato to show recent comments or conversations for your connected Instagram or Facebook account. Draft any response you want to send and review it before posting.
+2. Ask for the Reel's available post metrics and write down its views and comments at a consistent time after publication. Compare posts from the same platform and similar reporting windows. Metrics depend on the destination. Blotato's guide currently lists LinkedIn publishing with no metrics.
+3. In the DM automation view, check triggered, completed, and failed runs. Record what went wrong on any failed test and change one thing for the next clip, such as the caption or keyword.
 
-**[Get Started with the Course →](./course/README.md)** | **[Get ViralWave Studio Free Trial →](https://viralwavestudio.com)**
+**Checkpoint:** One observation from published-post metrics or the test automation and one change to try next.
 
----
+[Blotato inbox and analytics capabilities](https://www.blotato.com/social-media-scheduler) · [DM automation guide](https://www.blotato.com/blog/how-to-sell-dm-automation)
 
-## 🚀 Quick Start
+## 7. Build a repeatable workflow
 
-**Ready to create or publish a clip?** Start with the [Blotato publishing and DM workflows](#blotato-publishing-and-dm-workflows).
+Start with a sheet containing one row per destination account. Use columns for clip URL, caption, account, exact date and time with timezone, approval status, submission ID, and result.
 
-### 🎓 Option 1: Complete Course (Recommended)
-**Best for**: Complete beginners who want step-by-step guidance
+1. Run one approved row through the Blotato action in n8n or your Make/API workflow. Map the row's account and scheduled time to the request.
+2. Save the submission ID back to the row and look up its status. Mark the row scheduled only after Blotato confirms it.
+3. If a run stops after submitting, check the saved ID or the calendar before resubmitting. Once one row works, repeat with a second destination and verify each result separately.
 
-**[👉 Start The Faceless Video Mastery Course →](./course/README.md)**
+**Checkpoint:** One approved row becomes exactly one queued post at the expected time.
 
-**10 Modules | 4-6 Weeks | From Zero to Profitable**
+[Blotato's n8n and Make scheduling walkthrough](https://help.blotato.com/blog/build-social-media-scheduler-n8n-make)
 
-**Jump to any module:**
-- [Module 0: Welcome & Introduction](./course/module-0/README.md)
-- [Module 1: Foundations of Faceless Video](./course/module-1/README.md)
-- [Module 2: Mastering ViralWave Studio Features](./course/module-2/README.md)
-- [Module 3: Content Creation Strategies](./course/module-3/README.md)
-- [Module 4: Getting Monetized Fast](./course/module-4/README.md)
-- [Module 5: Advanced Revenue Streams](./course/module-5/README.md)
-- [Module 6: Growth & Optimization](./course/module-6/README.md)
-- [Module 7: Scaling Your Business](./course/module-7/README.md)
-- [Module 8: Platform Domination](./course/module-8/README.md)
-- [Module 9: Troubleshooting & Advanced Tips](./course/module-9/README.md)
-- [Module 10: Building Your Empire](./course/module-10/README.md)
+## Other tools and archived lessons
 
-### 📚 Option 2: Self-Guided Learning
-**Best for**: Those who prefer to learn at their own pace
+The [original ViralWave Studio course](./course/README.md) and its [reference guides](./guides/) are available here. ViralWave Studio's video creation feature is currently paused, so the creation lessons reflect an earlier version of the product.
 
-1. [Getting Started Guide](./guides/getting-started/introduction.md) - Learn the basics
-2. [Account Setup](./guides/getting-started/account-setup.md) - Create your [ViralWave Studio account](https://viralwavestudio.com)
-3. [Your First Video](./guides/getting-started/your-first-video.md) - Create your first faceless video in 5 minutes
-
-**👉 [Get Your Free ViralWave Studio Trial →](https://viralwavestudio.com)**
-
----
-
-## 🛠️ Best Automating Tools
-
-**Looking for the best tools to automate your faceless video content creation?**
-
-Check out the recommended platform for building your faceless content workflow:
-
-**[👉 Best Automating Tools Guide →](./best-automating-tools.md)**
-
-**Featured Tools**
-
-1. **ViralWave Studio** — The platform covered in the original course. Video creation is currently paused.
-2. **[Blotato](https://blotato.com/?ref=chrisl9)** — Schedule finished clips and set up keyword-triggered Instagram replies from Claude or Codex. [Try the Blotato workflows →](#blotato-publishing-and-dm-workflows)
-
----
-
-## 📚 Complete Guide Structure
-
-### 🎯 Getting Started
-Essential guides for beginners
-
-- [Introduction to Faceless Video Content](./guides/getting-started/introduction.md)
-- [Account Setup & Configuration](./guides/getting-started/account-setup.md)
-- [Dashboard Overview](./guides/getting-started/dashboard-overview.md)
-- [Creating Your First Video](./guides/getting-started/your-first-video.md)
-- [Connecting Social Media Accounts](./guides/getting-started/connecting-accounts.md)
-
-### 🛠️ Core Features
-Master every ViralWave Studio feature
-
-- [Faceless Video Generator - Complete Guide](./guides/features/faceless-video-generator.md)
-- [Video Editing Mastery](./guides/features/video-editing.md)
-- [Character Consistency](./guides/features/character-consistency.md)
-- [Bulk Scheduler - Monthly Content Planning](./guides/features/bulk-scheduler.md)
-- [Idea Discovery - Research-Backed Content](./guides/features/idea-discovery.md)
-- [Thumbnail Generator](./guides/features/thumbnail-generator.md)
-- [Real Clone Feature](./guides/features/real-clone.md)
-- [URL to Video](./guides/features/url-to-video.md)
-- [Audio to Video](./guides/features/audio-to-video.md)
-- [Text to Scene (Ultra-Realistic Videos)](./guides/features/text-to-scene.md)
-
-### 💰 Monetization
-Turn views into revenue
-
-- [Complete Monetization Guide](./guides/monetization/complete-guide.md)
-- [YouTube Monetization](./guides/monetization/youtube-monetization.md)
-- [Platform Requirements](./guides/monetization/platform-requirements.md)
-- [Revenue Streams Explained](./guides/monetization/revenue-streams.md)
-- [Getting Monetized Fast (2-3 Weeks)](./guides/monetization/getting-monetized-fast.md)
-- [Affiliate Marketing Strategy](./guides/monetization/affiliate-marketing.md)
-
-### 🎯 Strategies for Success
-Proven strategies from top creators
-
-- [Success Strategies Overview](./guides/strategies/success-strategies.md)
-- [Content Strategies](./guides/strategies/content-strategies.md)
-- [Growth Strategies](./guides/strategies/growth-strategies.md)
-- [Multi-Platform Domination](./guides/strategies/multi-platform.md)
-- [Content Repurposing System](./guides/workflows/content-repurposing.md)
-- [Community Building](./guides/strategies/community-building.md)
-
-### 💎 Top Paying Niches
-Choose the right niche for maximum earnings
-
-- [Top Paying Niches Guide](./guides/niches/top-paying-niches.md)
-- [Niche Selection Guide](./guides/niches/niche-selection.md)
-- [Finance & Investing Niche](./guides/niches/finance-investing.md)
-- [Health & Wellness Niche](./guides/niches/health-wellness.md)
-- [Technology & Software Niche](./guides/niches/technology.md)
-- [Business & Entrepreneurship](./guides/niches/business.md)
-- [Multi-Niche Strategy](./guides/niches/multi-niche-strategy.md)
-
-### 📱 Platform-Specific Guides
-Master each platform
-
-- [YouTube Complete Guide](./guides/platforms/youtube-guide.md)
-- [TikTok Complete Guide](./guides/platforms/tiktok-guide.md)
-- [Instagram Complete Guide](./guides/platforms/instagram-guide.md)
-- [Facebook Complete Guide](./guides/platforms/facebook-guide.md)
-- [Cross-Platform Strategy](./guides/platforms/cross-platform.md)
-
-### 🔄 Workflows
-Step-by-step workflows for every scenario
-
-- [Daily Content Workflow](./guides/workflows/daily-workflow.md)
-- [Monthly Bulk Workflow](./guides/workflows/monthly-workflow.md)
-- [Content Repurposing Workflow](./guides/workflows/content-repurposing.md)
-- [Affiliate Marketing Workflow](./guides/workflows/affiliate-workflow.md)
-- [U-Log/Ambient Video Workflow](./guides/workflows/ulog-workflow.md)
-- [Multi-Channel Management](./guides/workflows/multi-channel.md)
-
-### 📖 Resources
-Additional resources and support
-
-- [Tools & Integrations](./guides/resources/tools-integrations.md)
-- [ChatGPT Integration Guide](./guides/resources/chatgpt-integration.md)
-- [Frequently Asked Questions](./guides/resources/faq.md)
-- [Troubleshooting Guide](./guides/resources/troubleshooting.md)
-- [Credit Management](./guides/resources/credit-management.md)
-- [Best Practices](./guides/resources/best-practices.md)
-
----
-
-## 🎯 Learning Paths
-
-### Path 1: Complete Beginner (Week 1)
-**Goal**: Create your first video and understand the basics
-
-1. [Introduction](./guides/getting-started/introduction.md)
-2. [Account Setup](./guides/getting-started/account-setup.md)
-3. [Dashboard Overview](./guides/getting-started/dashboard-overview.md)
-4. [Your First Video](./guides/getting-started/your-first-video.md)
-5. [Video Editing Basics](./guides/features/video-editing.md)
-
-### Path 2: Content Creator (Weeks 2-4)
-**Goal**: Build a consistent content pipeline
-
-1. [Faceless Video Generator](./guides/features/faceless-video-generator.md)
-2. [Bulk Scheduler](./guides/features/bulk-scheduler.md)
-3. [Idea Discovery](./guides/features/idea-discovery.md)
-4. [Daily Workflow](./guides/workflows/daily-workflow.md)
-5. [Content Strategies](./guides/strategies/content-strategies.md)
-
-### Path 3: Monetization Focus (Month 2)
-**Goal**: Get monetized and start earning
-
-1. [Top Paying Niches](./guides/niches/top-paying-niches.md)
-2. [Platform Requirements](./guides/monetization/platform-requirements.md)
-3. [Getting Monetized Fast](./guides/monetization/getting-monetized-fast.md)
-4. [YouTube Monetization](./guides/monetization/youtube-monetization.md)
-5. [Revenue Streams](./guides/monetization/revenue-streams.md)
-
-### Path 4: Advanced Scaling (Month 3+)
-**Goal**: Scale to multiple channels and maximize revenue
-
-1. [Multi-Platform Domination](./guides/strategies/multi-platform.md)
-2. [Multi-Channel Management](./guides/workflows/multi-channel.md)
-3. [Content Repurposing](./guides/workflows/content-repurposing.md)
-4. [Advanced Monetization](./guides/monetization/complete-guide.md)
-5. [Community Building](./guides/strategies/community-building.md)
-
----
-
-## ⚡ Quick Reference
-
-### Most Popular Guides
-- [Faceless Video Generator](./guides/features/faceless-video-generator.md) - Most used feature
-- [Getting Monetized Fast](./guides/monetization/getting-monetized-fast.md) - 2-3 week plan
-- [Top Paying Niches](./guides/niches/top-paying-niches.md) - Choose your niche
-- [Daily Workflow](./guides/workflows/daily-workflow.md) - 5-minute content creation
-- [Bulk Scheduler](./guides/features/bulk-scheduler.md) - Monthly content planning
-
-### Essential Workflows
-- [Daily Content Creation](./guides/workflows/daily-workflow.md) - 5 minutes per video
-- [Monthly Bulk Creation](./guides/workflows/monthly-workflow.md) - 2 hours for 60 videos
-- [Content Repurposing](./guides/workflows/content-repurposing.md) - 1 video = 6-11 pieces
-
-### Monetization Guides
-- [Platform Requirements](./guides/monetization/platform-requirements.md) - All platforms
-- [YouTube Monetization](./guides/monetization/youtube-monetization.md) - Complete guide
-- [Revenue Streams](./guides/monetization/revenue-streams.md) - Stack your income
-
----
-
-## 🎁 Get Started Today
-
-Ready to automate your faceless video content and dominate social media?
-
-**[👉 Start Your Free Trial at ViralWave Studio](https://viralwavestudio.com)**
-
-No credit card required for the trial. Cancel anytime.
-
----
-
-## 📊 What You'll Learn
-
-✅ **Content Creation**: Create professional videos in minutes, not hours  
-✅ **Automation**: Schedule months of content in advance  
-✅ **Monetization**: Get monetized on all major platforms  
-✅ **Scaling**: Build multiple channels and revenue streams  
-✅ **Strategies**: Proven tactics from successful creators  
-✅ **Tools**: Master every ViralWave Studio feature  
-✅ **Workflows**: Step-by-step processes for every scenario
-
----
-
-## 🏆 Success Stories
-
-- **150,000+ users** have signed up for ViralWave Studio
-- **250,000+ videos** created in the platform
-- Users growing from **10 to 65+ subscribers in days**
-- Videos reaching **1,300-1,500 views** (vs. previous 50-60)
-- Some creators generating **$19,000+ in 7 days**
-
-[Read more success stories →](./guides/resources/success-stories.md)
-
----
-
-## 📝 Table of Contents by Category
-
-### By Experience Level
-- **Beginner**: [Getting Started Guides](./guides/getting-started/)
-- **Intermediate**: [Feature Guides](./guides/features/) + [Workflow Guides](./guides/workflows/)
-- **Advanced**: [Strategy Guides](./guides/strategies/) + [Monetization Guides](./guides/monetization/)
-
-### By Goal
-- **Learn the Basics**: [Getting Started](./guides/getting-started/)
-- **Master Features**: [Feature Guides](./guides/features/)
-- **Get Monetized**: [Monetization Guides](./guides/monetization/)
-- **Scale Your Business**: [Strategy Guides](./guides/strategies/)
-- **Platform Mastery**: [Platform Guides](./guides/platforms/)
-
-### By Topic
-- **Content Creation**: [Features](./guides/features/) + [Workflows](./guides/workflows/)
-- **Making Money**: [Monetization](./guides/monetization/) + [Niches](./guides/niches/)
-- **Growth**: [Strategies](./guides/strategies/) + [Platforms](./guides/platforms/)
-- **Resources**: [Resources](./guides/resources/)
-
----
-
-## 🤝 Contributing
-
-Found a better workflow or strategy? Have a success story to share?
-
-This guide is designed to help the community. Feel free to contribute improvements!
-
----
-
-## 📄 License
-
-This guide is provided as-is for educational purposes. ViralWave Studio is a third-party service with its own terms and conditions.
-
----
-
-## ⚠️ Disclaimer
-
-This guide contains affiliate links. Using the provided link supports the maintenance of this resource at no extra cost to you.
-
----
-
-**Last Updated**: December 2025
-
-**Version**: 2.0 - Complete Multi-File Guide Structure
-
----
-
-## 📚 More Repos to Follow
-
-**👉 [Check out more amazing repositories →](./more-repos-to-follow/README.md)**
-
----
-
-## 👨‍💻 Follow the Creator
-
-**Follow [Chris Porter](https://www.facebook.com/chris.porter.7731) for daily GitHub repo posts!**
-
-[![Follow Chris Porter](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1764955188913-Screenshot%202025-12-05%20121938.png?alt=media&token=51573aeb-6618-4970-ab10-39e8099d0c23)](https://www.facebook.com/chris.porter.7731)
-
-**[👉 Follow on Facebook →](https://www.facebook.com/chris.porter.7731)**
-
-<!-- AIWITHCHRIS-BANNER-START -->
-<p align="center">
-  <a href="https://aiwithchris.com" target="_blank" rel="noopener">
-    <img src=".github/assets/ai-toolkit-banner.png" alt="Hey, I'm Chris — Work Smarter, Create Faster, Earn More With AI. Join my AI Playbook at aiwithchris.com, $10/month" width="100%">
-  </a>
-</p>
-<p align="center">
-  <a href="https://aiwithchris.com"><strong>🚀 Join my AI Playbook — aiwithchris.com</strong></a><br>
-  $10/month · 3,600+ prompts · agent workflows · repo breakdowns · money ideas
-</p>
-<!-- AIWITHCHRIS-BANNER-END -->
-
+**Disclosure:** Blotato sponsors this placement. The Blotato signup links are referral links.
