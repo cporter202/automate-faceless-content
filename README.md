@@ -67,7 +67,7 @@ Follow the ViralWave Studio course to create your faceless videos. When your cli
 
 ### Watch the Blotato DM automation case study
 
-[![Watch How I Made $120K with a Simple Instagram DM Strategy on YouTube](https://i.ytimg.com/vi/yBBoh-fRUfY/hqdefault.jpg)](https://www.youtube.com/watch?v=yBBoh-fRUfY)
+<div align="center"><a href="https://www.youtube.com/watch?v=yBBoh-fRUfY"><img src="https://i.ytimg.com/vi/yBBoh-fRUfY/maxresdefault.jpg" width="960" alt="Watch How I Made $120K with a Simple Instagram DM Strategy on YouTube" /></a></div>
 
 **How I Made $120K with a Simple Instagram DM Strategy** · Shared by the Blotato team
 
