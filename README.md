@@ -1,4 +1,4 @@
-# Automate Faceless Video with Blotato
+# Automate Video with Blotato
 
 [![GitHub stars](https://img.shields.io/github/stars/cporter202/automate-faceless-content?style=social)](https://github.com/cporter202/automate-faceless-content/stargazers)
 
