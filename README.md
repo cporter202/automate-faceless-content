@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://blotato.com/?ref=chrisl9"><img src="./assets/blotato-partner-banner.png" width="960" alt="Sponsored by Blotato. Schedule finished clips and set up comment-to-DM workflows from Claude or Codex." /></a>
   <p><strong>Schedule a finished video or send an Instagram DM when someone comments with your keyword.</strong></p>
-  <p><strong><a href="https://blotato.com/?ref=chrisl9">Explore Blotato →</a></strong> · <a href="./skills/blotato/blotato-schedule-video/SKILL.md">Schedule a clip</a> · <a href="./skills/blotato/blotato-instagram-comment-to-dm/SKILL.md">Set up comment-to-DM</a> · <a href="#blotato-publishing-and-dm-workflows">See how it works</a></p>
+  <p><strong><a href="https://blotato.com/?ref=chrisl9">Explore Blotato →</a></strong> · <a href="./skills/blotato/README.md#schedule-a-finished-clip">Schedule a clip</a> · <a href="./skills/blotato/README.md#set-up-instagram-comment-to-dm">Set up comment-to-DM</a> · <a href="#blotato-publishing-and-dm-workflows">See how it works</a></p>
 </div>
 
 <div align="center">
@@ -60,8 +60,8 @@ Follow the ViralWave Studio course to create your faceless videos. When your cli
 
 | Workflow | What you'll do | Skill |
 | --- | --- | --- |
-| **Schedule your next clip** | Choose a connected account, review the video and caption, and confirm the exact time it appears in the publishing queue. | [Schedule a finished clip →](./skills/blotato/blotato-schedule-video/SKILL.md) |
-| **Deliver a resource from a Reel** | Choose a keyword and create a private reply that delivers your guide or resource when someone comments. Preview the rule before turning it on. | [Set up Instagram comment-to-DM →](./skills/blotato/blotato-instagram-comment-to-dm/SKILL.md) |
+| **Schedule your next clip** | Choose a connected account, review the video and caption, and confirm the exact time it appears in the publishing queue. | [Schedule a finished clip →](./skills/blotato/README.md#schedule-a-finished-clip) |
+| **Deliver a resource from a Reel** | Choose a keyword and create a private reply that delivers your guide or resource when someone comments. Preview the rule before turning it on. | [Set up Instagram comment-to-DM →](./skills/blotato/README.md#set-up-instagram-comment-to-dm) |
 
 **[Connect Blotato and open the skills guide →](./skills/blotato/README.md)**
 
