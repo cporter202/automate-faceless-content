@@ -14,7 +14,7 @@ Make or import a short video, schedule it as an Instagram Reel, and send a resou
 
 ## Blotato publishing and DM workflows
 
-Blotato's web app lets you create media, prepare posts, and manage a publishing calendar. Its MCP server lets an assistant such as Claude or Codex use those workflows with your connected accounts. The REST API and integrations are useful when your workflow starts in n8n, Make, or your own application. This course starts with one Instagram test profile and one Reel so you can verify every step. [Blotato feature overview](https://www.blotato.com/social-media-scheduler)
+Blotato's web app lets you create media, prepare posts, and manage a publishing calendar. Its MCP server lets an assistant such as Claude or Codex use those workflows with your connected accounts. The REST API and integrations are useful when your workflow starts in n8n, Make, or your own application. This course starts with one Instagram test profile and one Reel so you can verify every step. [Blotato feature overview](https://www.blotato.com/social-media-scheduler?ref=chrisl9)
 
 ## Blotato skills for Claude and Codex
 
@@ -52,7 +52,7 @@ Watch the full tutorial or jump straight to [scheduling and the calendar](https:
 ## 1. Connect Blotato
 
 1. Connect an Instagram professional test profile in Blotato. The agent exercises require a Blotato plan with MCP access.
-2. Follow the [Claude setup guide](https://www.blotato.com/claude) or the [Codex setup guide](https://www.blotato.com/codex).
+2. Follow the [Claude setup guide](https://www.blotato.com/claude?ref=chrisl9) or the [Codex setup guide](https://www.blotato.com/codex?ref=chrisl9).
 3. In a new conversation, ask the assistant to list the connected Blotato accounts. Confirm that the profile you intend to use appears before continuing.
 4. Open Blotato's calendar. This is where you'll cross-check the account, time, and queued post after the assistant schedules it. Keep any API key in your connector or automation credential store.
 
@@ -62,7 +62,7 @@ Watch the full tutorial or jump straight to [scheduling and the calendar](https:
 
 For the course project, make a short vertical clip that teaches one useful idea. For example, show viewers three ways to plan a faceless Reel and offer a link to your checklist.
 
-- **Create in Blotato.** In **Videos → New**, choose a template or **Create Everything with AI Agent**. Describe the scenes, narration, and on-screen text. Review the preview, edit the captions or visuals, and export when ready. AI image and video generation can use credits. [Blotato video creation help](https://help.blotato.com/support/faqs)
+- **Create in Blotato.** In **Videos → New**, choose a template or **Create Everything with AI Agent**. Describe the scenes, narration, and on-screen text. Review the preview, edit the captions or visuals, and export when ready. AI image and video generation can use credits. [Blotato video creation help](https://help.blotato.com/support/faqs?ref=chrisl9)
 - **Bring your own clip.** Export a vertical MP4 from your preferred editor. Keep the file handy or use a video URL that your assistant can access.
 
 **Try this creative brief:** `Create a short vertical faceless Reel teaching three steps for planning a video: pick one viewer question, write a one-sentence hook, and end with one clear action. Use readable captions and end by asking viewers to comment CLIPGUIDE26 for the checklist.`
@@ -73,7 +73,7 @@ Pick a resource URL you control and a distinctive keyword such as `CLIPGUIDE26`.
 
 Open the [scheduling skill](./skills/blotato/README.md#schedule-a-finished-clip) and copy its prompt into Claude or Codex. Supply your MP4 or video URL, the test profile, the project caption, and a future date and time with a timezone. Approve the exact account, clip, caption, and schedule.
 
-For a dashboard-only run, add the clip to a draft in **Remix**, select the connected test profile, and use the scheduling option to choose the date and time. Check the calendar before leaving the app. For your first API or agent run, use an explicit time. Blotato's next-open-slot option can publish immediately if there are no slots configured. [Blotato scheduling FAQ](https://help.blotato.com/support/faqs)
+For a dashboard-only run, add the clip to a draft in **Remix**, select the connected test profile, and use the scheduling option to choose the date and time. Check the calendar before leaving the app. For your first API or agent run, use an explicit time. Set up calendar slots before using the next-open-slot option. This exercise uses an exact time. [Blotato scheduling FAQ](https://help.blotato.com/support/faqs?ref=chrisl9)
 
 **Checkpoint:** Blotato reports the submission as scheduled and the calendar shows the correct clip and time. Let it publish on the test profile if you're continuing to Lesson 4. If you only want to test scheduling, remove it from the queue before it goes live.
 
@@ -101,7 +101,7 @@ Once the Reel is live, open the [Instagram comment-to-DM skill](./skills/blotato
 
 **Checkpoint:** Two reviewed drafts or queued posts, each tied to the intended account. A draft-only run is enough to complete this lesson.
 
-[Blotato cross-platform publishing guide](https://help.blotato.com/blog/post-videos-tiktok-reels-shorts-one-workflow) · [Blotato source and repurposing examples](https://www.blotato.com/codex)
+[Blotato cross-platform publishing guide](https://help.blotato.com/blog/post-videos-tiktok-reels-shorts-one-workflow?ref=chrisl9) · [Blotato source and repurposing examples](https://www.blotato.com/codex?ref=chrisl9)
 
 ## 6. Review replies and results
 
@@ -111,7 +111,7 @@ Once the Reel is live, open the [Instagram comment-to-DM skill](./skills/blotato
 
 **Checkpoint:** One observation from published-post metrics or the test automation and one change to try next.
 
-[Blotato inbox and analytics capabilities](https://www.blotato.com/social-media-scheduler) · [DM automation guide](https://www.blotato.com/blog/how-to-sell-dm-automation)
+[Blotato inbox and analytics capabilities](https://www.blotato.com/social-media-scheduler?ref=chrisl9) · [DM automation guide](https://www.blotato.com/blog/how-to-sell-dm-automation?ref=chrisl9)
 
 ## 7. Build a repeatable workflow
 
@@ -123,7 +123,7 @@ Start with a sheet containing one row per destination account. Use columns for c
 
 **Checkpoint:** One approved row becomes exactly one queued post at the expected time.
 
-[Blotato's n8n and Make scheduling walkthrough](https://help.blotato.com/blog/build-social-media-scheduler-n8n-make)
+[Blotato's n8n and Make scheduling walkthrough](https://help.blotato.com/blog/build-social-media-scheduler-n8n-make?ref=chrisl9)
 
 ## Video examples by lesson
 

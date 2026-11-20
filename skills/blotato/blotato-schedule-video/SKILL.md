@@ -27,4 +27,4 @@ the submission ID and whether it is scheduled.
 4. Use the returned submission ID with `blotato_get_post_status`. Report success when it reads scheduled. If pending, check status before retrying. If failed, report the returned reason.
 5. Confirm the account, clip, and time in the Blotato calendar. Remove the queued post before that time if the clip was for testing only.
 
-[Scheduling docs](https://help.blotato.com/blog/build-social-media-scheduler-n8n-make) · [Blotato MCP guide](https://www.blotato.com/codex)
+[Scheduling docs](https://help.blotato.com/blog/build-social-media-scheduler-n8n-make?ref=chrisl9) · [Blotato MCP guide](https://www.blotato.com/codex?ref=chrisl9)

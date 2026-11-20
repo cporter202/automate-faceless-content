@@ -27,4 +27,4 @@ and wait for separate approval before activating it.
 4. From a second account, comment with the keyword and verify the private reply contains the right resource link. Check Message Requests if needed. Try an unrelated comment to confirm it receives no reply.
 5. Disable the test rule and verify it is inactive.
 
-[Blotato DM walkthrough](https://www.blotato.com/blog/how-to-sell-dm-automation) · [Blotato MCP guide](https://www.blotato.com/codex)
+[Blotato DM walkthrough](https://www.blotato.com/blog/how-to-sell-dm-automation?ref=chrisl9) · [Blotato MCP guide](https://www.blotato.com/codex?ref=chrisl9)

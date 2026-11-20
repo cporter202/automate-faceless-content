@@ -29,4 +29,4 @@ Use an Instagram professional test profile you control. Keep the live test on th
 | Reel is missing from the Blotato picker | Confirm it has published. If the picker still cannot select it, use an account-wide trigger only with approval on a dedicated test profile. |
 | Keyword comment receives no DM | Confirm the rule is active on the right account, check matching and run history, then check the tester’s Message Requests. |
 
-[Back to the Blotato course](../../README.md) · [Official schedule guidance](https://help.blotato.com/blog/build-social-media-scheduler-n8n-make) · [Official DM guidance](https://www.blotato.com/blog/how-to-sell-dm-automation)
+[Back to the Blotato course](../../README.md) · [Official schedule guidance](https://help.blotato.com/blog/build-social-media-scheduler-n8n-make?ref=chrisl9) · [Official DM guidance](https://www.blotato.com/blog/how-to-sell-dm-automation?ref=chrisl9)

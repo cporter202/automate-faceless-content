@@ -3,7 +3,7 @@
 Use Blotato in Claude or Codex to schedule a clip and set up Instagram keyword replies. Start with a video made in Blotato or an MP4 from your preferred editor. Each skill also works independently.
 
 1. Connect a test social profile in Blotato on a plan with MCP access. Use a professional Instagram profile for the DM example.
-2. Follow the [Claude setup guide](https://www.blotato.com/claude) or [Codex setup guide](https://www.blotato.com/codex). Ask your assistant to list your connected accounts and check that the test profile appears.
+2. Open [Blotato](https://blotato.com/?ref=chrisl9), then follow the [Claude setup guide](https://www.blotato.com/claude?ref=chrisl9) or [Codex setup guide](https://www.blotato.com/codex?ref=chrisl9). Ask your assistant to list your connected accounts and check that the test profile appears.
 3. Open a skill and paste its example prompt. If your client supports local skills, you can also load the skill directory and provide the same inputs.
 
 | Skill | What you supply | What you verify |
