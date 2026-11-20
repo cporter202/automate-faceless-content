@@ -24,7 +24,7 @@
 
 **The Ultimate Resource for Dominating Social Media with AI-Powered Faceless Videos**
 
-Explore two ways to automate faceless content: the ViralWave Studio course and a Blotato walkthrough for creating or importing a clip, scheduling it, and setting up Instagram keyword replies.
+Create or import a clip with Blotato, schedule it, and set up Instagram keyword replies. The original ViralWave Studio course is available below for reference.
 
 **Save 70% of your content creation time** while building a scalable content empire.
 
@@ -32,7 +32,7 @@ Explore two ways to automate faceless content: the ViralWave Studio course and a
 
 ### [🚀 Join ViralWave Studio - Start Your Free Trial →](https://viralwavestudio.com)
 
-**In order to take full advantage of this course and guide, join ViralWave Studio for free!**
+**ViralWave Studio's video creation feature is currently paused.**
 
 [![Join ViralWave Studio](https://img.shields.io/badge/Join%20ViralWave%20Studio-Start%20Free%20Trial-brightgreen?style=for-the-badge)](https://viralwavestudio.com)
 
@@ -58,11 +58,11 @@ Explore two ways to automate faceless content: the ViralWave Studio course and a
 
 ### From a finished clip to a scheduled Reel and DM reply
 
-1. **Make or bring a clip.** Generate a short video in Blotato from a template, or export a vertical MP4 from ViralWave Studio or another editor.
+1. **Make or bring a clip.** Generate a short video in Blotato from a template, or export a vertical MP4 from your preferred editor.
 2. **Schedule the MP4 with Blotato.** Pass the exported file or an accessible video URL to Claude or Codex. Pick your connected Instagram account and a future time with a timezone. If you're inviting viewers to request a resource, include the keyword in the caption.
 3. **Connect the published Reel to a reply.** Once the Reel is live, use the DM skill to create an inactive rule for that Reel. Review the message and link, activate the rule, and test it from a second account.
 
-Use one publishing queue for each clip to avoid duplicate posts. If you already scheduled it in ViralWave Studio, start with the DM skill once the Reel is published.
+Use one publishing queue for each clip to avoid duplicate posts. If another scheduler already has the clip in its queue, start with the DM skill once the Reel is published.
 
 | Workflow | What you'll do | Skill |
 | --- | --- | --- |
@@ -81,7 +81,9 @@ Use one publishing queue for each clip to avoid duplicate posts. If you already 
 
 ---
 
-## 🎓 NEW: Complete Course Available!
+## 🎓 Original ViralWave Studio Course
+
+ViralWave Studio video creation is currently paused. The original lessons are available for reference. Use the [Blotato workflows](#blotato-publishing-and-dm-workflows) to create and publish a clip today.
 
 **[👉 Start The Faceless Video Mastery Course →](./course/README.md)**
 
@@ -99,7 +101,7 @@ Use one publishing queue for each clip to avoid duplicate posts. If you already 
 
 ## 🚀 Quick Start
 
-**New to faceless video content?** Start with the ViralWave Studio course below. If you already have a clip, jump to the [Blotato publishing and DM workflows](#blotato-publishing-and-dm-workflows).
+**Ready to create or publish a clip?** Start with the [Blotato publishing and DM workflows](#blotato-publishing-and-dm-workflows).
 
 ### 🎓 Option 1: Complete Course (Recommended)
 **Best for**: Complete beginners who want step-by-step guidance
@@ -142,7 +144,7 @@ Check out the recommended platform for building your faceless content workflow:
 
 **Featured Tools**
 
-1. **ViralWave Studio** — Create, repurpose, and publish faceless videos using the tools covered in this course.
+1. **ViralWave Studio** — The platform covered in the original course. Video creation is currently paused.
 2. **[Blotato](https://blotato.com/?ref=chrisl9)** — Schedule finished clips and set up keyword-triggered Instagram replies from Claude or Codex. [Try the Blotato workflows →](#blotato-publishing-and-dm-workflows)
 
 ---

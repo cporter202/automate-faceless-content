@@ -1,5 +1,7 @@
 # 🎓 The Faceless Video Mastery Course
 
+> **Course availability:** ViralWave Studio video creation is currently paused. Lessons that use it are available for reference. For a current workflow, see the [Blotato guide](../skills/blotato/README.md).
+
 **Transform from Beginner to Profitable Content Creator in 4-6 Weeks**
 
 ---

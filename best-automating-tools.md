@@ -1,5 +1,7 @@
 # Best Tool for Automating Faceless Video Content
 
+> **Course availability:** ViralWave Studio video creation is currently paused. Lessons that use it are available for reference. For a current workflow, see the [Blotato guide](./skills/blotato/README.md).
+
 Automating faceless video content is easiest when your video creation, post generation, scheduling, and publishing workflow lives in one place. This guide now recommends ViralWave Studio as the primary platform for the course.
 
 ---

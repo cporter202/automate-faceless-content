@@ -15,7 +15,7 @@ Use Blotato in Claude or Codex to schedule a clip and set up Instagram keyword r
 
 ## From a finished clip to Blotato
 
-1. Generate and export a short video in Blotato, or bring a vertical MP4 from [ViralWave Studio](../../guides/getting-started/your-first-video.md) or another editor. Choose a resource URL you control and a distinct keyword, such as `CLIPGUIDE26`.
+1. Generate and export a short video in Blotato, or bring a vertical MP4 from your preferred editor. Choose a resource URL you control and a distinct keyword, such as `CLIPGUIDE26`.
 2. Use the scheduling prompt below with your exported clip. If the clip is already queued in another scheduler, skip this step and use the existing Reel once it publishes. For this walkthrough, replace the sample caption with `Comment CLIPGUIDE26 and I'll DM you the faceless video guide.` Use the exact future time you approve and check that the clip is queued.
 3. For an end-to-end test, let the scheduled clip publish on your test account. Open the published Reel and use the DM prompt below with that Reel, the same keyword, and your resource URL.
 4. Review the inactive rule and approve activation. Comment with the keyword from a second account, verify the DM and link, then disable the rule after your test.
