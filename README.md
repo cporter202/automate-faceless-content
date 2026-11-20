@@ -1,5 +1,7 @@
 # Automate Faceless Video with Blotato
 
+[![GitHub stars](https://img.shields.io/github/stars/cporter202/automate-faceless-content?style=social)](https://github.com/cporter202/automate-faceless-content/stargazers)
+
 Make or import a short video, schedule it as an Instagram Reel, and send a resource link when someone comments with your keyword. This course uses Blotato for publishing and DM automation. You can make the clip in Blotato or bring one from your preferred editor.
 
 <div align="center">
@@ -13,6 +15,17 @@ Make or import a short video, schedule it as an Instagram Reel, and send a resou
 ## Blotato publishing and DM workflows
 
 Blotato's web app lets you create media, prepare posts, and manage a publishing calendar. Its MCP server lets an assistant such as Claude or Codex use those workflows with your connected accounts. The REST API and integrations are useful when your workflow starts in n8n, Make, or your own application. This course starts with one Instagram test profile and one Reel so you can verify every step. [Blotato feature overview](https://www.blotato.com/social-media-scheduler)
+
+## Blotato skills for Claude and Codex
+
+Both skills include a copyable prompt and a standalone `SKILL.md` file. Run either one on its own or follow the [full Reel-to-DM project](./skills/blotato/project.md).
+
+| Skill | What you’ll verify | Open it |
+| --- | --- | --- |
+| **Schedule a Reel** | The right clip, account, caption, and exact time appear in Blotato’s queue. | [Copy the prompt](./skills/blotato/README.md#schedule-a-finished-clip) · [SKILL.md](./skills/blotato/blotato-schedule-video/SKILL.md) |
+| **Set up Instagram comment-to-DM** | A test comment with your keyword receives the intended private reply after you approve activation. | [Copy the prompt](./skills/blotato/README.md#set-up-instagram-comment-to-dm) · [SKILL.md](./skills/blotato/blotato-instagram-comment-to-dm/SKILL.md) |
+
+**[Open the skills folder and setup guide →](./skills/blotato/README.md)**
 
 ## Start here: Sabrina’s Blotato walkthrough
 
