@@ -1,6 +1,6 @@
 # Blotato skills for faceless video creators
 
-Create your clip in ViralWave Studio, then use Blotato in Claude or Codex to handle scheduling and Instagram keyword replies. You can also run either skill on its own with an existing clip or Reel.
+Use Blotato in Claude or Codex to schedule a clip and set up Instagram keyword replies. Start with a video made in Blotato or an MP4 from your preferred editor. Each skill also works independently.
 
 1. Connect a test social profile in Blotato on a plan with MCP access. Use a professional Instagram profile for the DM example.
 2. Follow the [Claude setup guide](https://www.blotato.com/claude) or [Codex setup guide](https://www.blotato.com/codex). Ask your assistant to list your connected accounts and check that the test profile appears.
@@ -11,10 +11,12 @@ Create your clip in ViralWave Studio, then use Blotato in Claude or Codex to han
 | [Schedule a finished clip](#schedule-a-finished-clip) | A test account, a short video, and a future time with timezone | The right clip appears in the calendar at that time |
 | [Set up an Instagram comment-to-DM](#set-up-instagram-comment-to-dm) | A professional Instagram test account, a test Reel, and a resource URL | A matching comment gets the intended private reply |
 
-## From ViralWave Studio to Blotato
+<a name="from-viralwave-studio-to-blotato"></a>
 
-1. Follow the [ViralWave first-video guide](../../guides/getting-started/your-first-video.md) to make a short vertical video and export it as an MP4. Choose a resource URL you control and a distinct keyword, such as `CLIPGUIDE26`.
-2. Use the scheduling prompt below with your exported clip. For this walkthrough, replace the sample caption with `Comment CLIPGUIDE26 and I'll DM you the faceless video guide.` Use the exact future time you approve and check that the clip is queued.
+## From a finished clip to Blotato
+
+1. Generate and export a short video in Blotato, or bring a vertical MP4 from [ViralWave Studio](../../guides/getting-started/your-first-video.md) or another editor. Choose a resource URL you control and a distinct keyword, such as `CLIPGUIDE26`.
+2. Use the scheduling prompt below with your exported clip. If the clip is already queued in another scheduler, skip this step and use the existing Reel once it publishes. For this walkthrough, replace the sample caption with `Comment CLIPGUIDE26 and I'll DM you the faceless video guide.` Use the exact future time you approve and check that the clip is queued.
 3. For an end-to-end test, let the scheduled clip publish on your test account. Open the published Reel and use the DM prompt below with that Reel, the same keyword, and your resource URL.
 4. Review the inactive rule and approve activation. Comment with the keyword from a second account, verify the DM and link, then disable the rule after your test.
 

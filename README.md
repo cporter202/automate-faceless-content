@@ -24,7 +24,7 @@
 
 **The Ultimate Resource for Dominating Social Media with AI-Powered Faceless Videos**
 
-Learn to make faceless videos with ViralWave Studio, then use Blotato from Claude or Codex to schedule an exported clip and set up keyword replies on Instagram.
+Explore two ways to automate faceless content: the ViralWave Studio course and a Blotato walkthrough for creating or importing a clip, scheduling it, and setting up Instagram keyword replies.
 
 **Save 70% of your content creation time** while building a scalable content empire.
 
@@ -56,26 +56,26 @@ Learn to make faceless videos with ViralWave Studio, then use Blotato from Claud
 
 **Best for** creators who have a finished clip and want to queue it for publishing or deliver a resource link to viewers who ask for it in the comments.
 
-### From ViralWave Studio to a scheduled Reel and DM reply
+### From a finished clip to a scheduled Reel and DM reply
 
-1. **Create the clip in ViralWave Studio.** Follow the [first-video guide](./guides/getting-started/your-first-video.md) and export your finished vertical video as an MP4.
+1. **Make or bring a clip.** Generate a short video in Blotato from a template, or export a vertical MP4 from ViralWave Studio or another editor.
 2. **Schedule the MP4 with Blotato.** Pass the exported file or an accessible video URL to Claude or Codex. Pick your connected Instagram account and a future time with a timezone. If you're inviting viewers to request a resource, include the keyword in the caption.
 3. **Connect the published Reel to a reply.** Once the Reel is live, use the DM skill to create an inactive rule for that Reel. Review the message and link, activate the rule, and test it from a second account.
 
-The exported video is the handoff between ViralWave Studio and Blotato. Start with the combined walkthrough or open either skill below.
+Use one publishing queue for each clip to avoid duplicate posts. If you already scheduled it in ViralWave Studio, start with the DM skill once the Reel is published.
 
 | Workflow | What you'll do | Skill |
 | --- | --- | --- |
 | **Schedule your next clip** | Choose a connected account, review the video and caption, and confirm the exact time it appears in the publishing queue. | [Schedule a finished clip →](./skills/blotato/README.md#schedule-a-finished-clip) |
 | **Deliver a resource from a Reel** | Choose a keyword and create a private reply that delivers your guide or resource when someone comments. Preview the rule before turning it on. | [Set up Instagram comment-to-DM →](./skills/blotato/README.md#set-up-instagram-comment-to-dm) |
 
-**[Follow the ViralWave-to-Blotato walkthrough →](./skills/blotato/README.md#from-viralwave-studio-to-blotato)**
+**[Follow the Blotato publishing and DM walkthrough →](./skills/blotato/README.md#from-viralwave-studio-to-blotato)**
 
 ### Watch the Blotato DM automation case study
 
-<div align="center"><a href="./assets/blotato-dm-case-study.mp4"><img src="https://i.ytimg.com/vi/yBBoh-fRUfY/maxresdefault.jpg" width="960" alt="Watch How I Made $120K with a Simple Instagram DM Strategy on GitHub" /></a></div>
+<div align="center"><a href="https://www.youtube.com/watch?v=yBBoh-fRUfY"><img src="https://i.ytimg.com/vi/yBBoh-fRUfY/maxresdefault.jpg" width="960" alt="Watch How I Made $120K with a Simple Instagram DM Strategy on YouTube" /></a></div>
 
-[**Download the MP4 from GitHub**](./assets/blotato-dm-case-study.mp4) · [Original on YouTube](https://www.youtube.com/watch?v=yBBoh-fRUfY)
+[**Watch on YouTube**](https://www.youtube.com/watch?v=yBBoh-fRUfY)
 
 **How I Made $120K with a Simple Instagram DM Strategy** · Shared by the Blotato team
 
