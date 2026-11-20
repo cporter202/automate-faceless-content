@@ -1,24 +1,30 @@
-# Automate Video with Blotato
-
-[![GitHub stars](https://img.shields.io/github/stars/cporter202/automate-faceless-content?style=social)](https://github.com/cporter202/automate-faceless-content/stargazers)
-
-Make or import a short video, schedule it as an Instagram Reel, and send a resource link when someone comments with your keyword. This course uses Blotato for publishing and DM automation. You can make the clip in Blotato or bring one from your preferred editor.
-
 <div align="center">
+  <h1>Automate Video with Blotato</h1>
+  <p><strong>Make a clip. Schedule it as a Reel. Send a resource when someone comments with your keyword.</strong></p>
+  <p>
+    <a href="https://github.com/cporter202/automate-faceless-content/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/cporter202/automate-faceless-content?style=flat-square&amp;label=GitHub%20stars&amp;color=8250df" /></a>
+    <a href="#course-roadmap"><img alt="Course roadmap: 7 lessons" src="https://img.shields.io/badge/Course-7%20lessons-8250df?style=flat-square" /></a>
+    <a href="#blotato-skills-for-claude-and-codex"><img alt="2 copyable skills" src="https://img.shields.io/badge/Skills-2%20workflows-8250df?style=flat-square" /></a>
+    <a href="./skills/blotato/project.md"><img alt="Hands-on project" src="https://img.shields.io/badge/Project-Reel%20to%20DM-8250df?style=flat-square" /></a>
+  </p>
   <a href="https://blotato.com/?ref=chrisl9"><img src="./assets/blotato-partner-banner.png" width="960" alt="Sponsored by Blotato. Schedule finished clips and set up comment-to-DM workflows from Claude or Codex." /></a>
-  <p><strong>Schedule a finished video or send an Instagram DM when someone comments with your keyword.</strong></p>
-  <p><strong><a href="https://blotato.com/?ref=chrisl9">Explore Blotato →</a></strong> · <a href="./skills/blotato/README.md#schedule-a-finished-clip">Schedule a clip</a> · <a href="./skills/blotato/README.md#set-up-instagram-comment-to-dm">Set up comment-to-DM</a> · <a href="#1-connect-blotato">Start the course</a></p>
+  <p>
+    <strong><a href="#1-connect-blotato">Start the course</a></strong> ·
+    <a href="./skills/blotato/README.md#schedule-a-finished-clip">Schedule a Reel</a> ·
+    <a href="./skills/blotato/README.md#set-up-instagram-comment-to-dm">Set up comment-to-DM</a> ·
+    <a href="https://blotato.com/?ref=chrisl9">Explore Blotato</a>
+  </p>
 </div>
 
 <a name="blotato-publishing-and-dm-workflows"></a>
 
 ## Blotato publishing and DM workflows
 
-Blotato's web app lets you create media, prepare posts, and manage a publishing calendar. Its MCP server lets an assistant such as Claude or Codex use those workflows with your connected accounts. The REST API and integrations are useful when your workflow starts in n8n, Make, or your own application. This course starts with one Instagram test profile and one Reel so you can verify every step. [Blotato feature overview](https://www.blotato.com/social-media-scheduler?ref=chrisl9)
+Use Blotato’s web app to create media and manage the calendar, or connect Claude or Codex to run the publishing and DM workflows from a chat. The final lesson shows how to move the same workflow into n8n, Make, or your own application. [Blotato feature overview](https://www.blotato.com/social-media-scheduler?ref=chrisl9)
 
 ## Blotato skills for Claude and Codex
 
-Both skills include a copyable prompt and a standalone `SKILL.md` file. Run either one on its own or follow the [full Reel-to-DM project](./skills/blotato/project.md).
+Copy a prompt to try it in Claude or Codex, or open the standalone skill file.
 
 | Skill | What you’ll verify | Open it |
 | --- | --- | --- |
@@ -73,7 +79,7 @@ Pick a resource URL you control and a distinctive keyword such as `CLIPGUIDE26`.
 
 Open the [scheduling skill](./skills/blotato/README.md#schedule-a-finished-clip) and copy its prompt into Claude or Codex. Supply your MP4 or video URL, the test profile, the project caption, and a future date and time with a timezone. Approve the exact account, clip, caption, and schedule.
 
-For a dashboard-only run, add the clip to a draft in **Remix**, select the connected test profile, and use the scheduling option to choose the date and time. Check the calendar before leaving the app. For your first API or agent run, use an explicit time. Set up calendar slots before using the next-open-slot option. This exercise uses an exact time. [Blotato scheduling FAQ](https://help.blotato.com/support/faqs?ref=chrisl9)
+For a dashboard-only run, add the clip to a draft in **Remix**, select the connected test profile, and use the scheduling option to choose the date and time. Check the calendar before leaving the app. For this exercise, use an exact time. Set up calendar slots before using the next-open-slot option. [Blotato scheduling FAQ](https://help.blotato.com/support/faqs?ref=chrisl9)
 
 **Checkpoint:** Blotato reports the submission as scheduled and the calendar shows the correct clip and time. Let it publish on the test profile if you're continuing to Lesson 4. If you only want to test scheduling, remove it from the queue before it goes live.
 
