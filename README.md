@@ -6,7 +6,7 @@
     <a href="#blotato-skills-for-claude-and-codex"><img alt="2 copyable skills" src="https://img.shields.io/badge/Skills-2%20workflows-8250df?style=flat-square" /></a>
     <a href="./skills/blotato/project.md"><img alt="Hands-on project" src="https://img.shields.io/badge/Project-Reel%20to%20DM-8250df?style=flat-square" /></a>
   </p>
-  <a href="https://blotato.com/?ref=chrisl9"><img src="./assets/blotato-partner-banner.png" width="960" alt="Automate Video with Blotato. Create or import a vertical clip, schedule it as a Reel, then reply by DM when someone comments your keyword. Sponsored by Blotato." /></a>
+  <a href="https://blotato.com/?ref=chrisl9"><img src="./assets/blotato-partner-banner.png" width="960" alt="Blotato homepage showing its social media publishing API and AI agent workflows. Sponsored by Blotato." /></a>
   <p>
     <strong><a href="#course-roadmap">Start the course</a></strong> ·
     <a href="#blotato-skills-for-claude-and-codex">Copy the skills</a> ·
