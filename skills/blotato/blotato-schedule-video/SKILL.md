@@ -14,8 +14,9 @@ URL, and a future date and time with timezone. Use this caption:
 "Behind the scenes of my faceless video workflow."
 
 Show me the selected account, video, caption, and exact time with timezone.
-Wait for me to confirm. Then schedule the clip and report the submission ID
-and whether the clip is queued.
+Wait for me to confirm. Schedule for that exact future time. If Blotato
+cannot use that time, stop. Check the submission status before reporting
+the submission ID and whether it is scheduled.
 ```
 
 ## Run and verify

@@ -13,7 +13,8 @@ account. Ask me for my handle, the published test Reel, and the URL of a
 resource I control. Use CLIPGUIDE26 as the keyword. Send this private
 reply followed by my URL: "Thanks for asking! Here's the faceless video guide."
 
-Show me the account, trigger scope, keyword, and complete message.
+Target only the test Reel. If it cannot be selected, ask before using
+an account-wide trigger. Show me the account, scope, keyword, and message.
 After I confirm, create the automation inactive. Give me the automation ID
 and wait for separate approval before activating it.
 ```

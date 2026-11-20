@@ -20,8 +20,9 @@ URL, and a future date and time with timezone. Use this caption:
 "Behind the scenes of my faceless video workflow."
 
 Show me the selected account, video, caption, and exact time with timezone.
-Wait for me to confirm. Then schedule the clip and report the submission ID
-and whether the clip is queued.
+Wait for me to confirm. Schedule for that exact future time. If Blotato
+cannot use that time, stop. Check the submission status before reporting
+the submission ID and whether it is scheduled.
 ```
 
 Check the calendar for the correct clip, account, and exact time. Remove the post before it goes live if it was only a test.
@@ -36,7 +37,8 @@ account. Ask me for my handle, the published test Reel, and the URL of a
 resource I control. Use CLIPGUIDE26 as the keyword. Send this private
 reply followed by my URL: "Thanks for asking! Here's the faceless video guide."
 
-Show me the account, trigger scope, keyword, and complete message.
+Target only the test Reel. If it cannot be selected, ask before using
+an account-wide trigger. Show me the account, scope, keyword, and message.
 After I confirm, create the automation inactive. Give me the automation ID
 and wait for separate approval before activating it.
 ```
